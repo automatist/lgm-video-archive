@@ -1,0 +1,27 @@
+[submodule "htdocs-2006-static"]
+	path = htdocs-2006-static
+	url = git@github.com:automatist/htdocs-2006-static.git
+[submodule "htdocs-2007-static"]
+	path = htdocs-2007-static
+	url = git@github.com:automatist/htdocs-2007-static.git
+[submodule "htdocs-2008-static"]
+	path = htdocs-2008-static
+	url = git@github.com:automatist/htdocs-2008-static.git
+[submodule "htdocs-2009-static"]
+	path = htdocs-2009-static
+	url = git@github.com:automatist/htdocs-2009-static.git
+[submodule "htdocs-2010-static"]
+	path = htdocs-2010-static
+	url = git@github.com:automatist/htdocs-2010-static.git
+[submodule "htdocs-2011-static"]
+	path = htdocs-2011-static
+	url = git@github.com:automatist/htdocs-2011-static.git
+[submodule "htdocs-2012-static"]
+	path = htdocs-2012-static
+	url = git@github.com:automatist/htdocs-2012-static.git
+[submodule "htdocs-2013-static"]
+	path = htdocs-2013-static
+	url = git@github.com:automatist/htdocs-2013-static.git
+[submodule "htdocs-2014-static"]
+	path = htdocs-2014-static
+	url = git@github.com:automatist/htdocs-2014-static.git
