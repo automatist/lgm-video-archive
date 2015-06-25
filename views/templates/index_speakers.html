@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Libre Graphics Meeting: Video Archive (titles)</title>
+	<title>Libre Graphics Meeting: Video Archive (speakers)</title>
 	<meta charset="utf-8" />
 	<link rel="stylesheet" href="index.css" />
 </head>
@@ -14,11 +14,11 @@
 </div>
 <ol>
 {% for item in items %}
-<li>{{item.forms[0]}}</li>
+<li><a href="/terms/{{item.term|wikify}}.html">{{item.forms[0]}}</a></li>
 	<ul>
-		{% for d in item.docs %}
-		<li>{{ d.properties.title[0] }}</li>
-		{% endfor %}
+	{% for d in item.docs %}
+	<li>{{ d.properties.title[0] }}</li>
+	{% endfor %}
 	</ul>
 {% endfor %}
 </ol>

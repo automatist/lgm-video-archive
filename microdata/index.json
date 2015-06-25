@@ -2,30 +2,6 @@
   "terms": [
     {
       "forms": [
-        ""
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Sarup  Banskota", 
-              "Emily Dirsh", 
-              ""
-            ], 
-            "title": [
-              "GlitterGallery: Taking the designer's office online"
-            ]
-          }
-        }
-      ], 
-      "term": "", 
-      "roles": [
-        "presenter"
-      ]
-    }, 
-    {
-      "forms": [
         "(Development of tools for) present-day type design based historic patterns"
       ], 
       "docs": [
@@ -1246,8 +1222,7 @@
           "properties": {
             "presenter": [
               "Sarup  Banskota", 
-              "Emily Dirsh", 
-              ""
+              "Emily Dirsh"
             ], 
             "title": [
               "GlitterGallery: Taking the designer's office online"
@@ -1729,8 +1704,7 @@
           "properties": {
             "presenter": [
               "Sarup  Banskota", 
-              "Emily Dirsh", 
-              ""
+              "Emily Dirsh"
             ], 
             "title": [
               "GlitterGallery: Taking the designer's office online"
@@ -3422,8 +3396,7 @@
           "properties": {
             "presenter": [
               "Sarup  Banskota", 
-              "Emily Dirsh", 
-              ""
+              "Emily Dirsh"
             ], 
             "title": [
               "GlitterGallery: Taking the designer's office online"

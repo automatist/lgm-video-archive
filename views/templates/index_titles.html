@@ -14,12 +14,10 @@
 </div>
 <ol>
 {% for item in items %}
-<li>{{item.forms[0]}}</li>
-	<ul>
-	{% for d in item.docs %}
-	<li>{% for p in d.properties.presenter %}{{ p }}, {% endfor %}</li>
-	{% endfor %}
-	</ul>
+<li><a href="/terms/{{item.term|wikify}}.html">{{item.forms[0]}}</a></li>
+	<div class="presenters">
+	{% for d in item.docs %}{% for p in d.properties.presenter %}{{ p }}, {% endfor %}{% endfor %}
+	</div>
 {% endfor %}
 </ol>
 
