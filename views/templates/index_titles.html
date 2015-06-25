@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Libre Graphics Meeting: Video Archive (titles)</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="index.css" />
+</head>
+<body>
+<h1>Libre Graphics Meeting: Video Archive</h1>
+<div>
+	<a href="index_year.html">Year</a>
+	<b>Titles</b>
+	<a href="index_speakers.html">Speakers</a>
+</div>
+<ol>
+{% for item in items %}
+<li>{{item.forms[0]}}</li>
+	<ul>
+	{% for d in item.docs %}
+	<li>{% for p in d.properties.presenter %}{{ p }}, {% endfor %}</li>
+	{% endfor %}
+	</ul>
+{% endfor %}
+</ol>
+
+</body>
+</html>

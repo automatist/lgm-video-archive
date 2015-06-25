@@ -1,0 +1,4399 @@
+{
+  "terms": [
+    {
+      "forms": [
+        ""
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Sarup  Banskota", 
+              "Emily Dirsh", 
+              ""
+            ], 
+            "title": [
+              "GlitterGallery: Taking the designer's office online"
+            ]
+          }
+        }
+      ], 
+      "term": "", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "(Development of tools for) present-day type design based historic patterns"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Frank E. Blokland"
+            ], 
+            "title": [
+              "(Development of tools for) present-day type design based historic patterns"
+            ]
+          }
+        }
+      ], 
+      "term": "(development of tools for) present-day type design based historic patterns", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "0xA000 a font family"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "\u00d8yvind Kol\u00e5s"
+            ], 
+            "title": [
+              "0xA000 a font family"
+            ]
+          }
+        }
+      ], 
+      "term": "0xa000 a font family", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "A 2012-2013 retrospective of the G'MIC project : New features from artists/developers collaborations"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "David Tschumperl\u00e9", 
+              "Patrick David", 
+              "J\u00e9rome Boulanger"
+            ], 
+            "title": [
+              "A 2012-2013 retrospective of the G'MIC project : New features from artists/developers collaborations"
+            ]
+          }
+        }
+      ], 
+      "term": "a 2012-2013 retrospective of the g'mic project : new features from artists/developers collaborations", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Alex Dumitrache"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Michael Z\u00f6ller", 
+              "Alex Dumitrache", 
+              "Georg Hofstetter"
+            ], 
+            "title": [
+              "Magic Lantern - Free Software on Your Camera"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Michael Z\u00f6ller", 
+              "Alex Dumitrache", 
+              "Georg Hofstetter"
+            ], 
+            "title": [
+              "Magic Lantern - Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "alex dumitrache", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Alex Leray"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Alex Leray"
+            ], 
+            "title": [
+              "Relearn (Variable Summerschool)"
+            ]
+          }
+        }
+      ], 
+      "term": "alex leray", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Alexandre Gauthier"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Alexandre Gauthier"
+            ], 
+            "title": [
+              "Natron: video compositing software"
+            ]
+          }
+        }
+      ], 
+      "term": "alexandre gauthier", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Alexei Vanyashin"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland", 
+              "Vernon Adams", 
+              "Octavio Pardo", 
+              "Alexei Vanyashin"
+            ], 
+            "title": [
+              "Crafting Type: Fontforge Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "alexei vanyashin", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Allan Day"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Allan Day", 
+              "Jakub Steiner"
+            ], 
+            "title": [
+              "GNOME Design: Open to all"
+            ]
+          }
+        }
+      ], 
+      "term": "allan day", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "An Automated Sprite Rendering System using Blender"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Kenan B\u00f6l\u00fckba\u015f\u0131"
+            ], 
+            "title": [
+              "An Automated Sprite Rendering System using Blender"
+            ]
+          }
+        }
+      ], 
+      "term": "an automated sprite rendering system using blender", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Ana Isabel Carvalho"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "ginger coons", 
+              "Ana Isabel Carvalho", 
+              "Ricardo Lafuente"
+            ], 
+            "title": [
+              "Beating the drums: Why we made gender an issue"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Ana Isabel Carvalho", 
+              "Ricardo Lafuente"
+            ], 
+            "title": [
+              "Dear designer, have these cool tools"
+            ]
+          }
+        }
+      ], 
+      "term": "ana isabel carvalho", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Arno Sagawe"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Arno Sagawe", 
+              "R\u00fcdiger Heins", 
+              "Janis Bullert"
+            ], 
+            "title": [
+              "DialogueMaps: Creating Interactive Visualizations in learning or meeting contexts"
+            ]
+          }
+        }
+      ], 
+      "term": "arno sagawe", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Artem Popov"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Artem Popov"
+            ], 
+            "title": [
+              "Keeping metadata in remixed works"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Peter Liljenberg", 
+              "Artem Popov"
+            ], 
+            "title": [
+              "BOF: The future of metadata"
+            ]
+          }
+        }
+      ], 
+      "term": "artem popov", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Back to the Future?"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christoph Haag"
+            ], 
+            "title": [
+              "Back to the Future?"
+            ]
+          }
+        }
+      ], 
+      "term": "back to the future?", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Bassam Kurdali"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Fateh Slavitskaya", 
+              "Bassam Kurdali"
+            ], 
+            "title": [
+              "Distributed Free-Cultural Production and the Future of Creative Economy"
+            ]
+          }
+        }
+      ], 
+      "term": "bassam kurdali", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Beating the drums: Why we made gender an issue"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "ginger coons", 
+              "Ana Isabel Carvalho", 
+              "Ricardo Lafuente"
+            ], 
+            "title": [
+              "Beating the drums: Why we made gender an issue"
+            ]
+          }
+        }
+      ], 
+      "term": "beating the drums: why we made gender an issue", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Blender as a design tool for architecture."
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Matthieu Dupont de Dinechin"
+            ], 
+            "title": [
+              "Blender as a design tool for architecture."
+            ]
+          }
+        }
+      ], 
+      "term": "blender as a design tool for architecture.", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "BOF: The future of metadata"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Peter Liljenberg", 
+              "Artem Popov"
+            ], 
+            "title": [
+              "BOF: The future of metadata"
+            ]
+          }
+        }
+      ], 
+      "term": "bof: the future of metadata", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Brendan Howell"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "title": [
+              "The Screenless Office"
+            ]
+          }
+        }
+      ], 
+      "term": "brendan howell", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Brent Yorgey"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Brent Yorgey"
+            ], 
+            "title": [
+              "Declarative, programmatic vector graphics in Haskell"
+            ]
+          }
+        }
+      ], 
+      "term": "brent yorgey", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Building an OpenHardware Spectrograph for Color Profiling in Linux"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "title": [
+              "Building an OpenHardware Spectrograph for Color Profiling in Linux"
+            ]
+          }
+        }
+      ], 
+      "term": "building an openhardware spectrograph for color profiling in linux", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "C\u00e9dric G\u00e9my"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Elisa de Castro Guerra", 
+              "C\u00e9dric G\u00e9my"
+            ], 
+            "title": [
+              "Floss Manuals Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "cedric gemy", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Chicken & Eggs - Designing font families with Metapolator"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Simon Egli", 
+              "Nicolas Franck Pauly"
+            ], 
+            "title": [
+              "Chicken & Eggs - Designing font families with Metapolator"
+            ]
+          }
+        }
+      ], 
+      "term": "chicken & eggs - designing font families with metapolator", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Chris Lilley"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "title": [
+              "Coloured glyphs in OpenType"
+            ]
+          }
+        }
+      ], 
+      "term": "chris lilley", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Chris Murphy"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "title": [
+              "State of Color Management"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "title": [
+              "End to end color management workflow"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "title": [
+              "What about the color?"
+            ]
+          }
+        }
+      ], 
+      "term": "chris murphy", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Christian Stussak"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christian Stussak"
+            ], 
+            "title": [
+              "SURFER - a real-time raytracer for algebraic surfaces"
+            ]
+          }
+        }
+      ], 
+      "term": "christian stussak", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Christine Neupert"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Susan Spencer", 
+              "Roman Telezhinsky", 
+              "Christine Neupert", 
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Valentina Hackathon"
+            ]
+          }
+        }
+      ], 
+      "term": "christine neupert", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Christoph Haag"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christoph Haag", 
+              "Femke Snelting"
+            ], 
+            "title": [
+              "Operating Systems"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christoph Haag"
+            ], 
+            "title": [
+              "Back to the Future?"
+            ]
+          }
+        }
+      ], 
+      "term": "christoph haag", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Christoph Sch\u00e4fer"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christoph Sch\u00e4fer", 
+              "Jason Harder"
+            ], 
+            "title": [
+              "Scribus in Real-World Scenarios: Pros and Cons"
+            ]
+          }
+        }
+      ], 
+      "term": "christoph schafer", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Coloured glyphs in OpenType"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "title": [
+              "Coloured glyphs in OpenType"
+            ]
+          }
+        }
+      ], 
+      "term": "coloured glyphs in opentype", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Contextualizing Creative Works"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Jonas \u00d6berg"
+            ], 
+            "title": [
+              "Contextualizing Creative Works"
+            ]
+          }
+        }
+      ], 
+      "term": "contextualizing creative works", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Contributing to the community: Writing add-ons"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Frederik Steinmetz"
+            ], 
+            "title": [
+              "Contributing to the community: Writing add-ons"
+            ]
+          }
+        }
+      ], 
+      "term": "contributing to the community: writing add-ons", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Crafting Type: Fontforge Workshop"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland", 
+              "Vernon Adams", 
+              "Octavio Pardo", 
+              "Alexei Vanyashin"
+            ], 
+            "title": [
+              "Crafting Type: Fontforge Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "crafting type: fontforge workshop", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Creating Synfig's first official video training course in English: a personal experience"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Julia Velkova \u00d6berg"
+            ], 
+            "title": [
+              "Creating Synfig's first official video training course in English: a personal experience"
+            ]
+          }
+        }
+      ], 
+      "term": "creating synfig's first official video training course in english: a personal experience", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Creative ressources creation and management in Krita"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Timoth\u00e9e Giet"
+            ], 
+            "title": [
+              "Creative ressources creation and management in Krita"
+            ]
+          }
+        }
+      ], 
+      "term": "creative ressources creation and management in krita", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Daniel Berrange"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Daniel Berrange"
+            ], 
+            "title": [
+              "Tethered camera control and capture with Entangle"
+            ]
+          }
+        }
+      ], 
+      "term": "daniel berrange", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Danja Vasiliev"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Danja Vasiliev", 
+              "Michael Zeder", 
+              "Joscha Jaeger"
+            ], 
+            "title": [
+              "Superglue, phase 2"
+            ]
+          }
+        }
+      ], 
+      "term": "danja vasiliev", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Dave Crossland"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland", 
+              "Mikhail Kashkin"
+            ], 
+            "title": [
+              "Font Bakery: Testing Quality"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland", 
+              "Vernon Adams", 
+              "Octavio Pardo", 
+              "Alexei Vanyashin"
+            ], 
+            "title": [
+              "Crafting Type: Fontforge Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "dave crossland", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "David"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Eduardo Merch\u00e1n", 
+              "Juancho", 
+              "Myriam Cea", 
+              "R\u00faben", 
+              "David"
+            ], 
+            "title": [
+              "Please feed the monster! Creating and improving graphics for Wikipedia with FLOSS tools."
+            ]
+          }
+        }
+      ], 
+      "term": "david", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "David G\u00f3mez Fontanills"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "David G\u00f3mez Fontanills", 
+              "Rub\u00e9n Ojeda"
+            ], 
+            "title": [
+              "wikiArS, involving art & design schools in free knowledge wiki projects"
+            ]
+          }
+        }
+      ], 
+      "term": "david gomez fontanills", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "David Tardon"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Fridrich Strba", 
+              "Valek Filippov", 
+              "David Tardon"
+            ], 
+            "title": [
+              "Document Liberation Project -- news from the reverse and straight engineering world"
+            ]
+          }
+        }
+      ], 
+      "term": "david tardon", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "David Tschumperl\u00e9"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "David Tschumperl\u00e9", 
+              "Patrick David", 
+              "J\u00e9rome Boulanger"
+            ], 
+            "title": [
+              "A 2012-2013 retrospective of the G'MIC project : New features from artists/developers collaborations"
+            ]
+          }
+        }
+      ], 
+      "term": "david tschumperle", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Dear designer, have these cool tools"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Ana Isabel Carvalho", 
+              "Ricardo Lafuente"
+            ], 
+            "title": [
+              "Dear designer, have these cool tools"
+            ]
+          }
+        }
+      ], 
+      "term": "dear designer, have these cool tools", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Declarative, programmatic vector graphics in Haskell"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Brent Yorgey"
+            ], 
+            "title": [
+              "Declarative, programmatic vector graphics in Haskell"
+            ]
+          }
+        }
+      ], 
+      "term": "declarative, programmatic vector graphics in haskell", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "DialogueMaps: Creating Interactive Visualizations in learning or meeting contexts"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Arno Sagawe", 
+              "R\u00fcdiger Heins", 
+              "Janis Bullert"
+            ], 
+            "title": [
+              "DialogueMaps: Creating Interactive Visualizations in learning or meeting contexts"
+            ]
+          }
+        }
+      ], 
+      "term": "dialoguemaps: creating interactive visualizations in learning or meeting contexts", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Distributed Free-Cultural Production and the Future of Creative Economy"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Fateh Slavitskaya", 
+              "Bassam Kurdali"
+            ], 
+            "title": [
+              "Distributed Free-Cultural Production and the Future of Creative Economy"
+            ]
+          }
+        }
+      ], 
+      "term": "distributed free-cultural production and the future of creative economy", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Document Liberation Project -- news from the reverse and straight engineering world"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Fridrich Strba", 
+              "Valek Filippov", 
+              "David Tardon"
+            ], 
+            "title": [
+              "Document Liberation Project -- news from the reverse and straight engineering world"
+            ]
+          }
+        }
+      ], 
+      "term": "document liberation project -- news from the reverse and straight engineering world", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Eduardo Merch\u00e1n"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Eduardo Merch\u00e1n", 
+              "Juancho", 
+              "Myriam Cea", 
+              "R\u00faben", 
+              "David"
+            ], 
+            "title": [
+              "Please feed the monster! Creating and improving graphics for Wikipedia with FLOSS tools."
+            ]
+          }
+        }
+      ], 
+      "term": "eduardo merchan", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Edward Trager"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Edward Trager"
+            ], 
+            "title": [
+              "Hariphunchai: Designing a Tai Tham Unicode Font"
+            ]
+          }
+        }
+      ], 
+      "term": "edward trager", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Elisa de Castro Guerra"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Elisa de Castro Guerra", 
+              "C\u00e9dric G\u00e9my"
+            ], 
+            "title": [
+              "Floss Manuals Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "elisa de castro guerra", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Emily Dirsh"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Sarup  Banskota", 
+              "Emily Dirsh", 
+              ""
+            ], 
+            "title": [
+              "GlitterGallery: Taking the designer's office online"
+            ]
+          }
+        }
+      ], 
+      "term": "emily dirsh", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "End to end color management workflow"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "title": [
+              "End to end color management workflow"
+            ]
+          }
+        }
+      ], 
+      "term": "end to end color management workflow", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Eric Schrijver"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "OSP Open Source Publishing", 
+              "Eric Schrijver", 
+              "St\u00e9phanie Vilayphiou"
+            ], 
+            "title": [
+              "Ethertoff release announcement"
+            ]
+          }
+        }
+      ], 
+      "term": "eric schrijver", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Erkan \u00d6zg\u00fcr Y\u0131lmaz"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Oliver Markowski", 
+              "Timur Hairulin", 
+              "Erkan \u00d6zg\u00fcr Y\u0131lmaz"
+            ], 
+            "title": [
+              "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
+            ]
+          }
+        }
+      ], 
+      "term": "erkan ozgur yilmaz", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Ethertoff release announcement"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "OSP Open Source Publishing", 
+              "Eric Schrijver", 
+              "St\u00e9phanie Vilayphiou"
+            ], 
+            "title": [
+              "Ethertoff release announcement"
+            ]
+          }
+        }
+      ], 
+      "term": "ethertoff release announcement", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Fateh Slavitskaya"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Fateh Slavitskaya", 
+              "Bassam Kurdali"
+            ], 
+            "title": [
+              "Distributed Free-Cultural Production and the Future of Creative Economy"
+            ]
+          }
+        }
+      ], 
+      "term": "fateh slavitskaya", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Femke Snelting"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christoph Haag", 
+              "Femke Snelting"
+            ], 
+            "title": [
+              "Operating Systems"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Alex Leray"
+            ], 
+            "title": [
+              "Relearn (Variable Summerschool)"
+            ]
+          }
+        }
+      ], 
+      "term": "femke snelting", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Flat \u2013 Generative infrastructure for Python"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Juraj Sukop"
+            ], 
+            "title": [
+              "Flat \u2013 Generative infrastructure for Python"
+            ]
+          }
+        }
+      ], 
+      "term": "flat - generative infrastructure for python", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Floss Manuals Workshop"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Elisa de Castro Guerra", 
+              "C\u00e9dric G\u00e9my"
+            ], 
+            "title": [
+              "Floss Manuals Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "floss manuals workshop", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Font Bakery: Testing Quality"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland", 
+              "Mikhail Kashkin"
+            ], 
+            "title": [
+              "Font Bakery: Testing Quality"
+            ]
+          }
+        }
+      ], 
+      "term": "font bakery: testing quality", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Fonts in Printed Circuit Board design tools"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Simon Budig"
+            ], 
+            "title": [
+              "Fonts in Printed Circuit Board design tools"
+            ]
+          }
+        }
+      ], 
+      "term": "fonts in printed circuit board design tools", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Francesco Siddi"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Francesco Siddi"
+            ], 
+            "title": [
+              "Project Gooseberry - Open Animated Feature from the Blender Institute"
+            ]
+          }
+        }
+      ], 
+      "term": "francesco siddi", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Frank E. Blokland"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Frank E. Blokland"
+            ], 
+            "title": [
+              "(Development of tools for) present-day type design based historic patterns"
+            ]
+          }
+        }
+      ], 
+      "term": "frank e. blokland", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Frederik Steinmetz"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Frederik Steinmetz"
+            ], 
+            "title": [
+              "Contributing to the community: Writing add-ons"
+            ]
+          }
+        }
+      ], 
+      "term": "frederik steinmetz", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Free culture aware educators in art and design education"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Larisa Blazic and others"
+            ], 
+            "title": [
+              "Free culture aware educators in art and design education"
+            ]
+          }
+        }
+      ], 
+      "term": "free culture aware educators in art and design education", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "FreeCAD's \"Arch\" Workbench:  Bridging the Gap in the Linux (AEC) Design Tool-set"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Onyeibo Oku"
+            ], 
+            "title": [
+              "FreeCAD's \"Arch\" Workbench:  Bridging the Gap in the Linux (AEC) Design Tool-set"
+            ]
+          }
+        }
+      ], 
+      "term": "freecad's \"arch\" workbench:  bridging the gap in the linux (aec) design tool-set", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Fridrich Strba"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Fridrich Strba", 
+              "Valek Filippov", 
+              "David Tardon"
+            ], 
+            "title": [
+              "Document Liberation Project -- news from the reverse and straight engineering world"
+            ]
+          }
+        }
+      ], 
+      "term": "fridrich strba", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "GEGL is not GIMP - creating graphic applications with GEGL"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Manuel Qui\u00f1ones"
+            ], 
+            "title": [
+              "GEGL is not GIMP - creating graphic applications with GEGL"
+            ]
+          }
+        }
+      ], 
+      "term": "gegl is not gimp - creating graphic applications with gegl", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Georg Hofstetter"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Michael Z\u00f6ller", 
+              "Alex Dumitrache", 
+              "Georg Hofstetter"
+            ], 
+            "title": [
+              "Magic Lantern - Free Software on Your Camera"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Michael Z\u00f6ller", 
+              "Alex Dumitrache", 
+              "Georg Hofstetter"
+            ], 
+            "title": [
+              "Magic Lantern - Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "georg hofstetter", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "ginger coons"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "ginger coons", 
+              "Ana Isabel Carvalho", 
+              "Ricardo Lafuente"
+            ], 
+            "title": [
+              "Beating the drums: Why we made gender an issue"
+            ]
+          }
+        }
+      ], 
+      "term": "ginger coons", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "GlitterGallery: Taking the designer's office online"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Sarup  Banskota", 
+              "Emily Dirsh", 
+              ""
+            ], 
+            "title": [
+              "GlitterGallery: Taking the designer's office online"
+            ]
+          }
+        }
+      ], 
+      "term": "glittergallery: taking the designer's office online", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "GNOME Design: Open to all"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Allan Day", 
+              "Jakub Steiner"
+            ], 
+            "title": [
+              "GNOME Design: Open to all"
+            ]
+          }
+        }
+      ], 
+      "term": "gnome design: open to all", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Google Summer of Code Graphics Projects Meet Up"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Mario Behling", 
+              "GSoC students and mentors"
+            ], 
+            "title": [
+              "Google Summer of Code Graphics Projects Meet Up"
+            ]
+          }
+        }
+      ], 
+      "term": "google summer of code graphics projects meet up", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Gottfried Hofmann"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Gottfried Hofmann"
+            ], 
+            "title": [
+              "OSL in Blender - The power of the plugin"
+            ]
+          }
+        }
+      ], 
+      "term": "gottfried hofmann", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "GSoC students and mentors"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Mario Behling", 
+              "GSoC students and mentors"
+            ], 
+            "title": [
+              "Google Summer of Code Graphics Projects Meet Up"
+            ]
+          }
+        }
+      ], 
+      "term": "gsoc students and mentors", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Hacking Beziers with Python and Shoebot"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Ricardo Lafuente", 
+              "Stuart Axon"
+            ], 
+            "title": [
+              "Hacking Beziers with Python and Shoebot"
+            ]
+          }
+        }
+      ], 
+      "term": "hacking beziers with python and shoebot", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Hariphunchai: Designing a Tai Tham Unicode Font"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Edward Trager"
+            ], 
+            "title": [
+              "Hariphunchai: Designing a Tai Tham Unicode Font"
+            ]
+          }
+        }
+      ], 
+      "term": "hariphunchai: designing a tai tham unicode font", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Henri Bergius"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Jon Nordby", 
+              "Henri Bergius"
+            ], 
+            "title": [
+              "Visually programming libre graphics tools"
+            ]
+          }
+        }
+      ], 
+      "term": "henri bergius", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Impose This"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Tom Lechner"
+            ], 
+            "title": [
+              "Impose This"
+            ]
+          }
+        }
+      ], 
+      "term": "impose this", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Inklinging Inklings"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Nathan Willis"
+            ], 
+            "title": [
+              "Inklinging Inklings"
+            ]
+          }
+        }
+      ], 
+      "term": "inklinging inklings", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Introduction to Open Source 3D Printing"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Wojtek Grabczak"
+            ], 
+            "title": [
+              "Introduction to Open Source 3D Printing"
+            ]
+          }
+        }
+      ], 
+      "term": "introduction to open source 3d printing", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Jakub Steiner"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Allan Day", 
+              "Jakub Steiner"
+            ], 
+            "title": [
+              "GNOME Design: Open to all"
+            ]
+          }
+        }
+      ], 
+      "term": "jakub steiner", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Janis Bullert"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Arno Sagawe", 
+              "R\u00fcdiger Heins", 
+              "Janis Bullert"
+            ], 
+            "title": [
+              "DialogueMaps: Creating Interactive Visualizations in learning or meeting contexts"
+            ]
+          }
+        }
+      ], 
+      "term": "janis bullert", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Jason Harder"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christoph Sch\u00e4fer", 
+              "Jason Harder"
+            ], 
+            "title": [
+              "Scribus in Real-World Scenarios: Pros and Cons"
+            ]
+          }
+        }
+      ], 
+      "term": "jason harder", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "J\u00e9rome Boulanger"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "David Tschumperl\u00e9", 
+              "Patrick David", 
+              "J\u00e9rome Boulanger"
+            ], 
+            "title": [
+              "A 2012-2013 retrospective of the G'MIC project : New features from artists/developers collaborations"
+            ]
+          }
+        }
+      ], 
+      "term": "jerome boulanger", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Johannes Hanika"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Johannes Hanika"
+            ], 
+            "title": [
+              "wavelets for image processing"
+            ]
+          }
+        }
+      ], 
+      "term": "johannes hanika", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Jon Nordby"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Jon Nordby", 
+              "Henri Bergius"
+            ], 
+            "title": [
+              "Visually programming libre graphics tools"
+            ]
+          }
+        }
+      ], 
+      "term": "jon nordby", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Jonas \u00d6berg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Jonas \u00d6berg"
+            ], 
+            "title": [
+              "Contextualizing Creative Works"
+            ]
+          }
+        }
+      ], 
+      "term": "jonas oberg", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Joscha Jaeger"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Danja Vasiliev", 
+              "Michael Zeder", 
+              "Joscha Jaeger"
+            ], 
+            "title": [
+              "Superglue, phase 2"
+            ]
+          }
+        }
+      ], 
+      "term": "joscha jaeger", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Juancho"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Eduardo Merch\u00e1n", 
+              "Juancho", 
+              "Myriam Cea", 
+              "R\u00faben", 
+              "David"
+            ], 
+            "title": [
+              "Please feed the monster! Creating and improving graphics for Wikipedia with FLOSS tools."
+            ]
+          }
+        }
+      ], 
+      "term": "juancho", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Julia Velkova \u00d6berg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Julia Velkova \u00d6berg"
+            ], 
+            "title": [
+              "Creating Synfig's first official video training course in English: a personal experience"
+            ]
+          }
+        }
+      ], 
+      "term": "julia velkova oberg", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Juraj Sukop"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Juraj Sukop"
+            ], 
+            "title": [
+              "Flat \u2013 Generative infrastructure for Python"
+            ]
+          }
+        }
+      ], 
+      "term": "juraj sukop", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Keeping metadata in remixed works"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Artem Popov"
+            ], 
+            "title": [
+              "Keeping metadata in remixed works"
+            ]
+          }
+        }
+      ], 
+      "term": "keeping metadata in remixed works", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Kenan B\u00f6l\u00fckba\u015f\u0131"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Kenan B\u00f6l\u00fckba\u015f\u0131"
+            ], 
+            "title": [
+              "An Automated Sprite Rendering System using Blender"
+            ]
+          }
+        }
+      ], 
+      "term": "kenan bolukbasi", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Knitting machine hacking - how I helped bootstrap the 'movement'"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Knitting machine hacking - how I helped bootstrap the 'movement'"
+            ]
+          }
+        }
+      ], 
+      "term": "knitting machine hacking - how i helped bootstrap the 'movement'", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Larisa Blazic and others"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Larisa Blazic and others"
+            ], 
+            "title": [
+              "Free culture aware educators in art and design education"
+            ]
+          }
+        }
+      ], 
+      "term": "larisa blazic and others", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Lasse Fister"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Lasse Fister"
+            ], 
+            "title": [
+              "The Multitoner: High quality grayscale image reproduction"
+            ]
+          }
+        }
+      ], 
+      "term": "lasse fister", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Libre Graphic Workstation at Medialab-Prado Madrid"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Myriam Cea"
+            ], 
+            "title": [
+              "Libre Graphic Workstation at Medialab-Prado Madrid"
+            ]
+          }
+        }
+      ], 
+      "term": "libre graphic workstation at medialab-prado madrid", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Loraine Furter"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Loraine Furter"
+            ], 
+            "title": [
+              "Specimen \u2013 a web project on open source fonts"
+            ]
+          }
+        }
+      ], 
+      "term": "loraine furter", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Magic Lantern - Free Software on Your Camera"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Michael Z\u00f6ller", 
+              "Alex Dumitrache", 
+              "Georg Hofstetter"
+            ], 
+            "title": [
+              "Magic Lantern - Free Software on Your Camera"
+            ]
+          }
+        }
+      ], 
+      "term": "magic lantern - free software on your camera", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Magic Lantern - Workshop"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Michael Z\u00f6ller", 
+              "Alex Dumitrache", 
+              "Georg Hofstetter"
+            ], 
+            "title": [
+              "Magic Lantern - Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "magic lantern - workshop", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Manuel Qui\u00f1ones"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Manuel Qui\u00f1ones"
+            ], 
+            "title": [
+              "GEGL is not GIMP - creating graphic applications with GEGL"
+            ]
+          }
+        }
+      ], 
+      "term": "manuel quinones", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Mario Behling"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Mario Behling", 
+              "GSoC students and mentors"
+            ], 
+            "title": [
+              "Google Summer of Code Graphics Projects Meet Up"
+            ]
+          }
+        }
+      ], 
+      "term": "mario behling", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Mathieu Duponchelle"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Thibault Saunier", 
+              "Mathieu Duponchelle"
+            ], 
+            "title": [
+              "Next-Generation F/LOSS Video Editing with Pitivi and GES: Status and Roadmap"
+            ]
+          }
+        }
+      ], 
+      "term": "mathieu duponchelle", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Matthieu Dupont de Dinechin"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Matthieu Dupont de Dinechin"
+            ], 
+            "title": [
+              "Blender as a design tool for architecture."
+            ]
+          }
+        }
+      ], 
+      "term": "matthieu dupont de dinechin", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Mesh Conceptions"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Tom Lechner"
+            ], 
+            "title": [
+              "Mesh Conceptions"
+            ]
+          }
+        }
+      ], 
+      "term": "mesh conceptions", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Michael Zeder"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Danja Vasiliev", 
+              "Michael Zeder", 
+              "Joscha Jaeger"
+            ], 
+            "title": [
+              "Superglue, phase 2"
+            ]
+          }
+        }
+      ], 
+      "term": "michael zeder", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Michael Z\u00f6ller"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Michael Z\u00f6ller", 
+              "Alex Dumitrache", 
+              "Georg Hofstetter"
+            ], 
+            "title": [
+              "Magic Lantern - Free Software on Your Camera"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Michael Z\u00f6ller", 
+              "Alex Dumitrache", 
+              "Georg Hofstetter"
+            ], 
+            "title": [
+              "Magic Lantern - Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "michael zoller", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Mikhail Kashkin"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland", 
+              "Mikhail Kashkin"
+            ], 
+            "title": [
+              "Font Bakery: Testing Quality"
+            ]
+          }
+        }
+      ], 
+      "term": "mikhail kashkin", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Minuette Le"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Minuette Le", 
+              "Ulrike Gollner", 
+              "Simon Worthington"
+            ], 
+            "title": [
+              "Template This!"
+            ]
+          }
+        }
+      ], 
+      "term": "minuette le", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Myriam Cea"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Eduardo Merch\u00e1n", 
+              "Juancho", 
+              "Myriam Cea", 
+              "R\u00faben", 
+              "David"
+            ], 
+            "title": [
+              "Please feed the monster! Creating and improving graphics for Wikipedia with FLOSS tools."
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Myriam Cea"
+            ], 
+            "title": [
+              "Libre Graphic Workstation at Medialab-Prado Madrid"
+            ]
+          }
+        }
+      ], 
+      "term": "myriam cea", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Nathan Willis"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Nathan Willis"
+            ], 
+            "title": [
+              "Where The Users Are"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Nathan Willis"
+            ], 
+            "title": [
+              "Inklinging Inklings"
+            ]
+          }
+        }
+      ], 
+      "term": "nathan willis", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Natron: video compositing software"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Alexandre Gauthier"
+            ], 
+            "title": [
+              "Natron: video compositing software"
+            ]
+          }
+        }
+      ], 
+      "term": "natron: video compositing software", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Next-Generation F/LOSS Video Editing with Pitivi and GES: Status and Roadmap"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Thibault Saunier", 
+              "Mathieu Duponchelle"
+            ], 
+            "title": [
+              "Next-Generation F/LOSS Video Editing with Pitivi and GES: Status and Roadmap"
+            ]
+          }
+        }
+      ], 
+      "term": "next-generation f/loss video editing with pitivi and ges: status and roadmap", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Nicolas Franck Pauly"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Simon Egli", 
+              "Nicolas Franck Pauly"
+            ], 
+            "title": [
+              "Chicken & Eggs - Designing font families with Metapolator"
+            ]
+          }
+        }
+      ], 
+      "term": "nicolas franck pauly", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Nuancier- Community generated and selected artwork"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Pierre-Yves Chibon", 
+              "Sirko Kemter"
+            ], 
+            "title": [
+              "Nuancier- Community generated and selected artwork"
+            ]
+          }
+        }
+      ], 
+      "term": "nuancier- community generated and selected artwork", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Octavio Pardo"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland", 
+              "Vernon Adams", 
+              "Octavio Pardo", 
+              "Alexei Vanyashin"
+            ], 
+            "title": [
+              "Crafting Type: Fontforge Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "octavio pardo", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Oliver Markowski"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Oliver Markowski", 
+              "Timur Hairulin", 
+              "Erkan \u00d6zg\u00fcr Y\u0131lmaz"
+            ], 
+            "title": [
+              "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
+            ]
+          }
+        }
+      ], 
+      "term": "oliver markowski", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Onyeibo Oku"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Onyeibo Oku"
+            ], 
+            "title": [
+              "FreeCAD's \"Arch\" Workbench:  Bridging the Gap in the Linux (AEC) Design Tool-set"
+            ]
+          }
+        }
+      ], 
+      "term": "onyeibo oku", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Open Hardware devices to aid software testing"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Open Hardware devices to aid software testing"
+            ]
+          }
+        }
+      ], 
+      "term": "open hardware devices to aid software testing", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Oliver Markowski", 
+              "Timur Hairulin", 
+              "Erkan \u00d6zg\u00fcr Y\u0131lmaz"
+            ], 
+            "title": [
+              "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
+            ]
+          }
+        }
+      ], 
+      "term": "opensource renderfarm management afanasy and project tracking tools stalker and tactic", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Operating Systems"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christoph Haag", 
+              "Femke Snelting"
+            ], 
+            "title": [
+              "Operating Systems"
+            ]
+          }
+        }
+      ], 
+      "term": "operating systems", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "OSL in Blender - The power of the plugin"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Gottfried Hofmann"
+            ], 
+            "title": [
+              "OSL in Blender - The power of the plugin"
+            ]
+          }
+        }
+      ], 
+      "term": "osl in blender - the power of the plugin", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "OSP Open Source Publishing"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "OSP Open Source Publishing", 
+              "Eric Schrijver", 
+              "St\u00e9phanie Vilayphiou"
+            ], 
+            "title": [
+              "Ethertoff release announcement"
+            ]
+          }
+        }
+      ], 
+      "term": "osp open source publishing", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "\u00d8yvind Kol\u00e5s"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "\u00d8yvind Kol\u00e5s"
+            ], 
+            "title": [
+              "0xA000 a font family"
+            ]
+          }
+        }
+      ], 
+      "term": "oyvind kolas", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Patrick David"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "David Tschumperl\u00e9", 
+              "Patrick David", 
+              "J\u00e9rome Boulanger"
+            ], 
+            "title": [
+              "A 2012-2013 retrospective of the G'MIC project : New features from artists/developers collaborations"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Patrick David", 
+              "Tobias Ellinghaus"
+            ], 
+            "title": [
+              "Utilizing FL/OSS tools in a photographic workflow \u2013 Part II: The Work"
+            ]
+          }
+        }
+      ], 
+      "term": "patrick david", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Peter Liljenberg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Peter Liljenberg", 
+              "Artem Popov"
+            ], 
+            "title": [
+              "BOF: The future of metadata"
+            ]
+          }
+        }
+      ], 
+      "term": "peter liljenberg", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "peter sikking"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "peter sikking"
+            ], 
+            "title": [
+              "UI design for full GEGL integration in GIMP"
+            ]
+          }
+        }
+      ], 
+      "term": "peter sikking", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Pierre-Yves Chibon"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Pierre-Yves Chibon", 
+              "Sirko Kemter"
+            ], 
+            "title": [
+              "Nuancier- Community generated and selected artwork"
+            ]
+          }
+        }
+      ], 
+      "term": "pierre-yves chibon", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Please feed the monster! Creating and improving graphics for Wikipedia with FLOSS tools."
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Eduardo Merch\u00e1n", 
+              "Juancho", 
+              "Myriam Cea", 
+              "R\u00faben", 
+              "David"
+            ], 
+            "title": [
+              "Please feed the monster! Creating and improving graphics for Wikipedia with FLOSS tools."
+            ]
+          }
+        }
+      ], 
+      "term": "please feed the monster! creating and improving graphics for wikipedia with floss tools.", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Project Gooseberry - Open Animated Feature from the Blender Institute"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Francesco Siddi"
+            ], 
+            "title": [
+              "Project Gooseberry - Open Animated Feature from the Blender Institute"
+            ]
+          }
+        }
+      ], 
+      "term": "project gooseberry - open animated feature from the blender institute", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Rapha\u00ebl Bastide"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Rapha\u00ebl Bastide"
+            ], 
+            "title": [
+              "Use & Modify: My font collection is yours"
+            ]
+          }
+        }
+      ], 
+      "term": "raphael bastide", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Reconstruction of a medieval manikin with Blender"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Sebastian K\u00f6nig"
+            ], 
+            "title": [
+              "Reconstruction of a medieval manikin with Blender"
+            ]
+          }
+        }
+      ], 
+      "term": "reconstruction of a medieval manikin with blender", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Relearn (Variable Summerschool)"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Alex Leray"
+            ], 
+            "title": [
+              "Relearn (Variable Summerschool)"
+            ]
+          }
+        }
+      ], 
+      "term": "relearn (variable summerschool)", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Ricardo Lafuente"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "ginger coons", 
+              "Ana Isabel Carvalho", 
+              "Ricardo Lafuente"
+            ], 
+            "title": [
+              "Beating the drums: Why we made gender an issue"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Ricardo Lafuente", 
+              "Stuart Axon"
+            ], 
+            "title": [
+              "Hacking Beziers with Python and Shoebot"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Ana Isabel Carvalho", 
+              "Ricardo Lafuente"
+            ], 
+            "title": [
+              "Dear designer, have these cool tools"
+            ]
+          }
+        }
+      ], 
+      "term": "ricardo lafuente", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Richard Hughes"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "title": [
+              "Building an OpenHardware Spectrograph for Color Profiling in Linux"
+            ]
+          }
+        }
+      ], 
+      "term": "richard hughes", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Roman Telezhinsky"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Roman Telezhinsky"
+            ], 
+            "title": [
+              "Valentina Pattern Design Software"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Susan Spencer", 
+              "Roman Telezhinsky", 
+              "Christine Neupert", 
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Valentina Hackathon"
+            ]
+          }
+        }
+      ], 
+      "term": "roman telezhinsky", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "R\u00faben"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Eduardo Merch\u00e1n", 
+              "Juancho", 
+              "Myriam Cea", 
+              "R\u00faben", 
+              "David"
+            ], 
+            "title": [
+              "Please feed the monster! Creating and improving graphics for Wikipedia with FLOSS tools."
+            ]
+          }
+        }
+      ], 
+      "term": "ruben", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Rub\u00e9n Ojeda"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "David G\u00f3mez Fontanills", 
+              "Rub\u00e9n Ojeda"
+            ], 
+            "title": [
+              "wikiArS, involving art & design schools in free knowledge wiki projects"
+            ]
+          }
+        }
+      ], 
+      "term": "ruben ojeda", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "R\u00fcdiger Heins"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Arno Sagawe", 
+              "R\u00fcdiger Heins", 
+              "Janis Bullert"
+            ], 
+            "title": [
+              "DialogueMaps: Creating Interactive Visualizations in learning or meeting contexts"
+            ]
+          }
+        }
+      ], 
+      "term": "rudiger heins", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Sarup  Banskota"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Sarup  Banskota", 
+              "Emily Dirsh", 
+              ""
+            ], 
+            "title": [
+              "GlitterGallery: Taking the designer's office online"
+            ]
+          }
+        }
+      ], 
+      "term": "sarup  banskota", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Scribus in Real-World Scenarios: Pros and Cons"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christoph Sch\u00e4fer", 
+              "Jason Harder"
+            ], 
+            "title": [
+              "Scribus in Real-World Scenarios: Pros and Cons"
+            ]
+          }
+        }
+      ], 
+      "term": "scribus in real-world scenarios: pros and cons", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Sebastian K\u00f6nig"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Sebastian K\u00f6nig"
+            ], 
+            "title": [
+              "Reconstruction of a medieval manikin with Blender"
+            ]
+          }
+        }
+      ], 
+      "term": "sebastian konig", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Simon Budig"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Simon Budig"
+            ], 
+            "title": [
+              "Fonts in Printed Circuit Board design tools"
+            ]
+          }
+        }
+      ], 
+      "term": "simon budig", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Simon Egli"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Simon Egli", 
+              "Nicolas Franck Pauly"
+            ], 
+            "title": [
+              "Chicken & Eggs - Designing font families with Metapolator"
+            ]
+          }
+        }
+      ], 
+      "term": "simon egli", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Simon Worthington"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Minuette Le", 
+              "Ulrike Gollner", 
+              "Simon Worthington"
+            ], 
+            "title": [
+              "Template This!"
+            ]
+          }
+        }
+      ], 
+      "term": "simon worthington", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Sirko Kemter"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Pierre-Yves Chibon", 
+              "Sirko Kemter"
+            ], 
+            "title": [
+              "Nuancier- Community generated and selected artwork"
+            ]
+          }
+        }
+      ], 
+      "term": "sirko kemter", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Specimen \u2013 a web project on open source fonts"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Loraine Furter"
+            ], 
+            "title": [
+              "Specimen \u2013 a web project on open source fonts"
+            ]
+          }
+        }
+      ], 
+      "term": "specimen - a web project on open source fonts", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "State of Color Management"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "title": [
+              "State of Color Management"
+            ]
+          }
+        }
+      ], 
+      "term": "state of color management", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "St\u00e9phanie Vilayphiou"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "OSP Open Source Publishing", 
+              "Eric Schrijver", 
+              "St\u00e9phanie Vilayphiou"
+            ], 
+            "title": [
+              "Ethertoff release announcement"
+            ]
+          }
+        }
+      ], 
+      "term": "stephanie vilayphiou", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Steve Conklin"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Susan Spencer", 
+              "Roman Telezhinsky", 
+              "Christine Neupert", 
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Valentina Hackathon"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Knitting machine hacking - how I helped bootstrap the 'movement'"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Steve Conklin"
+            ], 
+            "title": [
+              "The basics of reverse engineering: How and Why?"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Open Hardware devices to aid software testing"
+            ]
+          }
+        }
+      ], 
+      "term": "steve conklin", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Stuart Axon"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Ricardo Lafuente", 
+              "Stuart Axon"
+            ], 
+            "title": [
+              "Hacking Beziers with Python and Shoebot"
+            ]
+          }
+        }
+      ], 
+      "term": "stuart axon", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Superglue, phase 2"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Danja Vasiliev", 
+              "Michael Zeder", 
+              "Joscha Jaeger"
+            ], 
+            "title": [
+              "Superglue, phase 2"
+            ]
+          }
+        }
+      ], 
+      "term": "superglue, phase 2", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "SURFER - a real-time raytracer for algebraic surfaces"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christian Stussak"
+            ], 
+            "title": [
+              "SURFER - a real-time raytracer for algebraic surfaces"
+            ]
+          }
+        }
+      ], 
+      "term": "surfer - a real-time raytracer for algebraic surfaces", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Susan Spencer"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Susan Spencer", 
+              "Roman Telezhinsky", 
+              "Christine Neupert", 
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Valentina Hackathon"
+            ]
+          }
+        }
+      ], 
+      "term": "susan spencer", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "SVG 2 and the Artist"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Tavmjong Bah"
+            ], 
+            "title": [
+              "SVG 2 and the Artist"
+            ]
+          }
+        }
+      ], 
+      "term": "svg 2 and the artist", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Tavmjong Bah"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Tavmjong Bah"
+            ], 
+            "title": [
+              "SVG 2 and the Artist"
+            ]
+          }
+        }
+      ], 
+      "term": "tavmjong bah", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Template This!"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Minuette Le", 
+              "Ulrike Gollner", 
+              "Simon Worthington"
+            ], 
+            "title": [
+              "Template This!"
+            ]
+          }
+        }
+      ], 
+      "term": "template this!", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Tethered camera control and capture with Entangle"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Daniel Berrange"
+            ], 
+            "title": [
+              "Tethered camera control and capture with Entangle"
+            ]
+          }
+        }
+      ], 
+      "term": "tethered camera control and capture with entangle", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "The basics of reverse engineering: How and Why?"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Steve Conklin"
+            ], 
+            "title": [
+              "The basics of reverse engineering: How and Why?"
+            ]
+          }
+        }
+      ], 
+      "term": "the basics of reverse engineering: how and why?", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "The Multitoner: High quality grayscale image reproduction"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Lasse Fister"
+            ], 
+            "title": [
+              "The Multitoner: High quality grayscale image reproduction"
+            ]
+          }
+        }
+      ], 
+      "term": "the multitoner: high quality grayscale image reproduction", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "The Screenless Office"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "title": [
+              "The Screenless Office"
+            ]
+          }
+        }
+      ], 
+      "term": "the screenless office", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Thibault Saunier"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Thibault Saunier", 
+              "Mathieu Duponchelle"
+            ], 
+            "title": [
+              "Next-Generation F/LOSS Video Editing with Pitivi and GES: Status and Roadmap"
+            ]
+          }
+        }
+      ], 
+      "term": "thibault saunier", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Timoth\u00e9e Giet"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Timoth\u00e9e Giet"
+            ], 
+            "title": [
+              "Creative ressources creation and management in Krita"
+            ]
+          }
+        }
+      ], 
+      "term": "timothee giet", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Timur Hairulin"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Oliver Markowski", 
+              "Timur Hairulin", 
+              "Erkan \u00d6zg\u00fcr Y\u0131lmaz"
+            ], 
+            "title": [
+              "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
+            ]
+          }
+        }
+      ], 
+      "term": "timur hairulin", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Tobias Ellinghaus"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Patrick David", 
+              "Tobias Ellinghaus"
+            ], 
+            "title": [
+              "Utilizing FL/OSS tools in a photographic workflow \u2013 Part II: The Work"
+            ]
+          }
+        }
+      ], 
+      "term": "tobias ellinghaus", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Tom Lechner"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Tom Lechner"
+            ], 
+            "title": [
+              "Mesh Conceptions"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Tom Lechner"
+            ], 
+            "title": [
+              "Impose This"
+            ]
+          }
+        }
+      ], 
+      "term": "tom lechner", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "UI design for full GEGL integration in GIMP"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "peter sikking"
+            ], 
+            "title": [
+              "UI design for full GEGL integration in GIMP"
+            ]
+          }
+        }
+      ], 
+      "term": "ui design for full gegl integration in gimp", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Ulrike Gollner"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Minuette Le", 
+              "Ulrike Gollner", 
+              "Simon Worthington"
+            ], 
+            "title": [
+              "Template This!"
+            ]
+          }
+        }
+      ], 
+      "term": "ulrike gollner", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Use & Modify: My font collection is yours"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Rapha\u00ebl Bastide"
+            ], 
+            "title": [
+              "Use & Modify: My font collection is yours"
+            ]
+          }
+        }
+      ], 
+      "term": "use & modify: my font collection is yours", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Utilizing FL/OSS tools in a photographic workflow \u2013 Part II: The Work"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Patrick David", 
+              "Tobias Ellinghaus"
+            ], 
+            "title": [
+              "Utilizing FL/OSS tools in a photographic workflow \u2013 Part II: The Work"
+            ]
+          }
+        }
+      ], 
+      "term": "utilizing fl/oss tools in a photographic workflow - part ii: the work", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Valek Filippov"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Fridrich Strba", 
+              "Valek Filippov", 
+              "David Tardon"
+            ], 
+            "title": [
+              "Document Liberation Project -- news from the reverse and straight engineering world"
+            ]
+          }
+        }
+      ], 
+      "term": "valek filippov", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Valentina Hackathon"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Susan Spencer", 
+              "Roman Telezhinsky", 
+              "Christine Neupert", 
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Valentina Hackathon"
+            ]
+          }
+        }
+      ], 
+      "term": "valentina hackathon", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Valentina Pattern Design Software"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Roman Telezhinsky"
+            ], 
+            "title": [
+              "Valentina Pattern Design Software"
+            ]
+          }
+        }
+      ], 
+      "term": "valentina pattern design software", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Vernon Adams"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland", 
+              "Vernon Adams", 
+              "Octavio Pardo", 
+              "Alexei Vanyashin"
+            ], 
+            "title": [
+              "Crafting Type: Fontforge Workshop"
+            ]
+          }
+        }
+      ], 
+      "term": "vernon adams", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Visually programming libre graphics tools"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Jon Nordby", 
+              "Henri Bergius"
+            ], 
+            "title": [
+              "Visually programming libre graphics tools"
+            ]
+          }
+        }
+      ], 
+      "term": "visually programming libre graphics tools", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "wavelets for image processing"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Johannes Hanika"
+            ], 
+            "title": [
+              "wavelets for image processing"
+            ]
+          }
+        }
+      ], 
+      "term": "wavelets for image processing", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "What about the color?"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "title": [
+              "What about the color?"
+            ]
+          }
+        }
+      ], 
+      "term": "what about the color?", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Where The Users Are"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Nathan Willis"
+            ], 
+            "title": [
+              "Where The Users Are"
+            ]
+          }
+        }
+      ], 
+      "term": "where the users are", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "wikiArS, involving art & design schools in free knowledge wiki projects"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "David G\u00f3mez Fontanills", 
+              "Rub\u00e9n Ojeda"
+            ], 
+            "title": [
+              "wikiArS, involving art & design schools in free knowledge wiki projects"
+            ]
+          }
+        }
+      ], 
+      "term": "wikiars, involving art & design schools in free knowledge wiki projects", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Wojtek Grabczak"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Wojtek Grabczak"
+            ], 
+            "title": [
+              "Introduction to Open Source 3D Printing"
+            ]
+          }
+        }
+      ], 
+      "term": "wojtek grabczak", 
+      "roles": [
+        "presenter"
+      ]
+    }
+  ]
+}
