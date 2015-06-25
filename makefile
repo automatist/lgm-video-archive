@@ -28,3 +28,18 @@ index_speakers.html: microdata/index.json views/templates/index_speakers.html
 
 clean:
 	rm index_*.html
+
+terms_md = $(shell python scripts/microdata_index.py --format list --prepend "terms/" --append ".md" microdata/2014.json)
+
+terms_html = $(terms_md:%.md=%.html)
+
+.PHONY: terms
+
+terms: microdata/index.json
+	mkdir -p terms
+	$(foreach x,$(terms_md),scripts/ensure.sh $x ;)
+
+print-%:
+	@echo '$*=$($*)'
+
+
