@@ -17,9 +17,31 @@
           }
         }
       ], 
-      "term": "(development of tools for) present-day type design based historic patterns", 
+      "term": "%28Development_of_tools_for%29_present-day_type_design_based_historic_patterns", 
       "roles": [
         "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "\u00d8yvind Kol\u00e5s"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "\u00d8yvind Kol\u00e5s"
+            ], 
+            "title": [
+              "0xA000 a font family"
+            ]
+          }
+        }
+      ], 
+      "term": "%C3%98yvind_Kol%C3%A5s", 
+      "roles": [
+        "presenter"
       ]
     }, 
     {
@@ -39,7 +61,7 @@
           }
         }
       ], 
-      "term": "0xa000 a font family", 
+      "term": "0xA000_a_font_family", 
       "roles": [
         "title"
       ]
@@ -63,7 +85,7 @@
           }
         }
       ], 
-      "term": "a 2012-2013 retrospective of the g'mic project : new features from artists/developers collaborations", 
+      "term": "A_2012-2013_retrospective_of_the_G%27MIC_project_%3A_New_features_from_artists%2Fdevelopers_collaborations", 
       "roles": [
         "title"
       ]
@@ -100,7 +122,7 @@
           }
         }
       ], 
-      "term": "alex dumitrache", 
+      "term": "Alex_Dumitrache", 
       "roles": [
         "presenter"
       ]
@@ -123,7 +145,7 @@
           }
         }
       ], 
-      "term": "alex leray", 
+      "term": "Alex_Leray", 
       "roles": [
         "presenter"
       ]
@@ -145,7 +167,7 @@
           }
         }
       ], 
-      "term": "alexandre gauthier", 
+      "term": "Alexandre_Gauthier", 
       "roles": [
         "presenter"
       ]
@@ -170,7 +192,7 @@
           }
         }
       ], 
-      "term": "alexei vanyashin", 
+      "term": "Alexei_Vanyashin", 
       "roles": [
         "presenter"
       ]
@@ -193,7 +215,7 @@
           }
         }
       ], 
-      "term": "allan day", 
+      "term": "Allan_Day", 
       "roles": [
         "presenter"
       ]
@@ -215,7 +237,7 @@
           }
         }
       ], 
-      "term": "an automated sprite rendering system using blender", 
+      "term": "An_Automated_Sprite_Rendering_System_using_Blender", 
       "roles": [
         "title"
       ]
@@ -251,7 +273,7 @@
           }
         }
       ], 
-      "term": "ana isabel carvalho", 
+      "term": "Ana_Isabel_Carvalho", 
       "roles": [
         "presenter"
       ]
@@ -275,7 +297,7 @@
           }
         }
       ], 
-      "term": "arno sagawe", 
+      "term": "Arno_Sagawe", 
       "roles": [
         "presenter"
       ]
@@ -309,9 +331,32 @@
           }
         }
       ], 
-      "term": "artem popov", 
+      "term": "Artem_Popov", 
       "roles": [
         "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "BOF: The future of metadata"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Peter Liljenberg", 
+              "Artem Popov"
+            ], 
+            "title": [
+              "BOF: The future of metadata"
+            ]
+          }
+        }
+      ], 
+      "term": "BOF%3A_The_future_of_metadata", 
+      "roles": [
+        "title"
       ]
     }, 
     {
@@ -331,7 +376,7 @@
           }
         }
       ], 
-      "term": "back to the future?", 
+      "term": "Back_to_the_Future%3F", 
       "roles": [
         "title"
       ]
@@ -354,7 +399,7 @@
           }
         }
       ], 
-      "term": "bassam kurdali", 
+      "term": "Bassam_Kurdali", 
       "roles": [
         "presenter"
       ]
@@ -378,7 +423,7 @@
           }
         }
       ], 
-      "term": "beating the drums: why we made gender an issue", 
+      "term": "Beating_the_drums%3A_Why_we_made_gender_an_issue", 
       "roles": [
         "title"
       ]
@@ -400,30 +445,7 @@
           }
         }
       ], 
-      "term": "blender as a design tool for architecture.", 
-      "roles": [
-        "title"
-      ]
-    }, 
-    {
-      "forms": [
-        "BOF: The future of metadata"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Peter Liljenberg", 
-              "Artem Popov"
-            ], 
-            "title": [
-              "BOF: The future of metadata"
-            ]
-          }
-        }
-      ], 
-      "term": "bof: the future of metadata", 
+      "term": "Blender_as_a_design_tool_for_architecture.", 
       "roles": [
         "title"
       ]
@@ -445,7 +467,7 @@
           }
         }
       ], 
-      "term": "brendan howell", 
+      "term": "Brendan_Howell", 
       "roles": [
         "presenter"
       ]
@@ -467,7 +489,7 @@
           }
         }
       ], 
-      "term": "brent yorgey", 
+      "term": "Brent_Yorgey", 
       "roles": [
         "presenter"
       ]
@@ -489,7 +511,7 @@
           }
         }
       ], 
-      "term": "building an openhardware spectrograph for color profiling in linux", 
+      "term": "Building_an_OpenHardware_Spectrograph_for_Color_Profiling_in_Linux", 
       "roles": [
         "title"
       ]
@@ -512,7 +534,7 @@
           }
         }
       ], 
-      "term": "cedric gemy", 
+      "term": "C%C3%A9dric_G%C3%A9my", 
       "roles": [
         "presenter"
       ]
@@ -535,7 +557,7 @@
           }
         }
       ], 
-      "term": "chicken & eggs - designing font families with metapolator", 
+      "term": "Chicken_%26_Eggs_-_Designing_font_families_with_Metapolator", 
       "roles": [
         "title"
       ]
@@ -557,7 +579,7 @@
           }
         }
       ], 
-      "term": "chris lilley", 
+      "term": "Chris_Lilley", 
       "roles": [
         "presenter"
       ]
@@ -601,7 +623,7 @@
           }
         }
       ], 
-      "term": "chris murphy", 
+      "term": "Chris_Murphy", 
       "roles": [
         "presenter"
       ]
@@ -623,7 +645,7 @@
           }
         }
       ], 
-      "term": "christian stussak", 
+      "term": "Christian_Stussak", 
       "roles": [
         "presenter"
       ]
@@ -648,7 +670,7 @@
           }
         }
       ], 
-      "term": "christine neupert", 
+      "term": "Christine_Neupert", 
       "roles": [
         "presenter"
       ]
@@ -682,7 +704,7 @@
           }
         }
       ], 
-      "term": "christoph haag", 
+      "term": "Christoph_Haag", 
       "roles": [
         "presenter"
       ]
@@ -705,7 +727,7 @@
           }
         }
       ], 
-      "term": "christoph schafer", 
+      "term": "Christoph_Sch%C3%A4fer", 
       "roles": [
         "presenter"
       ]
@@ -727,7 +749,7 @@
           }
         }
       ], 
-      "term": "coloured glyphs in opentype", 
+      "term": "Coloured_glyphs_in_OpenType", 
       "roles": [
         "title"
       ]
@@ -749,7 +771,7 @@
           }
         }
       ], 
-      "term": "contextualizing creative works", 
+      "term": "Contextualizing_Creative_Works", 
       "roles": [
         "title"
       ]
@@ -771,7 +793,7 @@
           }
         }
       ], 
-      "term": "contributing to the community: writing add-ons", 
+      "term": "Contributing_to_the_community%3A_Writing_add-ons", 
       "roles": [
         "title"
       ]
@@ -796,7 +818,7 @@
           }
         }
       ], 
-      "term": "crafting type: fontforge workshop", 
+      "term": "Crafting_Type%3A_Fontforge_Workshop", 
       "roles": [
         "title"
       ]
@@ -818,7 +840,7 @@
           }
         }
       ], 
-      "term": "creating synfig's first official video training course in english: a personal experience", 
+      "term": "Creating_Synfig%27s_first_official_video_training_course_in_English%3A_a_personal_experience", 
       "roles": [
         "title"
       ]
@@ -840,7 +862,7 @@
           }
         }
       ], 
-      "term": "creative ressources creation and management in krita", 
+      "term": "Creative_ressources_creation_and_management_in_Krita", 
       "roles": [
         "title"
       ]
@@ -862,7 +884,7 @@
           }
         }
       ], 
-      "term": "daniel berrange", 
+      "term": "Daniel_Berrange", 
       "roles": [
         "presenter"
       ]
@@ -886,7 +908,7 @@
           }
         }
       ], 
-      "term": "danja vasiliev", 
+      "term": "Danja_Vasiliev", 
       "roles": [
         "presenter"
       ]
@@ -923,7 +945,7 @@
           }
         }
       ], 
-      "term": "dave crossland", 
+      "term": "Dave_Crossland", 
       "roles": [
         "presenter"
       ]
@@ -949,7 +971,7 @@
           }
         }
       ], 
-      "term": "david", 
+      "term": "David", 
       "roles": [
         "presenter"
       ]
@@ -972,7 +994,7 @@
           }
         }
       ], 
-      "term": "david gomez fontanills", 
+      "term": "David_G%C3%B3mez_Fontanills", 
       "roles": [
         "presenter"
       ]
@@ -996,7 +1018,7 @@
           }
         }
       ], 
-      "term": "david tardon", 
+      "term": "David_Tardon", 
       "roles": [
         "presenter"
       ]
@@ -1020,7 +1042,7 @@
           }
         }
       ], 
-      "term": "david tschumperle", 
+      "term": "David_Tschumperl%C3%A9", 
       "roles": [
         "presenter"
       ]
@@ -1043,7 +1065,7 @@
           }
         }
       ], 
-      "term": "dear designer, have these cool tools", 
+      "term": "Dear_designer%2C_have_these_cool_tools", 
       "roles": [
         "title"
       ]
@@ -1065,7 +1087,7 @@
           }
         }
       ], 
-      "term": "declarative, programmatic vector graphics in haskell", 
+      "term": "Declarative%2C_programmatic_vector_graphics_in_Haskell", 
       "roles": [
         "title"
       ]
@@ -1089,7 +1111,7 @@
           }
         }
       ], 
-      "term": "dialoguemaps: creating interactive visualizations in learning or meeting contexts", 
+      "term": "DialogueMaps%3A_Creating_Interactive_Visualizations_in_learning_or_meeting_contexts", 
       "roles": [
         "title"
       ]
@@ -1112,7 +1134,7 @@
           }
         }
       ], 
-      "term": "distributed free-cultural production and the future of creative economy", 
+      "term": "Distributed_Free-Cultural_Production_and_the_Future_of_Creative_Economy", 
       "roles": [
         "title"
       ]
@@ -1136,7 +1158,7 @@
           }
         }
       ], 
-      "term": "document liberation project -- news from the reverse and straight engineering world", 
+      "term": "Document_Liberation_Project_--_news_from_the_reverse_and_straight_engineering_world", 
       "roles": [
         "title"
       ]
@@ -1162,7 +1184,7 @@
           }
         }
       ], 
-      "term": "eduardo merchan", 
+      "term": "Eduardo_Merch%C3%A1n", 
       "roles": [
         "presenter"
       ]
@@ -1184,7 +1206,7 @@
           }
         }
       ], 
-      "term": "edward trager", 
+      "term": "Edward_Trager", 
       "roles": [
         "presenter"
       ]
@@ -1207,7 +1229,7 @@
           }
         }
       ], 
-      "term": "elisa de castro guerra", 
+      "term": "Elisa_de_Castro_Guerra", 
       "roles": [
         "presenter"
       ]
@@ -1230,7 +1252,7 @@
           }
         }
       ], 
-      "term": "emily dirsh", 
+      "term": "Emily_Dirsh", 
       "roles": [
         "presenter"
       ]
@@ -1252,7 +1274,7 @@
           }
         }
       ], 
-      "term": "end to end color management workflow", 
+      "term": "End_to_end_color_management_workflow", 
       "roles": [
         "title"
       ]
@@ -1276,7 +1298,7 @@
           }
         }
       ], 
-      "term": "eric schrijver", 
+      "term": "Eric_Schrijver", 
       "roles": [
         "presenter"
       ]
@@ -1300,7 +1322,7 @@
           }
         }
       ], 
-      "term": "erkan ozgur yilmaz", 
+      "term": "Erkan_%C3%96zg%C3%BCr_Y%C4%B1lmaz", 
       "roles": [
         "presenter"
       ]
@@ -1324,7 +1346,7 @@
           }
         }
       ], 
-      "term": "ethertoff release announcement", 
+      "term": "Ethertoff_release_announcement", 
       "roles": [
         "title"
       ]
@@ -1347,7 +1369,7 @@
           }
         }
       ], 
-      "term": "fateh slavitskaya", 
+      "term": "Fateh_Slavitskaya", 
       "roles": [
         "presenter"
       ]
@@ -1382,7 +1404,7 @@
           }
         }
       ], 
-      "term": "femke snelting", 
+      "term": "Femke_Snelting", 
       "roles": [
         "presenter"
       ]
@@ -1404,7 +1426,7 @@
           }
         }
       ], 
-      "term": "flat - generative infrastructure for python", 
+      "term": "Flat_%E2%80%93_Generative_infrastructure_for_Python", 
       "roles": [
         "title"
       ]
@@ -1427,7 +1449,7 @@
           }
         }
       ], 
-      "term": "floss manuals workshop", 
+      "term": "Floss_Manuals_Workshop", 
       "roles": [
         "title"
       ]
@@ -1450,7 +1472,7 @@
           }
         }
       ], 
-      "term": "font bakery: testing quality", 
+      "term": "Font_Bakery%3A_Testing_Quality", 
       "roles": [
         "title"
       ]
@@ -1472,7 +1494,7 @@
           }
         }
       ], 
-      "term": "fonts in printed circuit board design tools", 
+      "term": "Fonts_in_Printed_Circuit_Board_design_tools", 
       "roles": [
         "title"
       ]
@@ -1494,7 +1516,7 @@
           }
         }
       ], 
-      "term": "francesco siddi", 
+      "term": "Francesco_Siddi", 
       "roles": [
         "presenter"
       ]
@@ -1516,7 +1538,7 @@
           }
         }
       ], 
-      "term": "frank e. blokland", 
+      "term": "Frank_E._Blokland", 
       "roles": [
         "presenter"
       ]
@@ -1538,31 +1560,9 @@
           }
         }
       ], 
-      "term": "frederik steinmetz", 
+      "term": "Frederik_Steinmetz", 
       "roles": [
         "presenter"
-      ]
-    }, 
-    {
-      "forms": [
-        "Free culture aware educators in art and design education"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Larisa Blazic and others"
-            ], 
-            "title": [
-              "Free culture aware educators in art and design education"
-            ]
-          }
-        }
-      ], 
-      "term": "free culture aware educators in art and design education", 
-      "roles": [
-        "title"
       ]
     }, 
     {
@@ -1582,7 +1582,29 @@
           }
         }
       ], 
-      "term": "freecad's \"arch\" workbench:  bridging the gap in the linux (aec) design tool-set", 
+      "term": "FreeCAD%27s_%22Arch%22_Workbench%3A__Bridging_the_Gap_in_the_Linux_%28AEC%29_Design_Tool-set", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Free culture aware educators in art and design education"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Larisa Blazic and others"
+            ], 
+            "title": [
+              "Free culture aware educators in art and design education"
+            ]
+          }
+        }
+      ], 
+      "term": "Free_culture_aware_educators_in_art_and_design_education", 
       "roles": [
         "title"
       ]
@@ -1606,7 +1628,7 @@
           }
         }
       ], 
-      "term": "fridrich strba", 
+      "term": "Fridrich_Strba", 
       "roles": [
         "presenter"
       ]
@@ -1628,9 +1650,55 @@
           }
         }
       ], 
-      "term": "gegl is not gimp - creating graphic applications with gegl", 
+      "term": "GEGL_is_not_GIMP_-_creating_graphic_applications_with_GEGL", 
       "roles": [
         "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "GNOME Design: Open to all"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Allan Day", 
+              "Jakub Steiner"
+            ], 
+            "title": [
+              "GNOME Design: Open to all"
+            ]
+          }
+        }
+      ], 
+      "term": "GNOME_Design%3A_Open_to_all", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "GSoC students and mentors"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Mario Behling", 
+              "GSoC students and mentors"
+            ], 
+            "title": [
+              "Google Summer of Code Graphics Projects Meet Up"
+            ]
+          }
+        }
+      ], 
+      "term": "GSoC_students_and_mentors", 
+      "roles": [
+        "presenter"
       ]
     }, 
     {
@@ -1665,7 +1733,7 @@
           }
         }
       ], 
-      "term": "georg hofstetter", 
+      "term": "Georg_Hofstetter", 
       "roles": [
         "presenter"
       ]
@@ -1689,7 +1757,7 @@
           }
         }
       ], 
-      "term": "ginger coons", 
+      "term": "Ginger_coons", 
       "roles": [
         "presenter"
       ]
@@ -1712,30 +1780,7 @@
           }
         }
       ], 
-      "term": "glittergallery: taking the designer's office online", 
-      "roles": [
-        "title"
-      ]
-    }, 
-    {
-      "forms": [
-        "GNOME Design: Open to all"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Allan Day", 
-              "Jakub Steiner"
-            ], 
-            "title": [
-              "GNOME Design: Open to all"
-            ]
-          }
-        }
-      ], 
-      "term": "gnome design: open to all", 
+      "term": "GlitterGallery%3A_Taking_the_designer%27s_office_online", 
       "roles": [
         "title"
       ]
@@ -1758,7 +1803,7 @@
           }
         }
       ], 
-      "term": "google summer of code graphics projects meet up", 
+      "term": "Google_Summer_of_Code_Graphics_Projects_Meet_Up", 
       "roles": [
         "title"
       ]
@@ -1780,30 +1825,7 @@
           }
         }
       ], 
-      "term": "gottfried hofmann", 
-      "roles": [
-        "presenter"
-      ]
-    }, 
-    {
-      "forms": [
-        "GSoC students and mentors"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Mario Behling", 
-              "GSoC students and mentors"
-            ], 
-            "title": [
-              "Google Summer of Code Graphics Projects Meet Up"
-            ]
-          }
-        }
-      ], 
-      "term": "gsoc students and mentors", 
+      "term": "Gottfried_Hofmann", 
       "roles": [
         "presenter"
       ]
@@ -1826,7 +1848,7 @@
           }
         }
       ], 
-      "term": "hacking beziers with python and shoebot", 
+      "term": "Hacking_Beziers_with_Python_and_Shoebot", 
       "roles": [
         "title"
       ]
@@ -1848,7 +1870,7 @@
           }
         }
       ], 
-      "term": "hariphunchai: designing a tai tham unicode font", 
+      "term": "Hariphunchai%3A_Designing_a_Tai_Tham_Unicode_Font", 
       "roles": [
         "title"
       ]
@@ -1871,7 +1893,7 @@
           }
         }
       ], 
-      "term": "henri bergius", 
+      "term": "Henri_Bergius", 
       "roles": [
         "presenter"
       ]
@@ -1893,7 +1915,7 @@
           }
         }
       ], 
-      "term": "impose this", 
+      "term": "Impose_This", 
       "roles": [
         "title"
       ]
@@ -1915,7 +1937,7 @@
           }
         }
       ], 
-      "term": "inklinging inklings", 
+      "term": "Inklinging_Inklings", 
       "roles": [
         "title"
       ]
@@ -1937,9 +1959,33 @@
           }
         }
       ], 
-      "term": "introduction to open source 3d printing", 
+      "term": "Introduction_to_Open_Source_3D_Printing", 
       "roles": [
         "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "J\u00e9rome Boulanger"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "David Tschumperl\u00e9", 
+              "Patrick David", 
+              "J\u00e9rome Boulanger"
+            ], 
+            "title": [
+              "A 2012-2013 retrospective of the G'MIC project : New features from artists/developers collaborations"
+            ]
+          }
+        }
+      ], 
+      "term": "J%C3%A9rome_Boulanger", 
+      "roles": [
+        "presenter"
       ]
     }, 
     {
@@ -1960,7 +2006,7 @@
           }
         }
       ], 
-      "term": "jakub steiner", 
+      "term": "Jakub_Steiner", 
       "roles": [
         "presenter"
       ]
@@ -1984,7 +2030,7 @@
           }
         }
       ], 
-      "term": "janis bullert", 
+      "term": "Janis_Bullert", 
       "roles": [
         "presenter"
       ]
@@ -2007,31 +2053,7 @@
           }
         }
       ], 
-      "term": "jason harder", 
-      "roles": [
-        "presenter"
-      ]
-    }, 
-    {
-      "forms": [
-        "J\u00e9rome Boulanger"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "David Tschumperl\u00e9", 
-              "Patrick David", 
-              "J\u00e9rome Boulanger"
-            ], 
-            "title": [
-              "A 2012-2013 retrospective of the G'MIC project : New features from artists/developers collaborations"
-            ]
-          }
-        }
-      ], 
-      "term": "jerome boulanger", 
+      "term": "Jason_Harder", 
       "roles": [
         "presenter"
       ]
@@ -2053,7 +2075,7 @@
           }
         }
       ], 
-      "term": "johannes hanika", 
+      "term": "Johannes_Hanika", 
       "roles": [
         "presenter"
       ]
@@ -2076,7 +2098,7 @@
           }
         }
       ], 
-      "term": "jon nordby", 
+      "term": "Jon_Nordby", 
       "roles": [
         "presenter"
       ]
@@ -2098,7 +2120,7 @@
           }
         }
       ], 
-      "term": "jonas oberg", 
+      "term": "Jonas_%C3%96berg", 
       "roles": [
         "presenter"
       ]
@@ -2122,7 +2144,7 @@
           }
         }
       ], 
-      "term": "joscha jaeger", 
+      "term": "Joscha_Jaeger", 
       "roles": [
         "presenter"
       ]
@@ -2148,7 +2170,7 @@
           }
         }
       ], 
-      "term": "juancho", 
+      "term": "Juancho", 
       "roles": [
         "presenter"
       ]
@@ -2170,7 +2192,7 @@
           }
         }
       ], 
-      "term": "julia velkova oberg", 
+      "term": "Julia_Velkova_%C3%96berg", 
       "roles": [
         "presenter"
       ]
@@ -2192,7 +2214,7 @@
           }
         }
       ], 
-      "term": "juraj sukop", 
+      "term": "Juraj_Sukop", 
       "roles": [
         "presenter"
       ]
@@ -2214,7 +2236,7 @@
           }
         }
       ], 
-      "term": "keeping metadata in remixed works", 
+      "term": "Keeping_metadata_in_remixed_works", 
       "roles": [
         "title"
       ]
@@ -2236,7 +2258,7 @@
           }
         }
       ], 
-      "term": "kenan bolukbasi", 
+      "term": "Kenan_B%C3%B6l%C3%BCkba%C5%9F%C4%B1", 
       "roles": [
         "presenter"
       ]
@@ -2258,7 +2280,7 @@
           }
         }
       ], 
-      "term": "knitting machine hacking - how i helped bootstrap the 'movement'", 
+      "term": "Knitting_machine_hacking_-_how_I_helped_bootstrap_the_%27movement%27", 
       "roles": [
         "title"
       ]
@@ -2280,7 +2302,7 @@
           }
         }
       ], 
-      "term": "larisa blazic and others", 
+      "term": "Larisa_Blazic_and_others", 
       "roles": [
         "presenter"
       ]
@@ -2302,7 +2324,7 @@
           }
         }
       ], 
-      "term": "lasse fister", 
+      "term": "Lasse_Fister", 
       "roles": [
         "presenter"
       ]
@@ -2324,7 +2346,7 @@
           }
         }
       ], 
-      "term": "libre graphic workstation at medialab-prado madrid", 
+      "term": "Libre_Graphic_Workstation_at_Medialab-Prado_Madrid", 
       "roles": [
         "title"
       ]
@@ -2346,7 +2368,7 @@
           }
         }
       ], 
-      "term": "loraine furter", 
+      "term": "Loraine_Furter", 
       "roles": [
         "presenter"
       ]
@@ -2370,7 +2392,7 @@
           }
         }
       ], 
-      "term": "magic lantern - free software on your camera", 
+      "term": "Magic_Lantern_-_Free_Software_on_Your_Camera", 
       "roles": [
         "title"
       ]
@@ -2394,7 +2416,7 @@
           }
         }
       ], 
-      "term": "magic lantern - workshop", 
+      "term": "Magic_Lantern_-_Workshop", 
       "roles": [
         "title"
       ]
@@ -2416,7 +2438,7 @@
           }
         }
       ], 
-      "term": "manuel quinones", 
+      "term": "Manuel_Qui%C3%B1ones", 
       "roles": [
         "presenter"
       ]
@@ -2439,7 +2461,7 @@
           }
         }
       ], 
-      "term": "mario behling", 
+      "term": "Mario_Behling", 
       "roles": [
         "presenter"
       ]
@@ -2462,7 +2484,7 @@
           }
         }
       ], 
-      "term": "mathieu duponchelle", 
+      "term": "Mathieu_Duponchelle", 
       "roles": [
         "presenter"
       ]
@@ -2484,7 +2506,7 @@
           }
         }
       ], 
-      "term": "matthieu dupont de dinechin", 
+      "term": "Matthieu_Dupont_de_Dinechin", 
       "roles": [
         "presenter"
       ]
@@ -2506,33 +2528,9 @@
           }
         }
       ], 
-      "term": "mesh conceptions", 
+      "term": "Mesh_Conceptions", 
       "roles": [
         "title"
-      ]
-    }, 
-    {
-      "forms": [
-        "Michael Zeder"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Danja Vasiliev", 
-              "Michael Zeder", 
-              "Joscha Jaeger"
-            ], 
-            "title": [
-              "Superglue, phase 2"
-            ]
-          }
-        }
-      ], 
-      "term": "michael zeder", 
-      "roles": [
-        "presenter"
       ]
     }, 
     {
@@ -2567,7 +2565,31 @@
           }
         }
       ], 
-      "term": "michael zoller", 
+      "term": "Michael_Z%C3%B6ller", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Michael Zeder"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Danja Vasiliev", 
+              "Michael Zeder", 
+              "Joscha Jaeger"
+            ], 
+            "title": [
+              "Superglue, phase 2"
+            ]
+          }
+        }
+      ], 
+      "term": "Michael_Zeder", 
       "roles": [
         "presenter"
       ]
@@ -2590,7 +2612,7 @@
           }
         }
       ], 
-      "term": "mikhail kashkin", 
+      "term": "Mikhail_Kashkin", 
       "roles": [
         "presenter"
       ]
@@ -2614,7 +2636,7 @@
           }
         }
       ], 
-      "term": "minuette le", 
+      "term": "Minuette_Le", 
       "roles": [
         "presenter"
       ]
@@ -2651,7 +2673,7 @@
           }
         }
       ], 
-      "term": "myriam cea", 
+      "term": "Myriam_Cea", 
       "roles": [
         "presenter"
       ]
@@ -2684,7 +2706,7 @@
           }
         }
       ], 
-      "term": "nathan willis", 
+      "term": "Nathan_Willis", 
       "roles": [
         "presenter"
       ]
@@ -2706,7 +2728,7 @@
           }
         }
       ], 
-      "term": "natron: video compositing software", 
+      "term": "Natron%3A_video_compositing_software", 
       "roles": [
         "title"
       ]
@@ -2729,7 +2751,7 @@
           }
         }
       ], 
-      "term": "next-generation f/loss video editing with pitivi and ges: status and roadmap", 
+      "term": "Next-Generation_F%2FLOSS_Video_Editing_with_Pitivi_and_GES%3A_Status_and_Roadmap", 
       "roles": [
         "title"
       ]
@@ -2752,7 +2774,7 @@
           }
         }
       ], 
-      "term": "nicolas franck pauly", 
+      "term": "Nicolas_Franck_Pauly", 
       "roles": [
         "presenter"
       ]
@@ -2775,147 +2797,7 @@
           }
         }
       ], 
-      "term": "nuancier- community generated and selected artwork", 
-      "roles": [
-        "title"
-      ]
-    }, 
-    {
-      "forms": [
-        "Octavio Pardo"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Dave Crossland", 
-              "Vernon Adams", 
-              "Octavio Pardo", 
-              "Alexei Vanyashin"
-            ], 
-            "title": [
-              "Crafting Type: Fontforge Workshop"
-            ]
-          }
-        }
-      ], 
-      "term": "octavio pardo", 
-      "roles": [
-        "presenter"
-      ]
-    }, 
-    {
-      "forms": [
-        "Oliver Markowski"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Oliver Markowski", 
-              "Timur Hairulin", 
-              "Erkan \u00d6zg\u00fcr Y\u0131lmaz"
-            ], 
-            "title": [
-              "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
-            ]
-          }
-        }
-      ], 
-      "term": "oliver markowski", 
-      "roles": [
-        "presenter"
-      ]
-    }, 
-    {
-      "forms": [
-        "Onyeibo Oku"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Onyeibo Oku"
-            ], 
-            "title": [
-              "FreeCAD's \"Arch\" Workbench:  Bridging the Gap in the Linux (AEC) Design Tool-set"
-            ]
-          }
-        }
-      ], 
-      "term": "onyeibo oku", 
-      "roles": [
-        "presenter"
-      ]
-    }, 
-    {
-      "forms": [
-        "Open Hardware devices to aid software testing"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Steve Conklin"
-            ], 
-            "title": [
-              "Open Hardware devices to aid software testing"
-            ]
-          }
-        }
-      ], 
-      "term": "open hardware devices to aid software testing", 
-      "roles": [
-        "title"
-      ]
-    }, 
-    {
-      "forms": [
-        "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Oliver Markowski", 
-              "Timur Hairulin", 
-              "Erkan \u00d6zg\u00fcr Y\u0131lmaz"
-            ], 
-            "title": [
-              "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
-            ]
-          }
-        }
-      ], 
-      "term": "opensource renderfarm management afanasy and project tracking tools stalker and tactic", 
-      "roles": [
-        "title"
-      ]
-    }, 
-    {
-      "forms": [
-        "Operating Systems"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Christoph Haag", 
-              "Femke Snelting"
-            ], 
-            "title": [
-              "Operating Systems"
-            ]
-          }
-        }
-      ], 
-      "term": "operating systems", 
+      "term": "Nuancier-_Community_generated_and_selected_artwork", 
       "roles": [
         "title"
       ]
@@ -2937,7 +2819,7 @@
           }
         }
       ], 
-      "term": "osl in blender - the power of the plugin", 
+      "term": "OSL_in_Blender_-_The_power_of_the_plugin", 
       "roles": [
         "title"
       ]
@@ -2961,31 +2843,149 @@
           }
         }
       ], 
-      "term": "osp open source publishing", 
+      "term": "OSP_Open_Source_Publishing", 
       "roles": [
         "presenter"
       ]
     }, 
     {
       "forms": [
-        "\u00d8yvind Kol\u00e5s"
+        "Octavio Pardo"
       ], 
       "docs": [
         {
           "doc": "microdata/2014.json", 
           "properties": {
             "presenter": [
-              "\u00d8yvind Kol\u00e5s"
+              "Dave Crossland", 
+              "Vernon Adams", 
+              "Octavio Pardo", 
+              "Alexei Vanyashin"
             ], 
             "title": [
-              "0xA000 a font family"
+              "Crafting Type: Fontforge Workshop"
             ]
           }
         }
       ], 
-      "term": "oyvind kolas", 
+      "term": "Octavio_Pardo", 
       "roles": [
         "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Oliver Markowski"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Oliver Markowski", 
+              "Timur Hairulin", 
+              "Erkan \u00d6zg\u00fcr Y\u0131lmaz"
+            ], 
+            "title": [
+              "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
+            ]
+          }
+        }
+      ], 
+      "term": "Oliver_Markowski", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Onyeibo Oku"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Onyeibo Oku"
+            ], 
+            "title": [
+              "FreeCAD's \"Arch\" Workbench:  Bridging the Gap in the Linux (AEC) Design Tool-set"
+            ]
+          }
+        }
+      ], 
+      "term": "Onyeibo_Oku", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Open Hardware devices to aid software testing"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Steve Conklin"
+            ], 
+            "title": [
+              "Open Hardware devices to aid software testing"
+            ]
+          }
+        }
+      ], 
+      "term": "Open_Hardware_devices_to_aid_software_testing", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Oliver Markowski", 
+              "Timur Hairulin", 
+              "Erkan \u00d6zg\u00fcr Y\u0131lmaz"
+            ], 
+            "title": [
+              "opensource renderfarm management AFANASY and project tracking tools STALKER and TACTIC"
+            ]
+          }
+        }
+      ], 
+      "term": "Opensource_renderfarm_management_AFANASY_and_project_tracking_tools_STALKER_and_TACTIC", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Operating Systems"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Christoph Haag", 
+              "Femke Snelting"
+            ], 
+            "title": [
+              "Operating Systems"
+            ]
+          }
+        }
+      ], 
+      "term": "Operating_Systems", 
+      "roles": [
+        "title"
       ]
     }, 
     {
@@ -3019,7 +3019,7 @@
           }
         }
       ], 
-      "term": "patrick david", 
+      "term": "Patrick_David", 
       "roles": [
         "presenter"
       ]
@@ -3042,7 +3042,7 @@
           }
         }
       ], 
-      "term": "peter liljenberg", 
+      "term": "Peter_Liljenberg", 
       "roles": [
         "presenter"
       ]
@@ -3064,7 +3064,7 @@
           }
         }
       ], 
-      "term": "peter sikking", 
+      "term": "Peter_sikking", 
       "roles": [
         "presenter"
       ]
@@ -3087,7 +3087,7 @@
           }
         }
       ], 
-      "term": "pierre-yves chibon", 
+      "term": "Pierre-Yves_Chibon", 
       "roles": [
         "presenter"
       ]
@@ -3113,7 +3113,7 @@
           }
         }
       ], 
-      "term": "please feed the monster! creating and improving graphics for wikipedia with floss tools.", 
+      "term": "Please_feed_the_monster%21_Creating_and_improving_graphics_for_Wikipedia_with_FLOSS_tools.", 
       "roles": [
         "title"
       ]
@@ -3135,9 +3135,59 @@
           }
         }
       ], 
-      "term": "project gooseberry - open animated feature from the blender institute", 
+      "term": "Project_Gooseberry_-_Open_Animated_Feature_from_the_Blender_Institute", 
       "roles": [
         "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "R\u00faben"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Eduardo Merch\u00e1n", 
+              "Juancho", 
+              "Myriam Cea", 
+              "R\u00faben", 
+              "David"
+            ], 
+            "title": [
+              "Please feed the monster! Creating and improving graphics for Wikipedia with FLOSS tools."
+            ]
+          }
+        }
+      ], 
+      "term": "R%C3%BAben", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "R\u00fcdiger Heins"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Arno Sagawe", 
+              "R\u00fcdiger Heins", 
+              "Janis Bullert"
+            ], 
+            "title": [
+              "DialogueMaps: Creating Interactive Visualizations in learning or meeting contexts"
+            ]
+          }
+        }
+      ], 
+      "term": "R%C3%BCdiger_Heins", 
+      "roles": [
+        "presenter"
       ]
     }, 
     {
@@ -3157,7 +3207,7 @@
           }
         }
       ], 
-      "term": "raphael bastide", 
+      "term": "Rapha%C3%ABl_Bastide", 
       "roles": [
         "presenter"
       ]
@@ -3179,7 +3229,7 @@
           }
         }
       ], 
-      "term": "reconstruction of a medieval manikin with blender", 
+      "term": "Reconstruction_of_a_medieval_manikin_with_Blender", 
       "roles": [
         "title"
       ]
@@ -3202,7 +3252,7 @@
           }
         }
       ], 
-      "term": "relearn (variable summerschool)", 
+      "term": "Relearn_%28Variable_Summerschool%29", 
       "roles": [
         "title"
       ]
@@ -3250,7 +3300,7 @@
           }
         }
       ], 
-      "term": "ricardo lafuente", 
+      "term": "Ricardo_Lafuente", 
       "roles": [
         "presenter"
       ]
@@ -3272,7 +3322,7 @@
           }
         }
       ], 
-      "term": "richard hughes", 
+      "term": "Richard_Hughes", 
       "roles": [
         "presenter"
       ]
@@ -3308,33 +3358,7 @@
           }
         }
       ], 
-      "term": "roman telezhinsky", 
-      "roles": [
-        "presenter"
-      ]
-    }, 
-    {
-      "forms": [
-        "R\u00faben"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Eduardo Merch\u00e1n", 
-              "Juancho", 
-              "Myriam Cea", 
-              "R\u00faben", 
-              "David"
-            ], 
-            "title": [
-              "Please feed the monster! Creating and improving graphics for Wikipedia with FLOSS tools."
-            ]
-          }
-        }
-      ], 
-      "term": "ruben", 
+      "term": "Roman_Telezhinsky", 
       "roles": [
         "presenter"
       ]
@@ -3357,33 +3381,53 @@
           }
         }
       ], 
-      "term": "ruben ojeda", 
+      "term": "Rub%C3%A9n_Ojeda", 
       "roles": [
         "presenter"
       ]
     }, 
     {
       "forms": [
-        "R\u00fcdiger Heins"
+        "SURFER - a real-time raytracer for algebraic surfaces"
       ], 
       "docs": [
         {
           "doc": "microdata/2014.json", 
           "properties": {
             "presenter": [
-              "Arno Sagawe", 
-              "R\u00fcdiger Heins", 
-              "Janis Bullert"
+              "Christian Stussak"
             ], 
             "title": [
-              "DialogueMaps: Creating Interactive Visualizations in learning or meeting contexts"
+              "SURFER - a real-time raytracer for algebraic surfaces"
             ]
           }
         }
       ], 
-      "term": "rudiger heins", 
+      "term": "SURFER_-_a_real-time_raytracer_for_algebraic_surfaces", 
       "roles": [
-        "presenter"
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "SVG 2 and the Artist"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Tavmjong Bah"
+            ], 
+            "title": [
+              "SVG 2 and the Artist"
+            ]
+          }
+        }
+      ], 
+      "term": "SVG_2_and_the_Artist", 
+      "roles": [
+        "title"
       ]
     }, 
     {
@@ -3404,7 +3448,7 @@
           }
         }
       ], 
-      "term": "sarup  banskota", 
+      "term": "Sarup__Banskota", 
       "roles": [
         "presenter"
       ]
@@ -3427,7 +3471,7 @@
           }
         }
       ], 
-      "term": "scribus in real-world scenarios: pros and cons", 
+      "term": "Scribus_in_Real-World_Scenarios%3A_Pros_and_Cons", 
       "roles": [
         "title"
       ]
@@ -3449,7 +3493,7 @@
           }
         }
       ], 
-      "term": "sebastian konig", 
+      "term": "Sebastian_K%C3%B6nig", 
       "roles": [
         "presenter"
       ]
@@ -3471,7 +3515,7 @@
           }
         }
       ], 
-      "term": "simon budig", 
+      "term": "Simon_Budig", 
       "roles": [
         "presenter"
       ]
@@ -3494,7 +3538,7 @@
           }
         }
       ], 
-      "term": "simon egli", 
+      "term": "Simon_Egli", 
       "roles": [
         "presenter"
       ]
@@ -3518,7 +3562,7 @@
           }
         }
       ], 
-      "term": "simon worthington", 
+      "term": "Simon_Worthington", 
       "roles": [
         "presenter"
       ]
@@ -3541,7 +3585,7 @@
           }
         }
       ], 
-      "term": "sirko kemter", 
+      "term": "Sirko_Kemter", 
       "roles": [
         "presenter"
       ]
@@ -3563,29 +3607,7 @@
           }
         }
       ], 
-      "term": "specimen - a web project on open source fonts", 
-      "roles": [
-        "title"
-      ]
-    }, 
-    {
-      "forms": [
-        "State of Color Management"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Chris Murphy"
-            ], 
-            "title": [
-              "State of Color Management"
-            ]
-          }
-        }
-      ], 
-      "term": "state of color management", 
+      "term": "Specimen_%E2%80%93_a_web_project_on_open_source_fonts", 
       "roles": [
         "title"
       ]
@@ -3609,9 +3631,31 @@
           }
         }
       ], 
-      "term": "stephanie vilayphiou", 
+      "term": "St%C3%A9phanie_Vilayphiou", 
       "roles": [
         "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "State of Color Management"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "title": [
+              "State of Color Management"
+            ]
+          }
+        }
+      ], 
+      "term": "State_of_Color_Management", 
+      "roles": [
+        "title"
       ]
     }, 
     {
@@ -3667,7 +3711,7 @@
           }
         }
       ], 
-      "term": "steve conklin", 
+      "term": "Steve_Conklin", 
       "roles": [
         "presenter"
       ]
@@ -3690,7 +3734,7 @@
           }
         }
       ], 
-      "term": "stuart axon", 
+      "term": "Stuart_Axon", 
       "roles": [
         "presenter"
       ]
@@ -3714,29 +3758,7 @@
           }
         }
       ], 
-      "term": "superglue, phase 2", 
-      "roles": [
-        "title"
-      ]
-    }, 
-    {
-      "forms": [
-        "SURFER - a real-time raytracer for algebraic surfaces"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Christian Stussak"
-            ], 
-            "title": [
-              "SURFER - a real-time raytracer for algebraic surfaces"
-            ]
-          }
-        }
-      ], 
-      "term": "surfer - a real-time raytracer for algebraic surfaces", 
+      "term": "Superglue%2C_phase_2", 
       "roles": [
         "title"
       ]
@@ -3761,31 +3783,9 @@
           }
         }
       ], 
-      "term": "susan spencer", 
+      "term": "Susan_Spencer", 
       "roles": [
         "presenter"
-      ]
-    }, 
-    {
-      "forms": [
-        "SVG 2 and the Artist"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Tavmjong Bah"
-            ], 
-            "title": [
-              "SVG 2 and the Artist"
-            ]
-          }
-        }
-      ], 
-      "term": "svg 2 and the artist", 
-      "roles": [
-        "title"
       ]
     }, 
     {
@@ -3805,7 +3805,7 @@
           }
         }
       ], 
-      "term": "tavmjong bah", 
+      "term": "Tavmjong_Bah", 
       "roles": [
         "presenter"
       ]
@@ -3829,7 +3829,7 @@
           }
         }
       ], 
-      "term": "template this!", 
+      "term": "Template_This%21", 
       "roles": [
         "title"
       ]
@@ -3851,29 +3851,7 @@
           }
         }
       ], 
-      "term": "tethered camera control and capture with entangle", 
-      "roles": [
-        "title"
-      ]
-    }, 
-    {
-      "forms": [
-        "The basics of reverse engineering: How and Why?"
-      ], 
-      "docs": [
-        {
-          "doc": "microdata/2014.json", 
-          "properties": {
-            "presenter": [
-              "Steve Conklin"
-            ], 
-            "title": [
-              "The basics of reverse engineering: How and Why?"
-            ]
-          }
-        }
-      ], 
-      "term": "the basics of reverse engineering: how and why?", 
+      "term": "Tethered_camera_control_and_capture_with_Entangle", 
       "roles": [
         "title"
       ]
@@ -3895,7 +3873,7 @@
           }
         }
       ], 
-      "term": "the multitoner: high quality grayscale image reproduction", 
+      "term": "The_Multitoner%3A_High_quality_grayscale_image_reproduction", 
       "roles": [
         "title"
       ]
@@ -3917,7 +3895,29 @@
           }
         }
       ], 
-      "term": "the screenless office", 
+      "term": "The_Screenless_Office", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "The basics of reverse engineering: How and Why?"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/2014.json", 
+          "properties": {
+            "presenter": [
+              "Steve Conklin"
+            ], 
+            "title": [
+              "The basics of reverse engineering: How and Why?"
+            ]
+          }
+        }
+      ], 
+      "term": "The_basics_of_reverse_engineering%3A_How_and_Why%3F", 
       "roles": [
         "title"
       ]
@@ -3940,7 +3940,7 @@
           }
         }
       ], 
-      "term": "thibault saunier", 
+      "term": "Thibault_Saunier", 
       "roles": [
         "presenter"
       ]
@@ -3962,7 +3962,7 @@
           }
         }
       ], 
-      "term": "timothee giet", 
+      "term": "Timoth%C3%A9e_Giet", 
       "roles": [
         "presenter"
       ]
@@ -3986,7 +3986,7 @@
           }
         }
       ], 
-      "term": "timur hairulin", 
+      "term": "Timur_Hairulin", 
       "roles": [
         "presenter"
       ]
@@ -4009,7 +4009,7 @@
           }
         }
       ], 
-      "term": "tobias ellinghaus", 
+      "term": "Tobias_Ellinghaus", 
       "roles": [
         "presenter"
       ]
@@ -4042,7 +4042,7 @@
           }
         }
       ], 
-      "term": "tom lechner", 
+      "term": "Tom_Lechner", 
       "roles": [
         "presenter"
       ]
@@ -4064,7 +4064,7 @@
           }
         }
       ], 
-      "term": "ui design for full gegl integration in gimp", 
+      "term": "UI_design_for_full_GEGL_integration_in_GIMP", 
       "roles": [
         "title"
       ]
@@ -4088,7 +4088,7 @@
           }
         }
       ], 
-      "term": "ulrike gollner", 
+      "term": "Ulrike_Gollner", 
       "roles": [
         "presenter"
       ]
@@ -4110,7 +4110,7 @@
           }
         }
       ], 
-      "term": "use & modify: my font collection is yours", 
+      "term": "Use_%26_Modify%3A_My_font_collection_is_yours", 
       "roles": [
         "title"
       ]
@@ -4133,7 +4133,7 @@
           }
         }
       ], 
-      "term": "utilizing fl/oss tools in a photographic workflow - part ii: the work", 
+      "term": "Utilizing_FL%2FOSS_tools_in_a_photographic_workflow_%E2%80%93_Part_II%3A_The_Work", 
       "roles": [
         "title"
       ]
@@ -4157,7 +4157,7 @@
           }
         }
       ], 
-      "term": "valek filippov", 
+      "term": "Valek_Filippov", 
       "roles": [
         "presenter"
       ]
@@ -4182,7 +4182,7 @@
           }
         }
       ], 
-      "term": "valentina hackathon", 
+      "term": "Valentina_Hackathon", 
       "roles": [
         "title"
       ]
@@ -4204,7 +4204,7 @@
           }
         }
       ], 
-      "term": "valentina pattern design software", 
+      "term": "Valentina_Pattern_Design_Software", 
       "roles": [
         "title"
       ]
@@ -4229,7 +4229,7 @@
           }
         }
       ], 
-      "term": "vernon adams", 
+      "term": "Vernon_Adams", 
       "roles": [
         "presenter"
       ]
@@ -4252,7 +4252,7 @@
           }
         }
       ], 
-      "term": "visually programming libre graphics tools", 
+      "term": "Visually_programming_libre_graphics_tools", 
       "roles": [
         "title"
       ]
@@ -4274,7 +4274,7 @@
           }
         }
       ], 
-      "term": "wavelets for image processing", 
+      "term": "Wavelets_for_image_processing", 
       "roles": [
         "title"
       ]
@@ -4296,7 +4296,7 @@
           }
         }
       ], 
-      "term": "what about the color?", 
+      "term": "What_about_the_color%3F", 
       "roles": [
         "title"
       ]
@@ -4318,7 +4318,7 @@
           }
         }
       ], 
-      "term": "where the users are", 
+      "term": "Where_The_Users_Are", 
       "roles": [
         "title"
       ]
@@ -4341,7 +4341,7 @@
           }
         }
       ], 
-      "term": "wikiars, involving art & design schools in free knowledge wiki projects", 
+      "term": "WikiArS%2C_involving_art_%26_design_schools_in_free_knowledge_wiki_projects", 
       "roles": [
         "title"
       ]
@@ -4363,7 +4363,7 @@
           }
         }
       ], 
-      "term": "wojtek grabczak", 
+      "term": "Wojtek_Grabczak", 
       "roles": [
         "presenter"
       ]

@@ -21,10 +21,10 @@ microdata/index.json: $(microdata)
 # Views
 
 index_titles.html: microdata/index.json views/templates/index_titles.html
-	python views/index.py microdata/index.json --role title --templatedir views/templates --template index_titles.html > $@
+	python scripts/indexview.py microdata/index.json --role title --templatedir views/templates --template index_titles.html > $@
 
 index_speakers.html: microdata/index.json views/templates/index_speakers.html
-	python views/index.py microdata/index.json --role presenter --templatedir views/templates --template index_speakers.html > $@
+	python scripts/indexview.py microdata/index.json --role presenter --templatedir views/templates --template index_speakers.html > $@
 
 clean:
 	rm index_*.html
@@ -38,6 +38,11 @@ terms_html = $(terms_md:%.md=%.html)
 terms: microdata/index.json
 	mkdir -p terms
 	$(foreach x,$(terms_md),scripts/ensure.sh $x ;)
+
+terms_html: $(terms_html)
+
+terms/%.html: terms/%.md
+	python scripts/termview.py --markdown $< --output $@
 
 print-%:
 	@echo '$*=$($*)'

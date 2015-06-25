@@ -1,7 +1,7 @@
 from __future__ import print_function
 import json, sys
 from argparse import ArgumentParser
-from unidecode import unidecode
+# from unidecode import unidecode
 from wikify import wikify
 
 p = ArgumentParser("Produces a reverse look up of md values (terms)")
@@ -17,7 +17,7 @@ data = {}
 data['terms'] = terms = {}
 
 for i in args.input:
-	print ("Reading {0}".format(i), file=sys.stderr)
+	# print ("Reading {0}".format(i), file=sys.stderr)
 	with open(i) as f:
 		d = json.load(f)
 		for item in d['items']:
