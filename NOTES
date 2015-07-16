@@ -115,11 +115,15 @@ Would like to refine the index pages to see how/if they work. In general, like t
 Intuitively, you want the items (titles probably) to link back to the program document that originated the item. Need to think about the best way to ensure id's on itemscopes.
 
 TO DO:
-* Sorting
-** Values: option for last word for names, lowercase / squash-accents
-** Items within value (secondary sort by year, title)
-* Titles & Presenters: further grouping by letter
-* Manual columns
+	* Sorting
+	** Values: option for last word for names, lowercase / squash-accents
+	** Items within value (secondary sort by year, title)
+	* Titles & Presenters: further grouping by letter
+* Manual columns (not done)
 
 * Links to program
 * Splitscreen viewing links
+
+Worked on templates as well.
+Would like to have names in title listing (eg) link to in page anchors on the by name page. Need a "idify" filter.
+

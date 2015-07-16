@@ -1430,6 +1430,182 @@
     }, 
     {
       "properties": {
+        "website": [
+          "http://kune.ourproject.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Kune Collaborative Software"
+        ], 
+        "presenter": [
+          "Samer Hassan", 
+          "Vicente Ruiz Jurado"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10821/10821.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://tomlechner.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Shareable Tools"
+        ], 
+        "presenter": [
+          "Tom Lechner"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10826/10826.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Claudia Krummenacher"
+        ], 
+        "year": [
+          2013
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10831/10831.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Printed Books versus eBooks; What we will use DTP for in the future."
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://libregraphicsmag.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Making pages turn: The physical side of F/LOSS design"
+        ], 
+        "presenter": [
+          "Ana Isabel Carvalho", 
+          "ginger coons", 
+          "Ricardo Lafuente"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10836/10836.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://tavmjong.free.fr"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "The future of SVG and Web standards."
+        ], 
+        "presenter": [
+          "Tavmjong Bah"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10841/10841.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://fontforge.github.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Fonts of DOOM: Real Time Collaboration in FontForge"
+        ], 
+        "presenter": [
+          "Ben Martin", 
+          "Dave Crossland"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10866/10866.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.madrimasd.org/blogs/futurosdellibro"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Digital Potlatch"
+        ], 
+        "presenter": [
+          "Joaquin Rodriguez"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10694/10694.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jos\u00e9 Mar\u00eda Blanco", 
+          "Mar\u00eda Sol\u00e9 Bravo", 
+          "Anna Carreras"
+        ], 
+        "year": [
+          2013
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10926/10926.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Free Freedom of Speech Kit (F2SK)"
+        ]
+      }
+    }, 
+    {
+      "properties": {
         "presenter": [
           "Louis Desjardins"
         ], 
