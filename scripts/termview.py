@@ -1,9 +1,9 @@
 # index of titles
 from __future__ import print_function
-import json, sys, os
+import json, sys, os, datetime, urllib
 from argparse import ArgumentParser
 from jinja2 import Environment, FileSystemLoader
-from wikify import wikify, dewikify
+from wikify import wikify, dewikify, markdown
 
 p = ArgumentParser("")
 p.add_argument("--index", default="microdata/index.json", help="microdata index")
@@ -26,6 +26,8 @@ with open(args.index) as f:
 env = Environment(loader=FileSystemLoader(args.templatedir))
 env.filters['wikify'] = wikify
 env.filters['dewikify'] = dewikify
+env.filters['markdown'] = markdown
+
 template = env.get_template(args.template)
 
 base = os.path.splitext(os.path.basename(args.markdown))[0]
@@ -39,4 +41,6 @@ if args.output:
 else:
 	out = sys.stdout
 
-print (template.render(term=term, markdown=markdown).encode("utf-8"), file=out)
+srcpath = os.path.relpath(args.markdown, os.path.split(args.output)[0])
+ts = datetime.datetime.now()
+print (template.render(src=srcpath, srcurl=urllib.quote(srcpath, ''), term=term, markdown=markdown, timestamp=ts).encode("utf-8"), file=out)

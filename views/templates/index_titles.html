@@ -12,6 +12,8 @@
 	<b>title</b>
 	<a href="index_presenters.html">presenter</a>
 </div>
+{% for letter, items_by_value in items_by_letter %}
+<h2 class="letter">{{letter}}</h2>
 <ul>{% for value, items in items_by_value %}
 	{% for item in items %}
 	<li>
@@ -27,6 +29,6 @@
 		</div>
 	</li>{% endfor %}{% endfor %}
 </ul>
-
+{%endfor%}
 </body>
 </html>

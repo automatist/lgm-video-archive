@@ -176,8 +176,8 @@ t = html5lib.parse(src, namespaceHTMLElements=False)
 doc = ElementWrapper.from_html_root(t)
 
 for scraper in scrapers:
-    if args.verbose: print ("Running scraper", file=sys.stderr)
     item_selector = scraper.get("item")
+    if args.verbose: print ("Running scraper {0}".format(item_selector), file=sys.stderr)
     for item_elt in doc.query_all(item_selector):
         if args.verbose: print ("ITEM: {0}".format(tag_open(item_elt.etree_element)), file=sys.stderr)
         item_elt.etree_element.set("itemscope", "itemscope")
@@ -185,12 +185,16 @@ for scraper in scrapers:
         try:
             item = {}
             for key, selector in scraper['keys'].items():
+                if args.verbose:
+                    print ("key, selector: {0}, {1}".format(key, selector), file=sys.stderr)
+                #continue
                 item[key] = item_selection(item_elt, selector, key, verbose=args.verbose)
             items.append(item)
         except RequirementMissing:
-            pass
-            # print ("Skipping item", file=sys.stderr)
-
+            if args.verbose:
+                print ("RequirementMissing for selector {0}".format(selector), file=sys.stderr)
+            # pass
+ 
 
 if args.output == "json":
     print (json.dumps(items))

@@ -13,8 +13,10 @@
 	<b>presenter</b>
 </div>
 <div class="listing">
+{% for letter, items_by_value in items_by_letter %}
+<h2 class="letter">{{letter}}</h2>
 <ul>{% for value, items in items_by_value %}
-	<h2 class="presenter value">{{value}}</h2>
+	<h3 class="presenter value">{{value}}</h3>
 	{% for item in items %}
 	<li>
 		<div class="title">
@@ -31,6 +33,7 @@
 		</div>
 	</li>{% endfor %}{% endfor %}
 </ul>
+{%endfor%}
 </div>
 </body>
 </html>

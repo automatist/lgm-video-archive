@@ -3,10 +3,17 @@
 <head>
 	<title>{{term}}</title>
 	<meta charset="utf-8" />
+	<link rel="derived_from" href="{{src}}" />
 </head>
 <body>
-	<h1>{{term}}</h1>
-	<div id="body">{{ markdown }}
+	<div id="content" itemscope>
+		<h1 itemprop="name">{{term}}</h1>
+		<div id="body">{{ markdown | markdown }}</div>
+		<div id="backlinks">
+			{% for clipping in scrapbook %}
+			{% endfor %}
+		</div>
+		<div class="footer">Generated from <a itemprop="source" href="{{srcurl}}">{{src}}</a> {{timestamp}}</div>
 	</div>
 </body>
 </html>

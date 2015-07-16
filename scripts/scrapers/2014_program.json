@@ -2,6 +2,8 @@
 	"item": "td.schedule_item",
 	"keys": {
 		"presenter": {"required": true, "selector": "p.schedule_presenter", "wrap": "span", "delimiter": ","},
-		"title": {"required": false, "selector": "p.schedule_title", "wrap": "span"}
+		"title": {"required": false, "selector": "p.schedule_title", "wrap": "span"},
+		"website": {"selector": "p.schedule_biography a"},
+		"pdf": {"selector": "p.schedule_slides a"}
 	}
 }

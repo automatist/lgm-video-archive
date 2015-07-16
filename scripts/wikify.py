@@ -1,7 +1,15 @@
 import urllib
+import markdown as _markdown
+
+def markdown (text):
+	if (type(text) == str):
+		text = text.decode("utf-8")
+	return _markdown.markdown(text)
 
 def wikify (n):
 	""" returns bytes """
+	if (type(n) == int):
+		n = "{0}".format(n)
 	n = n.strip()
 	n = n.replace(" ", "_")
 	if type(n) == unicode:
