@@ -2,17 +2,17 @@
   "items": [
     {
       "properties": {
-        "pdf": [
+        "slides": [
           "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.pdf"
+        ], 
+        "city": [
+          "Leipzig"
         ], 
         "year": [
           2014
         ], 
         "video": [
           "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.ogv"
-        ], 
-        "city": [
-          "Leipzig"
         ], 
         "title": [
           "State of Libre Graphics"
@@ -71,6 +71,9 @@
         "title": [
           "The Screenless Office"
         ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+        ], 
         "presenter": [
           "Brendan Howell"
         ], 
@@ -79,9 +82,6 @@
         ], 
         "year": [
           2014
-        ], 
-        "pdf": [
-          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
         ]
       }
     }, 
@@ -93,6 +93,9 @@
         "title": [
           "State of Color Management"
         ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+        ], 
         "presenter": [
           "Chris Murphy"
         ], 
@@ -101,9 +104,323 @@
         ], 
         "year": [
           2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Leipzig"
         ], 
-        "pdf": [
-          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+        "title": [
+          "UI design for full GEGL integration in GIMP"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/006_UI_design_for_Full_GEGL_integration_in_GIMP/006_UI_design_for_Full_GEGL_integration_in_GIMP.pdf"
+        ], 
+        "presenter": [
+          "peter sikking"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/006_UI_design_for_Full_GEGL_integration_in_GIMP/006_UI_design_for_Full_GEGL_integration_in_GIMP.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://gmic.sourceforge.net"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "A 2012-2013 retrospective of the G'MIC project : New features from artists/developers collaborations"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/007_A_2012-2013_retrospective_of_the_G'MIC_project/007_A_2012-2013_retrospective_of_the_G'MIC_project.pdf"
+        ], 
+        "presenter": [
+          "David Tschumperl\u00e9", 
+          "Patrick David", 
+          "J\u00e9rome Boulanger"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/007_A_2012-2013_retrospective_of_the_G'MIC_project/007_A_2012-2013_retrospective_of_the_G'MIC_project.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://jonasoberg.net/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Contextualizing Creative Works"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/008_Contextualizing_Creative_Works/008_Contextualizing_Creative_Works.pdf"
+        ], 
+        "presenter": [
+          "Jonas \u00d6berg"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/008_Contextualizing_Creative_Works/008_Contextualizing_Creative_Works.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://commonsmachinery.se"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Keeping metadata in remixed works"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/009_Keeping_metadata_in_remixed_works/009_Keeping_metadata_in_remixed_works.pdf"
+        ], 
+        "presenter": [
+          "Artem Popov"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/009_Keeping_metadata_in_remixed_works/009_Keeping_metadata_in_remixed_works.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://dialoguemaps.sourceforge.net/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "DialogueMaps: Creating Interactive Visualizations in learning or meeting contexts"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/010_DialogueMaps_Creating_Interactive_Visualizations_in_learning_or_meeting_contexts/010_DialogueMaps_Creating_Interactive_Visualizations_in_learning_or_meeting_contexts.pdf"
+        ], 
+        "presenter": [
+          "Arno Sagawe", 
+          "R\u00fcdiger Heins", 
+          "Janis Bullert"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/010_DialogueMaps_Creating_Interactive_Visualizations_in_learning_or_meeting_contexts/010_DialogueMaps_Creating_Interactive_Visualizations_in_learning_or_meeting_contexts.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://libregraphicsmag.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Beating the drums: Why we made gender an issue"
+        ], 
+        "presenter": [
+          "ginger coons", 
+          "Ana Isabel Carvalho", 
+          "Ricardo Lafuente"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/011_Beating_the_drums__Why_we_made_gender_an_issue/011_Beating_the_drums__Why_we_made_gender_an_issue.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.imaginary.org"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "SURFER - a real-time raytracer for algebraic surfaces"
+        ], 
+        "presenter": [
+          "Christian Stussak"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/012_SURFER_a_real-time_raytracer_for_algebraic_surfaces/012_SURFER_a_real-time_raytracer_for_algebraic_surfaces.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://fridrich.blogspot.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Document Liberation Project -- news from the reverse and straight engineering world"
+        ], 
+        "presenter": [
+          "Fridrich Strba", 
+          "Valek Filippov", 
+          "David Tardon"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/013_Document_Liberation_Project__news_from_the_reverse_and_straight_engineering_world/013_Document_Liberation_Project__news_from_the_reverse_and_straight_engineering_world.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://graphicore.de"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "The Multitoner: High quality grayscale image reproduction"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/016_The_Multitoner__High_quality_grayscale_image_reproduction/016_The_Multitoner__High_quality_grayscale_image_reproduction.pdf"
+        ], 
+        "presenter": [
+          "Lasse Fister"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/016_The_Multitoner__High_quality_grayscale_image_reproduction/016_The_Multitoner__High_quality_grayscale_image_reproduction.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://https/cg.ibds.kit.edu/hanika/index.php"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "wavelets for image processing "
+        ], 
+        "presenter": [
+          "Johannes Hanika"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/014_wavelets_for_image_processing/014_wavelets_for_image_processing.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.hughsie.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Building an OpenHardware Spectrograph for Color Profiling in Linux"
+        ], 
+        "presenter": [
+          "Richard Hughes"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/015_Building_an_OpenHardware_Spectograph_for_Color_Profiling_in_Linux/015_Building_an_OpenHardware_Spectograph_for_Color_Profiling_in_Linux.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://magiclantern.fm"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Magic Lantern - Free Software on Your Camera "
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/017_Magic_Lantern__Free_Software_on_Your_Camera/017_Magic_Lantern__Free_Software_on_Your_Camera.pdf"
+        ], 
+        "presenter": [
+          "Michael Z\u00f6ller", 
+          " Alex Dumitrache", 
+          "Georg Hofstetter"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/017_Magic_Lantern__Free_Software_on_Your_Camera/017_Magic_Lantern__Free_Software_on_Your_Camera.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://berrange.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Tethered camera control and capture with Entangle"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/018_Tethered_camera_control_and_capture_with_Entangle/018_Tethered_camera_control_and_capture_with_Entangle.pdf"
+        ], 
+        "presenter": [
+          "Daniel Berrange"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/018_Tethered_camera_control_and_capture_with_Entangle/018_Tethered_camera_control_and_capture_with_Entangle.ogv"
+        ], 
+        "year": [
+          2014
         ]
       }
     }, 
