@@ -381,14 +381,14 @@
           "Leipzig"
         ], 
         "title": [
-          "Magic Lantern - Free Software on Your Camera "
+          "Magic Lantern - Free Software on Your Camera"
         ], 
         "slides": [
           "http://download.gimp.org/pub/gimp/lgm/2014/day_1/017_Magic_Lantern__Free_Software_on_Your_Camera/017_Magic_Lantern__Free_Software_on_Your_Camera.pdf"
         ], 
         "presenter": [
           "Michael Z\u00f6ller", 
-          " Alex Dumitrache", 
+          "Alex Dumitrache", 
           "Georg Hofstetter"
         ], 
         "video": [
@@ -418,6 +418,898 @@
         ], 
         "video": [
           "http://download.gimp.org/pub/gimp/lgm/2014/day_1/018_Tethered_camera_control_and_capture_with_Entangle/018_Tethered_camera_control_and_capture_with_Entangle.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.w3.org/People/#clilley"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Coloured glyphs in OpenType"
+        ], 
+        "presenter": [
+          "Chris Lilley"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/019_Coloured_glyphs_in_OpenType/019_Coloured_glyphs_in_OpenType.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://lettermodel.org"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "(Development of tools for) present-day type design based historic patterns"
+        ], 
+        "presenter": [
+          "Frank E. Blokland"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/020_Development_of_tools_for_present-day_type_design_based_historic_patterns/020_Development_of_tools_for_present-day_type_design_based_historic_patterns.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://pippin.gimp.org/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "0xA000 a font family"
+        ], 
+        "presenter": [
+          "\u00d8yvind Kol\u00e5s"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/021_0xA000_a_font_family/021_0xA000_a_font_family.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://metapolator.com/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Chicken & Eggs - Designing font families with Metapolator"
+        ], 
+        "presenter": [
+          "Simon Egli", 
+          "Nicolas Franck Pauly"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/022_Chicken_and_Eggs__Designing_font_families_with_Metapolator/022_Chicken_and_Eggs__Designing_font_families_with_Metapolator.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://tragerstudio.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Hariphunchai: Designing a Tai Tham Unicode Font "
+        ], 
+        "slides": [
+          "http://unifont.org/lgm2014/"
+        ], 
+        "presenter": [
+          "Edward Trager"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/023_Hariphunchai__Designing_a_Tai_Tham_Unicode_Font/023_Hariphunchai__Designing_a_Tai_Tham_Unicode_Font.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://specimen.meteor.com/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Specimen \u2013 a web project on open source fonts "
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/024_Specimen__a_web_project_on_open_source_fonts/024_Specimen__a_web_project_on_open_source_fonts.pdf"
+        ], 
+        "presenter": [
+          "Loraine Furter"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/024_Specimen__a_web_project_on_open_source_fonts/024_Specimen__a_web_project_on_open_source_fonts.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://github.com/xen/fontbakery"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Font Bakery: Testing Quality"
+        ], 
+        "presenter": [
+          "Dave Crossland", 
+          "Mikhail Kashkin"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/043_Font_Bakery_website/043_Font_Bakery_website.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://raphaelbastide.com/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Use & Modify: My font collection is yours "
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/025_Use_and_Modify__My_font_collection_is_yours/025_Use_and_Modify__My_font_collection_is_yours.pdf"
+        ], 
+        "presenter": [
+          "Rapha\u00ebl Bastide"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/025_Use_and_Modify__My_font_collection_is_yours/025_Use_and_Modify__My_font_collection_is_yours.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.home.unix-ag.org/simon/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Fonts in Printed Circuit Board design tools "
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/026_Fonts_in_Printed_Circuit_Board_design_tools/026_Fonts_in_Printed_Circuit_Board_design_tools.pdf"
+        ], 
+        "presenter": [
+          "Simon Budig"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/026_Fonts_in_Printed_Circuit_Board_design_tools/026_Fonts_in_Printed_Circuit_Board_design_tools.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://xxyxyz.org/flat"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Flat \u2013 Generative infrastructure for Python "
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/027_Flat__Generative_infrastructure_for_Python/027_Flat__Generative_infrastructure_for_Python.pdf"
+        ], 
+        "presenter": [
+          "Juraj Sukop"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/027_Flat__Generative_infrastructure_for_Python/027_Flat__Generative_infrastructure_for_Python.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://tomlechner.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Mesh Conceptions"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/028_Mesh_Conceptions/028_Mesh_Conceptions.pdf"
+        ], 
+        "presenter": [
+          "Tom Lechner"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/028_Mesh_Conceptions/028_Mesh_Conceptions.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://projects.haskell.org/diagrams"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Declarative, programmatic vector graphics in Haskell"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/029_Declarative_programmatic_vector_graphics_in_Haskell/029_Declarative_programmatic_vector_graphics_in_Haskell.pdf"
+        ], 
+        "presenter": [
+          "Brent Yorgey"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/029_Declarative_programmatic_vector_graphics_in_Haskell/029_Declarative_programmatic_vector_graphics_in_Haskell.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.lafkon.net"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Back to the Future?"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/030_Back_to_the_Future/030_Back_to_the_Future.pdf"
+        ], 
+        "presenter": [
+          "Christoph Haag"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/030_Back_to_the_Future/030_Back_to_the_Future.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.blenderdiplom.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "OSL in Blender - The power of the plugin "
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/031_OSL_in_Blender__The_power_of_the_plugin/031_OSL_in_Blender__The_power_of_the_plugin.pdf"
+        ], 
+        "presenter": [
+          "Gottfried Hofmann"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/031_OSL_in_Blender__The_power_of_the_plugin/031_OSL_in_Blender__The_power_of_the_plugin.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://tavmjong.free.fr"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "SVG 2 and the Artist "
+        ], 
+        "presenter": [
+          "Tavmjong Bah"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/032_SVG_2_and_the_Artist/032_SVG_2_and_the_Artist.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.kenanb.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "An Automated Sprite Rendering System using Blender"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/033_An_Automated_Sprite_Rendering_System_using_Blender/033_An_Automated_Sprite_Rendering_System_using_Blender.pdf"
+        ], 
+        "presenter": [
+          "Kenan B\u00f6l\u00fckba\u015f\u0131"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/033_An_Automated_Sprite_Rendering_System_using_Blender/033_An_Automated_Sprite_Rendering_System_using_Blender.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://viralata.fr/en"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Blender as a design tool for architecture."
+        ], 
+        "presenter": [
+          "Matthieu Dupont de Dinechin"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/034_Blender_as_a_design_tool_for_architecture/034_Blender_as_a_design_tool_for_architecture.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://wojtek.gr"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Introduction to Open Source 3D Printing"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/035_Introduction_to_Open_Source_3D_Printing/035_Introduction_to_Open_Source_3D_Printing.pdf"
+        ], 
+        "presenter": [
+          "Wojtek Grabczak"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/035_Introduction_to_Open_Source_3D_Printing/035_Introduction_to_Open_Source_3D_Printing.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://ai4qr.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Knitting machine hacking - how I helped bootstrap the 'movement'"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/036_Knitting_machine_hacking__how_I_helped_bootstrap_the_movement/036_Knitting_machine_hacking__how_I_helped_bootstrap_the_movement.pdf"
+        ], 
+        "presenter": [
+          "Steve Conklin"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_2/036_Knitting_machine_hacking__how_I_helped_bootstrap_the_movement/036_Knitting_machine_hacking__how_I_helped_bootstrap_the_movement.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://blog.pingoured.fr/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Nuancier- Community generated and selected artwork"
+        ], 
+        "presenter": [
+          "Pierre-Yves Chibon", 
+          "Sirko Kemter"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/044_Nuancier__Community_generated_and_selected_artwork/044_Nuancier__Community_generated_and_selected_artwork.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://medialab-prado.es/graficalibre"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Libre Graphic Workstation at Medialab-Prado Madrid"
+        ], 
+        "presenter": [
+          "Myriam Cea"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/045_Libre_Graphics_Workstation_at_Medialab-Prado_Madrid/045_Libre_Graphics_Workstation_at_Medialab-Prado_Madrid.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Femke Snelting", 
+          "Alex Leray"
+        ], 
+        "title": [
+          "Relearn (Variable Summerschool)"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/046_Relearn__Variable_Summerschool/046_Relearn__Variable_Summerschool.ogv"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "https://outreach.wikimedia.org/wiki/WikiArS"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "wikiArS, involving art & design schools in free knowledge wiki projects"
+        ], 
+        "presenter": [
+          "David G\u00f3mez Fontanills", 
+          "Rub\u00e9n Ojeda"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/047_wikiArS__involving_art_and_design_schools_in_free_software_wiki_projects/047_wikiArS__involving_art_and_design_schools_in_free_software_wiki_projects.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.scribus.net"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Scribus in Real-World Scenarios: Pros and Cons"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/048_Scribus_in_Real-World_Scenarios__Pros_and_cons/048_Scribus_in_Real-World_Scenarios__Pros_and_cons.pdf", 
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/048_Scribus_in_Real-World_Scenarios__Pros_and_cons/048_Scribus_in_Real-World_Scenarios__Pros_and_cons_Opera.pdf"
+        ], 
+        "presenter": [
+          "Christoph Sch\u00e4fer", 
+          "Jason Harder"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/048_Scribus_in_Real-World_Scenarios__Pros_and_cons/048_Scribus_in_Real-World_Scenarios__Pros_and_cons.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://osp.constantvzw.org/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Ethertoff release announcement"
+        ], 
+        "presenter": [
+          "Eric Schrijver", 
+          "St\u00e9phanie Vilayphiou"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/049_Ethertoff_release_announcement/049_Ethertoff_release_announcement.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://webappl.web.sh.se/p3/ext/content.nsf/aget?openagent&key=sh_personal_profil_sv_832804"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Creating Synfig's first official video training course in English: a personal experience "
+        ], 
+        "presenter": [
+          "Julia Velkova \u00d6berg"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/050_Creating_Synfigs_first_official_video_training_course_in_English/050_Creating_Synfigs_first_official_video_training_course_in_English.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://3dzentrale.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Reconstruction of a medieval manikin with Blender "
+        ], 
+        "presenter": [
+          "Sebastian K\u00f6nig"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/051_Reconstruction_of_a_medieval_manikin_with_Blender/051_Reconstruction_of_a_medieval_manikin_with_Blender.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://blenderdiplom.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Contributing to the community: Writing add-ons"
+        ], 
+        "slides": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/052_Contributing_to_the_community__Writing_add-ons/052_Contributing_to_the_community__Writing_add-ons.pdf"
+        ], 
+        "presenter": [
+          "Frederik Steinmetz"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/052_Contributing_to_the_community__Writing_add-ons/052_Contributing_to_the_community__Writing_add-ons.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://pitivi.org"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Next-Generation F/LOSS Video Editing with Pitivi and GES: Status and Roadmap"
+        ], 
+        "presenter": [
+          "Thibault Saunier", 
+          "Mathieu Duponchelle"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/053_Next-Generation_F_LOSS_Video_Editing_with_Pitivi_and_GES/053_Next-Generation_F_LOSS_Video_Editing_with_Pitivi_and_GES.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://https/natron.inria.fr"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Natron: video compositing software"
+        ], 
+        "slides": [
+          "http://www.slideshare.net/AlexandreGauthier1/natron-lgm2014"
+        ], 
+        "presenter": [
+          "Alexandre Gauthier"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/054_Natron__video_compositing_software/054_lgm_FINAL.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.blender.org"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Project Gooseberry - Open Animated Feature from the Blender Institute"
+        ], 
+        "slides": [
+          "https://www.dropbox.com/s/c8ne35z7j391jrb/gooseberry_blender_institute.pdf"
+        ], 
+        "presenter": [
+          "Francesco Siddi"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_3/055_Project_Gooseberry__Open_Animated_Feature_from_the_Blender_Institute/055_Project_Gooseberry__Open_Animated_Feature_from_the_Blender_Institute.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://ai4qr.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Open Hardware devices to aid software testing "
+        ], 
+        "presenter": [
+          "Steve Conklin"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_4/060_Open_Hardware_devices_to_aid_software_testing/060_Open_Hardware_devices_to_aid_software_testing060_lgm_FINAL.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nathan Willis"
+        ], 
+        "title": [
+          "Inklinging Inklings"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_4/061_Inkling_Inklings/061_Inkling_Inklings.ogv"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://urchn.org"
+        ], 
+        "presenter": [
+          "Fateh Slavitskaya", 
+          "Bassam Kurdali"
+        ], 
+        "title": [
+          "Distributed Free-Cultural Production and the Future of Creative Economy"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://superglue.it"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Superglue, phase 2"
+        ], 
+        "presenter": [
+          "Danja Vasiliev", 
+          "Michael Zeder", 
+          "Joscha Jaeger"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_4/062_Superglue_Phase_2/062_Superglue_Phase_2.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://wiki.gnome.org/Design/"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "GNOME Design: Open to all"
+        ], 
+        "presenter": [
+          "Allan Day", 
+          "Jakub Steiner"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_4/064_GNOME_Design__Open_to_all/064_GNOME_Design__Open_to_all.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://in.linkedin.com/in/sarupbanskota"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "GlitterGallery: Taking the designer's office online"
+        ], 
+        "slides": [
+          "http://www.slideshare.net/sarupbanskota/helloworld-33181550"
+        ], 
+        "presenter": [
+          "Sarup Banskota", 
+          "Emily Dirsh"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_4/065_GlitterGallery__Taking_the_designers_office_online/065_GlitterGallery__Taking_the_designers_office_online.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://twohot.wordpress.com"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "FreeCAD's \"Arch\" Workbench: Bridging the Gap in the Linux (AEC) Design Tool-set"
+        ], 
+        "presenter": [
+          "Onyeibo Oku"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_4/066_FreeCADs_Arch_Workbench__Bridging_the_Gap_in_the_Linux_AEC_Design_Tool-set/066_FreeCADs_Arch_Workbench__Bridging_the_Gap_in_the_Linux_AEC_Design_Tool-set.ogv"
         ], 
         "year": [
           2014

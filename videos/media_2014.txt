@@ -30,7 +30,9 @@ http://download.gimp.org/pub/gimp/lgm/2014/day_1/010_DialogueMaps_Creating_Inter
 http://download.gimp.org/pub/gimp/lgm/2014/day_1/011_Beating_the_drums__Why_we_made_gender_an_issue/011_Beating_the_drums__Why_we_made_gender_an_issue.ogv
 
 http://download.gimp.org/pub/gimp/lgm/2014/day_1/012_SURFER_a_real-time_raytracer_for_algebraic_surfaces/012_SURFER_a_real-time_raytracer_for_algebraic_surfaces.ogv
+
 http://download.gimp.org/pub/gimp/lgm/2014/day_1/013_Document_Liberation_Project__news_from_the_reverse_and_straight_engineering_world/013_Document_Liberation_Project__news_from_the_reverse_and_straight_engineering_world.ogv
+
 http://download.gimp.org/pub/gimp/lgm/2014/day_1/014_wavelets_for_image_processing/014_wavelets_for_image_processing.ogv
 http://download.gimp.org/pub/gimp/lgm/2014/day_1/015_Building_an_OpenHardware_Spectograph_for_Color_Profiling_in_Linux/015_Building_an_OpenHardware_Spectograph_for_Color_Profiling_in_Linux.ogv
 http://download.gimp.org/pub/gimp/lgm/2014/day_1/016_The_Multitoner__High_quality_grayscale_image_reproduction/016_The_Multitoner__High_quality_grayscale_image_reproduction.ogv
@@ -39,7 +41,9 @@ http://download.gimp.org/pub/gimp/lgm/2014/day_1/017_Magic_Lantern__Free_Softwar
 http://download.gimp.org/pub/gimp/lgm/2014/day_1/017_Magic_Lantern__Free_Software_on_Your_Camera/017_Magic_Lantern__Free_Software_on_Your_Camera.pdf
 http://download.gimp.org/pub/gimp/lgm/2014/day_1/018_Tethered_camera_control_and_capture_with_Entangle/018_Tethered_camera_control_and_capture_with_Entangle.ogv
 http://download.gimp.org/pub/gimp/lgm/2014/day_1/018_Tethered_camera_control_and_capture_with_Entangle/018_Tethered_camera_control_and_capture_with_Entangle.pdf
+
 http://download.gimp.org/pub/gimp/lgm/2014/day_2/019_Coloured_glyphs_in_OpenType/019_Coloured_glyphs_in_OpenType.ogv
+
 http://download.gimp.org/pub/gimp/lgm/2014/day_2/020_Development_of_tools_for_present-day_type_design_based_historic_patterns/020_Development_of_tools_for_present-day_type_design_based_historic_patterns.ogv
 http://download.gimp.org/pub/gimp/lgm/2014/day_2/021_0xA000_a_font_family/021_0xA000_a_font_family.ogv
 http://download.gimp.org/pub/gimp/lgm/2014/day_2/022_Chicken_and_Eggs__Designing_font_families_with_Metapolator/022_Chicken_and_Eggs__Designing_font_families_with_Metapolator.ogv
@@ -90,6 +94,7 @@ http://download.gimp.org/pub/gimp/lgm/2014/day_3/052_Contributing_to_the_communi
 http://download.gimp.org/pub/gimp/lgm/2014/day_3/053_Next-Generation_F_LOSS_Video_Editing_with_Pitivi_and_GES/053_Next-Generation_F_LOSS_Video_Editing_with_Pitivi_and_GES.ogv
 http://download.gimp.org/pub/gimp/lgm/2014/day_3/054_Natron__video_compositing_software/054_lgm_FINAL.ogv
 http://download.gimp.org/pub/gimp/lgm/2014/day_3/055_Project_Gooseberry__Open_Animated_Feature_from_the_Blender_Institute/055_Project_Gooseberry__Open_Animated_Feature_from_the_Blender_Institute.ogv
+
 http://download.gimp.org/pub/gimp/lgm/2014/day_4/056_Teaching_young_people_to_make_games_with_Blender/056_Teaching_young_people_to_make_games_with_Blender.ogv
 http://download.gimp.org/pub/gimp/lgm/2014/day_4/057_NerdWorking/057_NerdWorking.ogv
 http://download.gimp.org/pub/gimp/lgm/2014/day_4/058_Krita_coming_to_Steam/058_Krita_coming_to_Steam.ogv
