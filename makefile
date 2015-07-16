@@ -1,7 +1,7 @@
 microdata = microdata/program_2014.json microdata/program_2013.json microdata/program_2012.json microdata/program_2011.json microdata/program_2010.json microdata/program_2009.json microdata/program_2008.json microdata/program_2007.json
 
 # all: $(microdata) microdata/index.json index_titles.html index_speakers.html terms_md terms_html terms_json t/index.json
-all: $(microdata) microdata/all.json microdata/index.json index_titles.html index_presenters.html index_years.html
+all: $(microdata) microdata/programs.json microdata/index.json index_titles.html index_presenters.html index_years.html
 
 # microdata
 
@@ -35,10 +35,10 @@ microdata/program_2008.json: htdocs-2008-static/program.html
 microdata/program_2007.json: htdocs-2007-static/program.html
 	python scripts/microdata_extract.py --add year=2007 --add city=Montréal --output $@ $^
 
-microdata/index.json: $(microdata)
-	python scripts/microdata_index.py --output $@ $(microdata)
+# microdata/index.json: $(microdata)
+# 	python scripts/microdata_index.py --output $@ $(microdata)
 
-microdata/all.json: $(microdata)
+microdata/programs.json: $(microdata)
 	python scripts/microdata_cat.py --output $@ $(microdata)
 
 # %.json: %.html
@@ -46,14 +46,14 @@ microdata/all.json: $(microdata)
 
 # Views
 
-index_titles.html: microdata/all.json views/templates/index_titles.html
-	python scripts/indexview.py microdata/all.json --property title --groupbyletter --itemsort title --templatedir views/templates --template index_titles.html > $@
+index_titles.html: microdata/programs.json views/templates/index_titles.html
+	python scripts/indexview.py microdata/programs.json --property title --groupbyletter --itemsort title --templatedir views/templates --template index_titles.html > $@
 
-index_presenters.html: microdata/index.json views/templates/index_presenters.html
-	python scripts/indexview.py microdata/all.json --property presenter --lastword --groupbyletter --itemsort year --itemsort title --templatedir views/templates --template index_presenters.html > $@
+index_presenters.html: microdata/programs.json views/templates/index_presenters.html
+	python scripts/indexview.py microdata/programs.json --property presenter --lastword --groupbyletter --itemsort year --itemsort title --templatedir views/templates --template index_presenters.html > $@
 
-index_years.html: microdata/index.json views/templates/index_years.html
-	python scripts/indexview.py microdata/all.json --property year --itemsort title --templatedir views/templates --template index_years.html > $@
+index_years.html: microdata/programs.json views/templates/index_years.html
+	python scripts/indexview.py microdata/programs.json --property year --itemsort title --templatedir views/templates --template index_years.html > $@
 
 clean_pages:
 	rm index_*.html

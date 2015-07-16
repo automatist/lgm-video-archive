@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "properties": {
+        "presenter": [
+          "Femke Snelting", 
+          "Laura Fernandez", 
+          "Marcos Garcia"
+        ], 
+        "title": [
+          "Future Tools"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://programalaplaza.medialab-prado.es"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+        ], 
+        "presenter": [
+          "Sergio Gal\u00e1n", 
+          "Victor Diaz"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://karl-tux-stadt.de/ktuxs/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "The Fedora Design Suite - Distribute The Tools"
+        ], 
+        "presenter": [
+          "Sirko Kemter"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10856/10856.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://code.sat.qc.ca/tempi"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+        ], 
+        "presenter": [
+          "Camille Bissuel", 
+          "Cedric G\u00e9my", 
+          "Alexandre Quessy"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://pycessing.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "PyCessing"
+        ], 
+        "presenter": [
+          "Brendan Howell"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10846/10846.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }
+  ]
+}

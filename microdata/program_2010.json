@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "properties": {
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Welcome to LGM 2010"
+        ], 
+        "detail": [
+          "index.php-p=en|talk|welcome.html"
+        ], 
+        "presenter": [
+          "Louis Desjardin", 
+          "Femke Snelting"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Ltd-drYVwJQ"
+        ], 
+        "year": [
+          2010
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Extending Python for Speed"
+        ], 
+        "detail": [
+          "index.php-p=en|talk|extending_python_for_speed.html"
+        ], 
+        "presenter": [
+          "Martin Renold"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=ybI5HBlPTzI"
+        ], 
+        "year": [
+          2010
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "A first outline for a UI for a fully GEGLed GIMP"
+        ], 
+        "detail": [
+          "index.php-p=en|talk|gegled_gui.html"
+        ], 
+        "presenter": [
+          "Peter Sikking"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=D-kbH_ZVMmk"
+        ], 
+        "year": [
+          2010
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Marcos Diaz"
+        ], 
+        "detail": [
+          "index.php-p=en|talk|nathive.html"
+        ], 
+        "title": [
+          "The Nathive image editor, its plugin system and some Python-based implemented technologies"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "year": [
+          2010
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Writing GIMP scripts and plugins"
+        ], 
+        "detail": [
+          "index.php-p=en|talk|gimp_script_plugin.html"
+        ], 
+        "presenter": [
+          "Akkana Peck"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=anVRFuxqrgo"
+        ], 
+        "year": [
+          2010
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "properties": {
+        "website": [
+          "http://www.hughsie.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Making color management \u201cjust work\u201d using colord"
+        ], 
+        "presenter": [
+          "Richard Hughes"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=iLpGOIK4c84"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.oyranos.org"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Connecting Device Calibration to ICC Profiles"
+        ], 
+        "presenter": [
+          "Kai-Uwe Behrmann"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=7Cfvf9PiMts"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://ericschrijver.nl/"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Plain Text: Graphic Design and Programming Culture"
+        ], 
+        "presenter": [
+          "Eric Schrijver"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=w3kF49gXX5w"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://lukast.mediablog.sk/log"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Krita: Professional Digital Painting"
+        ], 
+        "presenter": [
+          "Luk\u00e1\u0161 Tvrd\u00fd"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=42lF-GTjx9E"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://dustycloud.org"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Using Blender for Patent Absurdity / advocacy animations"
+        ], 
+        "presenter": [
+          "Christopher Allan Webber"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=a7vqqGY-RgU"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://libregraphicsmag.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Libre Graphics magazine: A year of fantastic"
+        ], 
+        "presenter": [
+          "Ana Carvalho", 
+          "ginger coons", 
+          "Ricardo Lafuente"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }
+  ]
+}

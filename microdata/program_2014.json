@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "properties": {
+        "pdf": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.pdf"
+        ], 
+        "title": [
+          "State of Libre Graphics"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.ogv"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nathan Willis"
+        ], 
+        "title": [
+          "Where The Users Are"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/002_Where_the_Users_Are/002_Where_the_Users_Are.ogv\n"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.valentina-project.org"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "Valentina Pattern Design Software"
+        ], 
+        "presenter": [
+          "Roman Telezhinsky"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/003_Valentina_Pattern_Design_Software/003_Valentina_Pattern_Design_Software.ogv"
+        ], 
+        "year": [
+          2014
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://wintermute.org/brendan"
+        ], 
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "The Screenless Office"
+        ], 
+        "presenter": [
+          "Brendan Howell"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv"
+        ], 
+        "year": [
+          2014
+        ], 
+        "pdf": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Leipzig"
+        ], 
+        "title": [
+          "State of Color Management"
+        ], 
+        "presenter": [
+          "Chris Murphy"
+        ], 
+        "video": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.ogv"
+        ], 
+        "year": [
+          2014
+        ], 
+        "pdf": [
+          "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+        ]
+      }
+    }
+  ]
+}

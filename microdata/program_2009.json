@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "properties": {
+        "presenter": [
+          "Michael Terry"
+        ], 
+        "title": [
+          "ingimp: A Smorgasbord of Usability, Adaptive UIs, and Visually Arresting Graphic Design for 2009"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=dFJbNJy9NDs"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2009
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Benoit St-Andr\u00e9"
+        ], 
+        "title": [
+          "LTSP and graphics applications"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=aPscMEgOI-4"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2009
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "S\u00e9bastien Roy"
+        ], 
+        "title": [
+          "Multi-projector immersive displays: the LightTwist project"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=MPE8HbjmE5A"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2009
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Stani Michiels"
+        ], 
+        "title": [
+          "How to make money with free software..."
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=fWqCyRdSVD4"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2009
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jon Cruz"
+        ], 
+        "title": [
+          "Why Color Management matters to Open Source and to You"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=KYB4AqUOuMI"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2009
+        ]
+      }
+    }
+  ]
+}

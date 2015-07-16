@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Opening Talk"
+        ], 
+        "presenter": [
+          "Louis Desjardins"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Why open standards matter: The Open Document Format"
+        ], 
+        "presenter": [
+          "Louis Suarez-Potts"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Introduction to the SVG format"
+        ], 
+        "slides": [
+          "http://gould.cx/ted/presentations/lgm/"
+        ], 
+        "presenter": [
+          "Ted Gould"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Project overview and first results from the OpenUsability GIMP redesign project"
+        ], 
+        "slides": [
+          "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+        ], 
+        "presenter": [
+          "Peter Sikking", 
+          "Kamila Giedroj\u0107"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Creating photo-realistic artwork based on photo reference (Inkscape)"
+        ], 
+        "speaker": [
+          "Jakub Steiner"
+        ], 
+        "year": [
+          2007
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+        ]
+      }
+    }
+  ]
+}

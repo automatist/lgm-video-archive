@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "properties": {
+        "presenter": [
+          "Pablo d'Angelo"
+        ], 
+        "title": [
+          "Presentation about Hugin"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=qfWj2LKisKA"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Stani"
+        ], 
+        "title": [
+          "Presentation about Phatch - GUI Photo Batch Processor"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=w91EDcU75Qw"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Igor Novikov", 
+          "Vladimir Korenev"
+        ], 
+        "title": [
+          "About sK1 and UniConvertor"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Chris Lilley"
+        ], 
+        "title": [
+          "What is happening with SVG"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Harrisson", 
+          "Pierre Huyghebaert", 
+          "Femke Snelting", 
+          "Nicolas Malev\u00e9"
+        ], 
+        "title": [
+          "Designing with free software"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Crossland"
+        ], 
+        "title": [
+          "Font Software Freedom"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "\u00d8yvind Kol\u00e5s"
+        ], 
+        "title": [
+          "Extending GEGL with new operations and an introduction to GeglBuffers, the functionality offered by them and their underlying mechanisms."
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=H8eLAs2UgIU"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Erik Gebers"
+        ], 
+        "title": [
+          "Scenari Presentation: a software suite for the conception and use of publishing chains."
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }
+  ]
+}

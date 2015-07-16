@@ -1,0 +1,115 @@
+{
+  "items": [
+    {
+      "properties": {
+        "presenter": [
+          "Louis Desjardins"
+        ], 
+        "title": [
+          "Opening Talk"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Richard Hughes"
+        ], 
+        "title": [
+          "ColorHug - The Open Hardware Colorimeter"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=GVH3ykJiNt0"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Kai-Uwe Behrmann"
+        ], 
+        "title": [
+          "Evolving Concepts for Colour Management"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=9EL-mgiEBq0"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Chris Lilley"
+        ], 
+        "title": [
+          "Color Management in SVG2"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=e2J3k_S1eb0"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "speaker": [
+          "Kai-Uwe Behrmann"
+        ], 
+        "title": [
+          "Colour Management a la Greek"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=KBdpQ-daaJ8"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Richard Hughes"
+        ], 
+        "title": [
+          "colord - Linux Color Management Framework, One Year On"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=gzTyVkHsdjo"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }
+  ]
+}
