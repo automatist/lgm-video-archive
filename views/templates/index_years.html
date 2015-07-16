@@ -8,18 +8,22 @@
 <body>
 <h1>Libre Graphics Meeting: Presentations</h1>
 <div>
-	list by: <a href="index_years.html">year/city</a>
-	<b>title</b>
+	list by: <b>year/city</b>
+	<a href="index_titles.html">title</a>
 	<a href="index_presenters.html">presenter</a>
 </div>
 <ul>{% for value, items in items_by_value %}
+	<h2 class="year value">{{value}} {{ items[0].properties.city[0] }}</h2>
 	{% for item in items %}
 	<li>
-		<div class="title"><span class="title">{{value}}</span> <span class="yearcity">({{item.properties.year[0]}} {{item.properties.city[0]}})</span></div>
+		<div class="title">
+			<span class="title">{{ item.properties.title[0] }}</span>
+		</div>
 		<div class="info">
 			<span class="presenters">
-			{% for p in item.properties.presenter %}{{ p }}{% if not loop.last %},{% endif %} {% endfor %}</span>
+				{% for p in item.properties.presenter %}{{ p }}{% if not loop.last %},{% endif %} {% endfor %}</span>
 			<span class="links">
+				<!-- {% if item.properties.video or item.properties.pdf or item.properties.website %}Links: {%endif%} -->
 				{% for link in item.properties.video %}<a href="{{link}}">Video</a>{% endfor %}
 				{% for link in item.properties.pdf %}<a href="{{link}}">Slides</a>{% endfor %}
 				{% for link in item.properties.website %}<a href="{{link}}">Website</a>{% endfor %}

@@ -9,16 +9,20 @@
 <h1>Libre Graphics Meeting: Presentations</h1>
 <div>
 	list by: <a href="index_years.html">year/city</a>
-	<b>title</b>
-	<a href="index_presenters.html">presenter</a>
+	<a href="index_titles.html">title</a>
+	<b>presenter</b>
 </div>
+<div class="listing">
 <ul>{% for value, items in items_by_value %}
+	<h2 class="presenter value">{{value}}</h2>
 	{% for item in items %}
 	<li>
-		<div class="title"><span class="title">{{value}}</span> <span class="yearcity">({{item.properties.year[0]}} {{item.properties.city[0]}})</span></div>
+		<div class="title">
+			{{ item.properties.title[0] }} <span class="yearcity">({{item.properties.year[0]}} {{item.properties.city[0]}})</span>
+		</div>
 		<div class="info">
 			<span class="presenters">
-			{% for p in item.properties.presenter %}{{ p }}{% if not loop.last %},{% endif %} {% endfor %}</span>
+			{% for p in item.properties.presenter if p != value %}{% if loop.first %}with: {%endif%}{{ p }}{% if not loop.last %},{% endif %} {% endfor %}</span>
 			<span class="links">
 				{% for link in item.properties.video %}<a href="{{link}}">Video</a>{% endfor %}
 				{% for link in item.properties.pdf %}<a href="{{link}}">Slides</a>{% endfor %}
@@ -27,6 +31,6 @@
 		</div>
 	</li>{% endfor %}{% endfor %}
 </ul>
-
+</div>
 </body>
 </html>
