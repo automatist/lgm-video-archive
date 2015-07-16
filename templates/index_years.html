@@ -22,9 +22,9 @@
 			{% for p in item.properties.presenter %}{{ p }}{% if not loop.last %},{% endif %} {% endfor %}</span>
 		<span class="links">
 			<!-- {% if item.properties.video or item.properties.pdf or item.properties.website %}Links: {%endif%} -->
-			{% for link in item.properties.video %}<a href="{{link}}">Video</a>{% endfor %}
-			{% for link in item.properties.pdf %}<a href="{{link}}">Slides</a>{% endfor %}
-			{% for link in item.properties.website %}<a href="{{link}}">Website</a>{% endfor %}
+			{% for link in item.properties.video %}<a href="{{link}}">Video</a> {% endfor %}
+			{% for link in item.properties.slides %}<a href="{{link}}">Slides</a> {% endfor %}
+			{% for link in item.properties.website %}<a href="{{link}}">Website</a> {% endfor %}
 		</span>
 	</li>{% endfor %}
 	</div>
