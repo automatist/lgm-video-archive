@@ -30,14 +30,14 @@ microdata/programs.json: $(microdata)
 	python scripts/microdata_cat.py --output $@ $(microdata)
 
 
-index_titles.html: microdata/programs.json views/templates/index_titles.html
-	python scripts/indexview.py microdata/programs.json --property title --groupbyletter --itemsort title --templatedir views/templates --template index_titles.html > $@
+index_titles.html: microdata/programs.json templates/index_titles.html
+	python scripts/indexview.py microdata/programs.json --property title --groupbyletter --itemsort title --templatedir templates --template index_titles.html > $@
 
-index_presenters.html: microdata/programs.json views/templates/index_presenters.html
-	python scripts/indexview.py microdata/programs.json --property presenter --lastword --groupbyletter --itemsort year --itemsort title --templatedir views/templates --template index_presenters.html > $@
+index_presenters.html: microdata/programs.json templates/index_presenters.html
+	python scripts/indexview.py microdata/programs.json --property presenter --lastword --groupbyletter --itemsort year --itemsort title --templatedir templates --template index_presenters.html > $@
 
-index_years.html: microdata/programs.json views/templates/index_years.html
-	python scripts/indexview.py microdata/programs.json --property year --itemsort title --templatedir views/templates --template index_years.html > $@
+index_years.html: microdata/programs.json templates/index_years.html
+	python scripts/indexview.py microdata/programs.json --property year --itemsort title --templatedir templates --template index_years.html > $@
 
 
 clean_pages:
