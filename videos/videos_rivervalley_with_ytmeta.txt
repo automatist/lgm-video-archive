@@ -1,0 +1,723 @@
+https://www.youtube.com/watch?v=EHjf4CBvHbE
+Another year of Open Source Publishing
+OSP
+
+https://www.youtube.com/watch?v=eOoILNlLEXk
+Baroque Dreams: Live Multimedia Performance, Interpretive Culture, and Open Source Software
+Barry Threw
+
+https://www.youtube.com/watch?v=YxBz1-c4iyY
+Best practices for designing -- releasing -- maintaining -- packaging open fonts
+Nicolas Spalinger
+
+https://www.youtube.com/watch?v=H7PM22bA96Q
+Better and faster image resizing and resampling
+Nicolas Robidoux
+https://www.ohloh.net/accounts/NicolasRobidoux
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=i-kPnCfLn5U
+Blender for retouching photo
+Cédric Gémy
+Graphic Designer
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=_0t8qDDrJCM
+Coding pictures with Shoebot
+Ricardo Lafuente
+
+https://www.youtube.com/watch?v=igM15E-r4_8
+Color Management and other new developments in Ghostscript
+Hin-Tak Leung
+
+https://www.youtube.com/watch?v=NOHgG4-5ypY
+Comic book drawing with Krita
+Timothée Giet
+http://animtim.wehost.be/blog
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=7Cfvf9PiMts
+Connecting Device Calibration to ICC Profiles
+Kai-Uwe Behrmann
+http://www.oyranos.org
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=u2Wisozeoas
+Content centric architecture and distributed versioning
+Eric Schrijver
+
+https://www.youtube.com/watch?v=fAypaQdAsps
+Crafting an Open Font Stack
+Christopher Adams
+http://chris.raysend.com
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=NbqOxEEZdro
+Creating Comics in Inkscape
+MenTaLguY*, John Bintz**
+* Programmer and graphic artist, USA, ** Web Developer, USA
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=mz1d_rlnlZU
+Creating an Open Movie and production pipeline with free software
+Bassam Kurdali
+Director of Elephants Dream, Syria/USA
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=WYjcJXCrf0c
+Creating photo-realistic artwork based on photo reference (Inkscape)
+Jakub Steiner
+GNOME/GIMP developer, Czechia
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=Npo2hT-x12Y
+Design Considerations for Wide Gamut Displays
+Karel Hinnen and Erno H. A. Langendijk
+Philips Consumer Lifestyle (the Netherlands)
+
+More videos from the CIC18 conference are available here:
+http://river-valley.tv/conferences/cic18
+
+https://www.youtube.com/watch?v=l55_QRjSQlQ
+Designing a Better Tomorrow:...
+Mirko Tobias Schaefer
+
+Designing a Better Tomorrow: How design is informed by metaphors, images and associations of social progress
+
+https://www.youtube.com/watch?v=JVZXPXZul5Q
+Designing with Free tools in an Open Community: experiences from the Fedora Design Team
+Nicu Buculei, Martin Sourada
+
+https://www.youtube.com/watch?v=XiIxra1Apa0
+Diffusion Curves in Inkscape vector drawings
+Jasper van de Gronde
+
+https://www.youtube.com/watch?v=gTu1yEGO33k
+Digital Photography with libre Software: RAW, metadata, workflow and asset management
+Hubert Figuière
+Digital imaging developer, Canada
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=qG0R80Uu7TA
+Digital photography workflow on Linux with darktable
+Alexandre Prokoudine
+
+https://www.youtube.com/watch?v=Jrpp1bB70GY
+Easy multi-projector desktop using Lighttwist compiz plugin
+Sébastien Roy & Louis Bouchard
+Département d'Informatique et de recherche opérationnelle Université de Montréal
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=jxg16Z0dNyE
+Elements of Typographic Freedom: Open Sources of Extraordinary Design
+Christopher Adams
+
+https://www.youtube.com/watch?v=YsZYOvHteFE
+Enblend/Enfuse Technology Talk
+Andrew Mihal
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=H8eLAs2UgIU
+Extending GEGL with new operations and an introduction to GeglBuffers,...
+Øyvind Kolås
+GEGL
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=ybI5HBlPTzI
+Extending Python for Speed
+Martin Renold
+MyPaint
+
+https://www.youtube.com/watch?v=soBLKkwJUWI
+Font Software Freedom
+Dave Crossland
+Open Font Library
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=MW6ISmpSLEQ
+Free Documentation on Floss World
+Elisa de Castro Guerra
+http://en.flossmanuals.net
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=i_LiWhKW6UQ
+Future Tools: The Libre Graphics Research Unit
+Femke Snelting
+http://ospublish.constantvzw.org/lab
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=siFP1TudojA
+GEGL -- a graph based image processing and compositing engine
+Oyvind Kolas
+Gjovik University, GIMP developer, Norway
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=1oFLUPe9AF8
+GIMP UI: taking some big issues by the horns
+Peter Sikking
+GIMP
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=CTsQw__Bszo
+GIMP: a new simple interface for a complex application
+Peter Sikking
+Interaction Architect, GIMP
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=BMWcrCJpSOY
+GNU LibreDWG -- a free software library to handle DWG files from AutoCAD
+Felipe Corrêa da Silva Sanches
+
+https://www.youtube.com/watch?v=T4KEYZ0CPIM
+General Blender presentation
+Martin Poirier
+Blender developer, Canada
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=XPfyeby97Bk
+Generative Node-based Design With NodeBox 2
+Frederik De Bleser, Tom De Smedt, Lucas Nijs
+
+https://www.youtube.com/watch?v=aWmCi_ZzYC4
+Generative typesetting with Context
+John Haltiwanger
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=58VdlCugCzI
+How I made a free New Zealand coffee-table book using lots of Free Software
+Marcus Holland-Moritz
+
+https://www.youtube.com/watch?v=dGXPiQ57YxQ
+How to Run an Art School on Free and Open Source Software
+Florian Cramer, Aymeric Mansoux, Michael Murtaugh
+http://pzwart.wdka.nl/networked-media/
+
+https://www.youtube.com/watch?v=5bYxP_IvB0g
+How to get contributors to your Free/Libre/Open Source project from Vietnam and Asia
+Hong Phuc Dang
+
+https://www.youtube.com/watch?v=fWqCyRdSVD4
+How to make money with free software
+Stani
+Phatch
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+
+https://www.youtube.com/watch?v=S6kD3COfmQc
+Hypermedia and the Annihilation of Time and Space
+Barry Threw
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=6B6HW6iXKCU
+Icon Workflows with Inkscape
+Jakub Steiner
+
+https://www.youtube.com/watch?v=-a1E6Dqgbz0
+In situ animation with Toonloop
+Alexandre Quessy
+http://toonloop.com/
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=cWSon4E2FdY
+Inkscape v0.47 and Beyond
+Jon Cruz
+Inkscape
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=QzJziMo18n4
+Introduction to the SVG format
+Ted Gould
+Inkscape developer, USA
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=DfDzlHbM908
+Joining Spirits with Aiki Framework: The New Web Engine for Open Clip Art Library
+Jon Phillips
+
+https://www.youtube.com/watch?v=WGUK6_8K-pY
+Krita, its history, current state and goals
+Boudewijn Rempt and Cyrille Berger
+Krita developers, The Netherlands, France
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=hJuCTDjGQ-s
+Krita: Professional Digital Painting
+Lukáš Tvrdý
+http://lukast.mediablog.sk/log
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=aPscMEgOI-4
+LTSP and graphics applications
+Benoit St-Andre
+Revolution Linux
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=zLKjdUGu02A
+Laidout and Desktop Publishing
+Tom Lechner
+
+https://www.youtube.com/watch?v=SY6mtZS2LY0
+Laidout and Strange Interfaces
+Tom Lechner
+http://www.tomlechner.com
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=BjWCv1iXDJI
+Libre Graphics magazine: A year of fantastic
+Ana Carvalho, ginger coons, Ricardo Lafuente
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=BGOd9uknZEc
+Libre/open font community: the challenges
+Nicolas Spalinger
+Open Font Library
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=owQQWAwv8Zc
+Maio nosso Maio
+Farid Abedelnour
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=iLpGOIK4c84
+Making color management "just work" using colord
+Richard Hughes
+http://www.hughsie.com
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=xVtWgbycRa0
+Managing fonts, experimenting with text display
+Pierre Marchand
+Fontmatrix
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=J_4HR2zxTCQ
+Multi-touch support in Ubuntu
+Steve Conklin
+
+https://www.youtube.com/watch?v=KMEGcTW_ing
+MyPaint -- the past, the present, and the future
+Jon Nordby
+http://www.jonnor.com
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=e43tuaRAemg
+Natural media simulation: the field, free software and the future
+Boudewijn Rempt
+Krita
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=KqXUjEgnho0
+Newspaper publishing with Open Source software
+Raphael Meltz
+Editor of the French weekly Le Tigre
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=kDW5pDdZSPM
+Nona-GPU: Image Remapping on the Graphics Processor
+Andrew Mihal
+Hugin
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=oNLg9j8KGhg
+Open Font Library 2.0
+Dave Crossland
+Open Font Library
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=gsdGCJjsPNk
+Open Source and Money: Not Mutually Exclusive
+Andrew Waring
+OpenCandy
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=lctM-gYclA0
+Open Source in Second Life
+Karl Stiefvater
+Second Life
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=Z8Ngq5-870E
+Open Source project to enable fashion design using open data formats
+Susan L. Spencer
+
+https://www.youtube.com/watch?v=Or1MV6_sLqo
+Past, present and future of Scribus' text-layout features
+Andreas Vox
+Scribus developer, Germany
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+
+https://www.youtube.com/watch?v=pVOmPCKq8kM
+Photo management and editing with F-Spot and GIMP
+Jakub Steiner
+GNOME/GIMP developer, Czechia
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=A1Q3x4JaSbA
+Photo--management under Linux with digiKam
+Gilles Caulier
+DigiKam
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=i3hfcTd5W4c
+PiTiVi and the state of GStreamer video editing
+Jean-François Fortin Tam
+http://jeff.ecchi.ca
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=GFbX2pjNtXU
+PiTiVi: an overview of a FOSS video editor's history and design
+Jean-François Fortin Tam
+http://jeff.ecchi.ca
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=po5La1OP2WI
+Pinpoint -- A tool for making hackers do excellent presentations
+pippin / Øyvind Kolås
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=_AcYEuyMUvw
+Presenation about DCRaw
+Dave Coffin
+DCRaw
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=uo89MeOywfw
+Programmers hell: working with the UI designer
+Michael Dominic Kostrzewa
+Novell
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=_qAGfkwj9wI
+Proposal, shared type/text specification for the desktop
+Liam Quin
+W3C
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=WY9qAoBbujk
+Publican, the new Open Source publishing tool--chain
+Andy Fitzsimon
+Publican
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=_HkTl-ejc5w
+PureDyne
+Aymeric Mansoux
+
+https://www.youtube.com/watch?v=yP2QVlLYHRc
+Quick and Dirty Usability: Leveraging Google Suggest to Instantly Know Your Users
+Adam Fourney and Michael Terry
+http://hci.uwaterloo.ca/research/query_log_analysis
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=orok-PZy7vw
+Revivalism: open font conversion and other great awakenings
+Nathan Willis
+http://www.glyphography.com/fonts
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=mbEkXDtDCt8
+SVG -- News and Plans
+Doug Schepers, Chris Lilley
+
+https://www.youtube.com/watch?v=MPE8HbjmE5A
+Scaling up multiprojector immersive displays: the LightTwist project
+Sebastien Roy
+Université de Montréal
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=j0r4WjPcUoE
+Scribus
+Peter Linnell
+
+https://www.youtube.com/watch?v=73NmkuIozhA
+Scribus Demo -- text and image manipulation, pdf output, interaction with printing world
+Louis Desjardins
+Scribus, LGM 2007 organiser
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=mNwYsUti_6w
+Scribus Presentation
+Peter Linnell
+Scribus
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=7lJzgyHhz00
+Scribus: Open Source Desktop Publishing
+Peter Linnell
+Scribus developer, USA/France
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=s3YNYfDutLY
+Scribus: The Official Manual
+Gregory Pittman
+Scribus
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=JFEhjfMeI7E
+Selected Phython Scripts for Scribus
+Gregory Pittman
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=omvaHnO7jDI
+Selecting fonts
+Pierre Marchand
+Fontmatrix
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=LyTvRepbgf4
+Short Tube, Free Pipeline Distributed animation Production using Blender and Helga
+Bassam Kurdali
+Blender
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=Cd35-2xcfbk
+Tau Meta Tau Physica -- Open Source Digital Pattern Making software
+Susan Spencer Conklin
+http://www.tmtp-project.org
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=lp6FoS3cc18
+The New Folk Tradition:..
+Pete Ippel
+
+The New Folk Tradition: Aesthetic and Community Resonance between Open Source Graphics and Fiber Arts
+
+https://www.youtube.com/watch?v=99eGhrWnnBE
+The Open Content Library: Overview of Open Clip Art Library and ccHost
+Jon Phillips
+OpenClipart, USA
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=AQ-2CUl25Ew
+The Open Font License, purpose, achievements, future
+Dave Crossland, Nicolas Spalinger
+Digital Lifestyles consultant and Interaction Design lecturer, UK
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=Z4xuBqsLXWc
+Toonloop: animation for live performances
+Alexandre Quessy
+http://toonloop.com/
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=Kcg2RC8M_DQ
+Towards an Document Object Model (DOM) for Scribus
+Andreas Vox
+http://www.scribus.net
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=ish4VPaZQUQ
+Type design strategies with free software
+Ricardo Lafuente
+Tinkerhouse
+
+More videos from the LGM 2008 conference are available here:
+http://river-valley.tv/conferences/lgm-2008/
+
+https://www.youtube.com/watch?v=1GBH98gIZkg
+Unleashing the Power of Inkscape to Create and Share
+Brad Phillips
+http://fabricatorz.com
+
+More videos from the LGM 2011 conference are available here:
+http://river-valley.tv/conferences/lgm-2011
+
+https://www.youtube.com/watch?v=-2JB1feu2ig
+UpStage -- an open source web-based platform for cyberformance
+Helen Varley Jamieson
+http://www.upstage.org.nz, http://www.creative-catalyst.com
+
+https://www.youtube.com/watch?v=YMZJvfJJrKo
+VIPS: An image processing system for large, and not so large, images
+John Cupitt and Kirk Martinez (authors), Nicolas Robidoux (Presenter)
+Université Laurentienne
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=e1KldKC1g78
+Vedutismo Nuovo: New Tools for Panoramic Perspective Control
+Yuval Levy
+panospace.wordpress.com
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=jg0zsbV8KUc
+Video Editing with Blender for non 3D artists, using examples from real projects
+Bassam Kurdali
+Blender
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=Ltd-drYVwJQ
+Welcome to LGM 2010
+Louis Desjardin, Femke Snelting
+
+https://www.youtube.com/watch?v=SVMq-3oDfVI
+Why open standards matter: The Open Document Format
+Dr. Louis Suarez-Potts
+CollabNet, Canada
+
+More videos from the LGM 2007 conference are available here:
+http://river-valley.tv/conferences/lgm-2007/
+
+https://www.youtube.com/watch?v=anVRFuxqrgo
+Writing GIMP scripts and plugins
+Akkana Peck
+http://shallowsky.com, http://gimpbook.com
+
+https://www.youtube.com/watch?v=dFJbNJy9NDs
+ingimp: A Smorgasbord of Usability, Adaptive UIs, and Visually Arresting Graphic Design for 2009
+Michael Terry
+GIMP
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
+https://www.youtube.com/watch?v=WBZxxIK9K9o
+sK1 Project: Past, Present and Future
+Igor Novikov
+
+https://www.youtube.com/watch?v=rUViWp-UJQ4
+sK1 v0.9: ready for prepress!
+Igor Novikov
+Sk1
+
+More videos from the LGM 2009 conference are available here:
+http://river-valley.tv/conferences/lgm-2009
+
