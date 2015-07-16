@@ -1,32 +1,90 @@
+@font-face {
+  font-family: "OSP-DIN";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/OSP-DIN.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: local("Open Sans Italic"), local("OpenSans-Italic"), url("fonts/opensansitalic.woff") format("woff");
+}
+
+h1.head {
+	font-family: 'OSP-DIN';
+	font-weight: bold;
+	font-size: 100%;
+	text-indent: -0.66em;
+}
+div.sort {
+	text-indent: -0.66em;
+}
 body {
 	margin: 4em 8em;
-	font-size: 16px;
+	font-size: 18px;
+    font-family: 'OSP-DIN';
+    font-weight: normal;
+    font-style: normal;
 }
+
 ul {
-	/*list-style: none;*/
+	list-style: none;
 	padding-left: 0;
 }
 li {
+    font-family: 'OSP-DIN';
+    font-weight: normal;
+    font-style: normal;
+    text-indent: -0.66em;
+    margin-right: 2em;
 }
-span.title {
+li a {
+	color: black;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 10px;
+	font-style: normal;
 }
-div.info {
+
+.title {
+}
+.presenters {
+    font-family: 'Open Sans';
+    font-size: 14px;
 	font-style: italic;
+	text-indent: 0;
 }
-h2.value {
-	font-size: 16px;
+.links {
+
+}
+
+h2.value,h2.letter {
+	text-transform: uppercase;
+    font-family: 'OSP-DIN';
+    font-weight: bold;
+    text-indent: -0.66em;
+	font-size: 100%;
 	margin-top: 2em;
 	margin-bottom: 1em;
 }
-h2.title {
-	font-size: 16px;
-	margin-bottom: 0;
+
+h3.presenter {
+    font-family: 'Open Sans';
+    font-weight: normal;
+    font-size: 100%;
+    text-indent: -0.66em;
+	margin-top: 1em;
+	margin-bottom: 0em;
 }
 
 .listing {
-	-moz-column-count: 3;
+	-moz-column-count: 4;
 }
+
 .listing ul {
 	-moz-column-break-inside: avoid;
-	break-insize: avoid;
+	-webkit-column-break-inside: avoid;
+	break-inside: avoid;
 }
