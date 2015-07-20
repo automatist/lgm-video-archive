@@ -1,6 +1,9 @@
-microdata = microdata/program_2014.json microdata/program_2013.json microdata/program_2012.json microdata/program_2011.json microdata/program_2010.json microdata/program_2009.json microdata/program_2008.json microdata/program_2007.json
+microdata = microdata/program_2015.json microdata/program_2014.json microdata/program_2013.json microdata/program_2012.json microdata/program_2011.json microdata/program_2010.json microdata/program_2009.json microdata/program_2008.json microdata/program_2007.json
 
 all: $(microdata) microdata/programs.json microdata/index.json index_titles.html index_presenters.html index_years.html
+
+microdata/program_2015.json: 2015/program.html
+	python scripts/microdata_extract.py --add year=2015 --add city=Toronto --output $@ $^
 
 microdata/program_2014.json: htdocs-2014-static/program/index.html
 	python scripts/microdata_extract.py --add year=2014 --add city=Leipzig --output $@ $^

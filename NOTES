@@ -127,3 +127,22 @@ TO DO:
 Worked on templates as well.
 Would like to have names in title listing (eg) link to in page anchors on the by name page. Need a "idify" filter.
 
+July 20, 2015
+==============
+
+Interesting to see difficulties with microdata but also to keep going with it -- in keeping with a "more than one way to do it" motto!
+
+* Continuing to add microdata to past years, back now to 2011 (Montreal) and added in 2015 program with partial microdata.
+
+Ultimately, imagining an ideal interface that would somehow manage to bridge a youtube style, meaning:
+* "play" pages for each presentation where resources can be gathered ( video / transcodings / eventual derivatives / comments / maybe even view stats or embedding info ).
+* "editable" in the sense of giving simple means of adding files (other pdf's, other webpages, other audio/video resources), and explaining how the resources relate to each other (derivatives / versions / sequences) HERE THE FULL EXPRESSIVITY of something like a DUBLIC CORE language of editions would be useful.
+* also "editable" in that meta data could be corrected (titles tweaked, people names corrected).
+
+At the same time, it would be nice to unlike youtube, generously offer connections back to:
+* original documents / context
+* new embedding documents / contexts
+
+How the the transcoding of the FLV files, for instance (as well as the youtube material) be made a part of the system.
+
+
