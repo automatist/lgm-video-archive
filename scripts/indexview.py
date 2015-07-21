@@ -66,7 +66,7 @@ if args.groupbyletter:
 
 	for v, items in items_by_value:
 		letter = first_letter(use_key(v))
-		print (letter, v, file=sys.stderr)
+		# print (letter, v, file=sys.stderr)
 		if (letter != curletter):
 			curletter = letter
 			curletter_by_value = []
@@ -77,6 +77,28 @@ if args.groupbyletter:
 env = Environment(loader=FileSystemLoader(args.templatedir))
 # env.filters['wikify'] = wikify
 env.filters['markdown'] = markdown
+from math import ceil
+
+def columnize (items, columns=2):
+	ret = [None for x in range(columns)]
+	# ret = []
+	for c in range(columns):
+		numitems = int(ceil(float(len(items)) / (columns-c)))
+		# print ("*", len(items), columns-c, numitems, file=sys.stderr)
+		ret[c] = items[:numitems]
+		items = items[numitems:]
+
+	# c = 0
+	# numcols = columns
+	# while True:
+	# 	len(items) / numcols
+	# for i in items:
+	# 	ret[c].append(i)
+	# 	c += 1
+	# 	if c>= columns:
+	# 		c = 0
+	return ret
+env.filters['columnize'] = columnize
 template = env.get_template(args.template)
 
 if args.groupbyletter:

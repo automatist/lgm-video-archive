@@ -15,6 +15,8 @@
 <ul>{% for value, items in items_by_value %}
 	<h2 class="year value">{{value}} {{ items[0].properties.city[0] }}</h2>
 	<div class="listing">
+	{% for items in items|columnize(4) %}
+	<div class="column">
 	{% for item in items %}
 	<li>
 		<span class="title">{{ item.properties.title[0] }}</span>
@@ -27,6 +29,8 @@
 			{% for link in item.properties.website %}<a href="{{link}}">Website</a> {% endfor %}
 		</span>
 	</li>{% endfor %}
+	</div> <!-- /column -->
+	{% endfor %}
 	</div>
 {% endfor %}
 </ul>

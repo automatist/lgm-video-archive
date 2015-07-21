@@ -145,4 +145,6 @@ At the same time, it would be nice to unlike youtube, generously offer connectio
 
 How the the transcoding of the FLV files, for instance (as well as the youtube material) be made a part of the system.
 
-
+More things to do:
+* Make names clickable
+* Manually create columns (for proper wrapping)

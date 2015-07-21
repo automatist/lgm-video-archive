@@ -12,8 +12,8 @@
 	<a href="index_titles.html">title</a>
 	<b>presenter</b>
 </div>
-<div class="listing">
 {% for letter, items_by_value in items_by_letter %}
+<div class="listing">
 <h2 class="letter">{{letter}}</h2>
 <ul>{% for value, items in items_by_value %}
 	<h3 class="presenter value">{{value}}</h3>
@@ -27,9 +27,9 @@
 			{% for link in item.properties.slides %}<a href="{{link}}">Slides</a> {% endfor %}
 			{% for link in item.properties.website %}<a href="{{link}}">Website</a> {% endfor %}
 		</span>
-	</li>{% endfor %}{% endfor %}
+	</li>{%endfor %}{% endfor %}
 </ul>
-{%endfor%}
 </div>
+{%endfor%}
 </body>
 </html>

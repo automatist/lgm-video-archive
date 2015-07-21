@@ -5303,6 +5303,836 @@
     {
       "properties": {
         "presenter": [
+          "Aymeric Mansoux"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=_HkTl-ejc5w"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "PureDyne"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Helen Varley Jamieson"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=-2JB1feu2ig"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "UpStage - an open source web-based platform for cyberformance"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Susan L. Spencer"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Z8Ngq5-870E"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Open Source project to enable fashion design using open data formats"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Rebecca Hargrave Malamud"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=JbTdOIO0oPA"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "The Rural Design Collective Summer Mentoring Program"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Wang Lingzheng"
+        ], 
+        "year": [
+          2010
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "How people use open source graphics in China and a book about the LGM"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Barry Threw"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=eOoILNlLEXk"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Baroque Dreams: Live Multimedia Performance, Interpretive Culture, and Open Source Software"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Lila Pagola"
+        ], 
+        "year": [
+          2010
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Using and teaching free software, being a final user and not dying in the attempt"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nicu Buculei", 
+          "Martin Sourada"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=JVZXPXZul5Q"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Designing with Free tools in an Open Community: experiences from the Fedora Design Team"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Hong Phuc Dang"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=5bYxP_IvB0g"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "How to get contributors to your Free/Libre/Open Source project from Vietnam and Asia"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Florian Cramer", 
+          "Aymeric Mansoux", 
+          "Michael Murtaugh"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=dGXPiQ57YxQ"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "How to Run an Art School on Free and Open Source Software"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jasper van de Gronde"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=XiIxra1Apa0"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Diffusion Curves in Inkscape vector drawings"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Felipe Corr\u00eaa da Silva Sanches"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=BMWcrCJpSOY"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "GNU LibreDWG - a free software library to handle DWG files from AutoCAD"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Kai-Uwe Behrmann"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Ga8p5j0C6mk"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Device Colour Management"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Hin-Tak Leung"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=igM15E-r4_8"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Color Management and other new developments in Ghostscript"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nicolas Spalinger"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=YxBz1-c4iyY"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Best practices for designing/releasing/maintainin g/packaging open fonts"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ricardo Lafuente"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=wcPa2v0rzN8"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Styling TeX documents with Batch Commander"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "OSP"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=EHjf4CBvHbE"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Another year of Open Source Publishing"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Denis Moyogo Jacquerye"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=_WggbzwDZn8"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Font design and features for African languages"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Crossland"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Ws6bgBWY4XA"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Google's Font Initiative"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Eric Schrijver"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=u2Wisozeoas"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Content centric architecture and distributed versioning"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Stani Michels"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=-LacRC48ja4"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Phatch"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Christopher Adams"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=jxg16Z0dNyE"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Elements of Typographic Freedom: Open Sources of Extraordinary Design"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Mirko Tobias Schaefer"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=l55_QRjSQlQ"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Designing a Better Tomorrow: How design is informed by metaphors, images and associations of social progress"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Crossland"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=ymdQLAMoZ10"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Cantarell: Designing Typefaces Using Only Free Software"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Igor Novikov"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=WBZxxIK9K9o"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "sK1 Project: Past, Present and Future"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Tom Lechner"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=zLKjdUGu02A"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Laidout and Desktop Publishing"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Luk\u00e1\u0161 Tvrd\u00fd"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Ib2C0RVhMC0"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Writing brush engines for fun and profit!"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jakub Steiner"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=6B6HW6iXKCU"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Icon Workflows with Inkscape"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Frederik De Bleser", 
+          "Tom De Smedt", 
+          "Lucas Nijs"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=XPfyeby97Bk"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Generative Node-based Design With NodeBox 2"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Peter Linnell"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=j0r4WjPcUoE"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Scribus"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ton Roosendaal"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=9jRERuIVzjU"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Blender Foundation, past and future"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Marcus Holland- Moritz"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=58VdlCugCzI"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "How I made a free New Zealand coffee-table book using lots of Free Software"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ricardo Lafuente"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=_0t8qDDrJCM"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Coding pictures with Shoebot"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Pete Ippel"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=lp6FoS3cc18"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "The New Folk Tradition: Aesthetic and Community Resonance between Open Source Graphics and Fiber Arts"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Steve Conklin"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=J_4HR2zxTCQ"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Multi-touch support in Ubuntu"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Alexandre Prokoudine"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=qG0R80Uu7TA"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Digital photography workflow on Linux with darktable"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ana Carvalho"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=9UPLBI3QUGY"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Plana, publishing illustration and comics with floss"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Paul Rouget"
+        ], 
+        "year": [
+          2010
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Mozilla Open Web Graphics"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "ginger coons"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=MOxUxipmcvM"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "The Open Colour Standard: Physical colour for F/LOSS"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andy Fitzsimon"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Q1Cj4rD5CiQ"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Inkscape for everybody"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Eric Schrijver"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=jPLn0oqmQ4M"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Graphic Design and the Wide Open Space"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jon A. Cruz"
+        ], 
+        "year": [
+          2010
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Viaduct - connecting apps and resources in a user friendly way"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Bassel Safadi", 
+          "Jon Phillips"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=DfDzlHbM908"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Joining Spirits with Aiki Framework: The New Web Engine for Open Clip Art Library"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nathan Willis"
+        ], 
+        "year": [
+          2010
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Q7rWDKrNmYY"
+        ], 
+        "city": [
+          "Brussel"
+        ], 
+        "title": [
+          "Open Source Graphics and Web Services: A panel discussion"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
           "Michael Terry"
         ], 
         "year": [
@@ -5392,6 +6222,652 @@
         ], 
         "title": [
           "Why Color Management matters to Open Source and to You"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Gregory Pittman"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=s3YNYfDutLY"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Scribus: The Official Manual"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Crossland"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=SLAtWMQ1JE8"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Towards a Collaborative WebOS"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andreas Vox"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Zg8fdZDJ1BE"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Future Directions for Scribus - An Open Discussion"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ludivine Loiseau"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=_3D5RJmyNPI"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "One Open Source Publishing year, or"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Alessandro Rimoldi"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=8UgHAyyD1_I"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Libre graphics teaching and certificating"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jon Phillips"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=9BQ4BN21cUk"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Creating in the Cloud and Other Tales of Design Realidad"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ginger Coons"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=7lmaKKLsqqc"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Ownership and Standards: Why Designers are Slow to Adopt Open Source"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jean-Fran\u00e7ois Fortin Tam"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=orqpGiyn_Ng"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "How to Inflict Trauma on your Audience"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Benoit St-Andr\u00e9"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=oJJ_sCr2A14"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Discussion about the Impacts of Design Decision on Software Usage and Adoption"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "peter sikking"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=1oFLUPe9AF8"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "GIMP UI: taking some big issues by the horns"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "St\u00e9phane Graber"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=UgF_B0Mbz7M"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Keeping in touch with Ubuntu"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andrew Waring"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=gsdGCJjsPNk"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Open Source and Money: Not Mutually Exclusive"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Markus Weiland"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=LthRwGfxzQc"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "FacetZoom"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andrew Mihal"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=YsZYOvHteFE"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Enblend/Enfuse Technology Talk"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Martin Poirier"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=7u_vsOavrMI"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Blender Dev Talk: 2.5 and looks on the future"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jon Cruz"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=cWSon4E2FdY"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Inkscape v0.47 and Beyond"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Pierre Marchand"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=omvaHnO7jDI"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Selecting fonts"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Doug Schepers"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Eq1F9Z33o-U"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "SCOUR: an SVG scrubber"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Michael Terry"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=PxH87wzcZIU"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Kinematic Templates"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Kaveh Bazargan"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=7HI7n_vzrak"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Running a business around free software"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andrew Mihal"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=kDW5pDdZSPM"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Nona-GPU: Image Remapping on the Graphics Processor"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nicolas Robidoux"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=YMZJvfJJrKo"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "VIPS: An image processing system for large, and not so large, images"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jean-Fran\u00e7ois Fortin Tam"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=GFbX2pjNtXU"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "PiTiVi: an overview of a FOSS video editor's history and design"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Bassam Kurdali"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=LyTvRepbgf4"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Short Tube, Free Pipeline Distributed animation Production using Blender and Helga"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Crossland"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=oNLg9j8KGhg"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Open Font Library 2.0"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Chris Lilley"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=OJ08PbgC9P4"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Fonts, formats, CSS and libre graphics"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Yuval Levy"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=e1KldKC1g78"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Vedutismo Nuovo: New Tools for Panoramic Perspective Control"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Bassam Kurdali"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=jg0zsbV8KUc"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Video Editing with Blender for non 3D artists, using examples from real projects"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Igor Novikov"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=rUViWp-UJQ4"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "sK1 v0.9: ready for prepress!"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "\u00d8yvind Kol\u00e5s"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=e3AXSwQ0UeQ"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Stopmotion"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Crossland"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=IyLoyQs-3-I"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Shoebot"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nicolas Spalinger"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=BGOd9uknZEc"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "libre/open font community: the challenges"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Cedric G\u00e9my"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=WQyPaXqDjbo"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Made With Floss"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andy Fitzsimon"
+        ], 
+        "year": [
+          2009
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=bEAJHIH88_0"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Remote talk"
         ]
       }
     }, 
