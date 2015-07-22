@@ -155,3 +155,11 @@ More things to do:
 Interesting case of multiple titles -- for two talks in a single video
 (Crossland / Spalinger 2007)
 A reason to go back to handling multiple titles (as in fact it's a nice example of why that's useful)
+
+Right. Looking good. Added inter links (names + years). Titles index remains a bit of an outlier (the most "pure index" as it doesn't consider any other grouping.)
+
+Next steps: implementing "List under..." for names...
+* Simple: Create a separate document.
+* Advanced: How to make editing "in-document" possible (requiring a document join)
+
+REVISIT group by: Make work with jinja groupby if possible

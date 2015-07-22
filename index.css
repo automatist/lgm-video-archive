@@ -40,7 +40,7 @@ li {
     text-indent: -0.66em;
     margin-right: 2em;
 }
-li a {
+li .links a {
 	color: black;
 	text-transform: uppercase;
 	text-decoration: none;
@@ -60,9 +60,12 @@ li a {
 
 }
 
-h2.value,h2.letter {
+.index_years h2.value, .index_years h2.letter {
 	float: left;
 	clear: both;
+}
+
+h2.value, h2.letter {
 	text-transform: uppercase;
     font-family: 'OSP-DIN';
     font-weight: bold;
@@ -83,7 +86,7 @@ h3.presenter {
 	margin-bottom: 0em;
 }
 
-.listing {
+.index_years .listing {
 	/*-moz-column-count: 4;*/
 	float: left;
 	clear: both;

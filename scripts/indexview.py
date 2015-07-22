@@ -3,6 +3,7 @@ import json, sys
 from argparse import ArgumentParser
 from jinja2 import Environment, FileSystemLoader
 from wikify import wikify, markdown
+from math import ceil
 
 def norm (v):
 	if type(v) == unicode or type(v) == str:
@@ -74,11 +75,6 @@ if args.groupbyletter:
 		curletter_by_value.append((v, items))
 	# items_by_value = items_by_letter
 
-env = Environment(loader=FileSystemLoader(args.templatedir))
-# env.filters['wikify'] = wikify
-env.filters['markdown'] = markdown
-from math import ceil
-
 def columnize (items, columns=2):
 	ret = [None for x in range(columns)]
 	# ret = []
@@ -98,7 +94,16 @@ def columnize (items, columns=2):
 	# 	if c>= columns:
 	# 		c = 0
 	return ret
+
+def idify (n):
+	n = unicode(n)
+	return n.replace(" ", "_")
+
+env = Environment(loader=FileSystemLoader(args.templatedir))
+# env.filters['wikify'] = wikify
+env.filters['markdown'] = markdown
 env.filters['columnize'] = columnize
+env.filters['idify'] = idify
 template = env.get_template(args.template)
 
 if args.groupbyletter:

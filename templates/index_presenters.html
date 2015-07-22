@@ -5,7 +5,7 @@
 	<meta charset="utf-8" />
 	<link rel="stylesheet" href="index.css" />
 </head>
-<body>
+<body class="index_presenters">
 <h1 class="head">Libre Graphics Meeting: Presentations</h1>
 <div class="sort">
 	list by: <a href="index_years.html">year/city</a>
@@ -16,12 +16,12 @@
 <div class="listing">
 <h2 class="letter">{{letter}}</h2>
 <ul>{% for value, items in items_by_value %}
-	<h3 class="presenter value">{{value}}</h3>
+	<h3 class="presenter value" id="{{value|idify}}">{{value}}</h3>
 	{% for item in items %}
 	<li>
-		<span class="title">{{ item.properties.title[0] }}</span> <span class="yearcity">({{item.properties.year[0]}} {{item.properties.city[0]}})</span>
+		<span class="title">{{ item.properties.title[0] }}</span> <span class="yearcity">(<a href="index_years.html#{{item.properties.year[0]|idify}}">{{item.properties.year[0]}} {{item.properties.city[0]}}</a>)</span>
 		<span class="presenters">
-			{% for p in item.properties.presenter if p != value %}{% if loop.first %}with: {%endif%}{{ p }}{% if not loop.last %},{% endif %} {% endfor %}</span>
+			{% for p in item.properties.presenter if p != value %}{% if loop.first %}with: {%endif%}<a href="#{{p|idify}}">{{ p }}</a>{% if not loop.last %},{% endif %} {% endfor %}</span>
 		<span class="links">
 			{% for link in item.properties.video %}<a href="{{link}}">Video</a> {% endfor %}
 			{% for link in item.properties.slides %}<a href="{{link}}">Slides</a> {% endfor %}
