@@ -148,3 +148,10 @@ How the the transcoding of the FLV files, for instance (as well as the youtube m
 More things to do:
 * Make names clickable
 * Manually create columns (for proper wrapping)
+
+
+22 July
+========
+Interesting case of multiple titles -- for two talks in a single video
+(Crossland / Spalinger 2007)
+A reason to go back to handling multiple titles (as in fact it's a nice example of why that's useful)

@@ -6874,6 +6874,22 @@
     {
       "properties": {
         "presenter": [
+          "Kamila Giedroj\u0107"
+        ], 
+        "year": [
+          2008
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Opening Talk"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
           "Pablo d'Angelo"
         ], 
         "year": [
@@ -6972,6 +6988,9 @@
         "year": [
           2008
         ], 
+        "video": [
+          "https://www.youtube.com/watch?v=soBLKkwJUWI"
+        ], 
         "city": [
           "Wroc\u0142aw"
         ], 
@@ -7017,6 +7036,438 @@
     }, 
     {
       "properties": {
+        "presenter": [
+          "Boudewijn Rempt"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=e43tuaRAemg"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Natural media simulation: the field, free software and the future"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Pablo d' Angelo"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=qNypPHUHtvI"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Hugin workshop"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Peter Linnell"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=mNwYsUti_6w"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Scribus Presentation"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andy Fitzsimon"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=WY9qAoBbujk"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Publican, the new Open Source publishing tool-chain"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ricardo Lafuente"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=ish4VPaZQUQ"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Type design strategies with free software"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Michael Dominic Kostrzewa"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=uo89MeOywfw"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Programmers hell: working with the UI designer"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "C\u00e9dric G\u00e9my"
+        ], 
+        "year": [
+          2008
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Live creation of a magazin using Inkscape+Gimp+Blender+Scribus"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Louis Desjardins"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=73NmkuIozhA"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Scribus Demo - text and image manipulation, pdf output, interaction with printing world"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Karl Stiefvater"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=lctM-gYclA0"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Open Source in Second Life"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "H\u00e5kon Wium Lie"
+        ], 
+        "year": [
+          2008
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "WebFonts: changing the face of the web"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Peter Sikking"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=CTsQw__Bszo"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "GIMP: a new simple interface for a complex application"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andy Fitzsimon"
+        ], 
+        "year": [
+          2008
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          " New Inkscape features and other cool things"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Pierre Marchand"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=xVtWgbycRa0"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Managing fonts, experimenting with text display"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Emanuele Tamponi"
+        ], 
+        "year": [
+          2008
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "A realistic color model for representing pigment"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Gilles Caulier"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=A1Q3x4JaSbA"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Photo-management under Linux with digiKam"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Carl Worth"
+        ], 
+        "year": [
+          2008
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "What cairo has to offer now (with 1.6.0) and where it's going,(colour management, extended PDF capability, hardware acceleration, etc.)"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Liam Quin"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=_qAGfkwj9wI"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Proposal, shared type/text specification for the desktop"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dariusz Dawidowski"
+        ], 
+        "year": [
+          2008
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Working on Apricot"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "C\u00e9dric G\u00e9my"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=i-kPnCfLn5U"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Blender for retouching photo"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Udi Fuchs"
+        ], 
+        "year": [
+          2008
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "UFRaw"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Michael Terry"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=HzpwSSWCq9Y"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "ingimp 1 Year Later: Initial Data Analyses and Lessons Learned"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Coffin"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=_AcYEuyMUvw"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Presenation about DCRaw"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Michalem Krupa"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=d8FrEZ35U9U"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Wykorzystanie blendera w postprodukcji filmowej i telewizyjnej"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=sktASvT-kSU"
+        ], 
+        "title": [
+          "Closing talk, landing, sharing thoughts, what's to come next year."
+        ]
+      }
+    }, 
+    {
+      "properties": {
         "city": [
           "Montr\u00e9al"
         ], 
@@ -7034,6 +7485,22 @@
         ], 
         "audio": [
           "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Alain Boucher"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Les archives num\u00e9riques\u00a0: d\u00e9fis et perspectives - A presentation on digital archives issues"
         ]
       }
     }, 
@@ -7086,6 +7553,22 @@
     }, 
     {
       "properties": {
+        "presenter": [
+          "Judith Beaudoin"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "A GIMP overview"
+        ]
+      }
+    }, 
+    {
+      "properties": {
         "city": [
           "Montr\u00e9al"
         ], 
@@ -7112,11 +7595,78 @@
     }, 
     {
       "properties": {
+        "presenter": [
+          "Liam Quin"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Why W3C XSL-FO 2.0 is Important"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Alexandre Robin"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "An Inkscape overview"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Bryce Harrington"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Inkscape\u2019s history, current state, and goals"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Benoit St-Andr\u00e9"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Contributing without coding"
+        ]
+      }
+    }, 
+    {
+      "properties": {
         "city": [
           "Montr\u00e9al"
         ], 
         "title": [
           "Creating photo-realistic artwork based on photo reference (Inkscape)"
+        ], 
+        "presenter": [
+          "Jakub Steiner"
         ], 
         "video": [
           "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
@@ -7124,11 +7674,572 @@
         "year": [
           2007
         ], 
-        "speaker": [
-          "Jakub Steiner"
-        ], 
         "audio": [
           "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Igor Novikov"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "CDR format reverse engineering"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Alexandre Robin"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "A Scribus overview"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Scribus: Open Source Desktop Publishing/"
+        ], 
+        "presenter": [
+          "Peter Linnell"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-6-Peter_Linnell.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-6-Peter_Linnell.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Past, present and future of Scribus\u2019 text-layout features"
+        ], 
+        "presenter": [
+          "Andreas Vox"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-7-Andreas_Vox.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-7-Andreas_Vox.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Benoit St-Andr\u00e9"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "An OpenClipart overview"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Harrisson", 
+          "Femke Snelting"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Relaying Systems \u2013 Why designers should be interested in FLOSS"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Digital Photography with libre Software: RAW, metadata, workflow and asset management"
+        ], 
+        "presenter": [
+          "Hubert Figui\u00e8re"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-1-Hubert_Figui%C3%A8re.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-1-Hubert_Figui%C3%A8re.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Karine Delvare"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Contributing to an Open Source project, taking GIMP as an example. Part I"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "General Blender presentation"
+        ], 
+        "presenter": [
+          "Martin Poirier"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-2-Martin_Poirier.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-2-Martin_Poirier.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Karine Delvare"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Contributing to an Open Source project, taking GIMP as an example. Part II"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Ingimp: An instrumented version of GIMP to automatically collect usability data"
+        ], 
+        "presenter": [
+          "Michael Terry"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-3-Michael_Terry.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-3-Michael_Terry.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "C\u00e9dric Gemy"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Working with Open Standards and FLOSS (Inkscape, Gimp, Blender, Scribus)"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Krita, its history, current state and goals"
+        ], 
+        "presenter": [
+          "Boudewijn Rempt", 
+          "Cyrille Berger"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-4-Rempt_Berger.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-4-Rempt_Berger.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Our first year of graphic design ... 100 % open source"
+        ], 
+        "slides": [
+          "http://blogue.jaunorange.com/index.php?post/2007/05/08/Notre-premiere-annee-de-graphisme-100-libre"
+        ], 
+        "presenter": [
+          "Alexandre Robin"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-5-Alexandre_Robin.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-5-Alexandre_Robin.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "OpenRaster: a new file format to fully share complex raster graphics between applications"
+        ], 
+        "presenter": [
+          "Cyrille Berger"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-a-Cyrille_Berger.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-a-Cyrille_Berger.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Free Software Fonts", 
+          "The Open Font License, purpose, achievements, future"
+        ], 
+        "presenter": [
+          "Dave Crossland", 
+          "Nicolas Spalinger"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-6-Crossland_Spalinger.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-6-Crossland_Spalinger.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Creating Comics in Inkscape"
+        ], 
+        "slides": [
+          "http://www.coswellproductions.org/computers/lgm_2007/libre_graphics_meeting_2007_presentation.html"
+        ], 
+        "presenter": [
+          "MenTaLguY", 
+          "John Bintz"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-9-Mental_Bintz.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-9-Mental_Bintz.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Photo management and editing with F-Spot and GIMP"
+        ], 
+        "presenter": [
+          "Jakub Steiner"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-7-Jakub_Steiner.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-7-Jakub_Steiner.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Peter Linnell"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Scribus for print professionals"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Newspaper publishing with Open Source software"
+        ], 
+        "presenter": [
+          "Rapha\u00ebl Meltz"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-8-Rapha%C3%ABl_Meltz.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-8-Rapha%C3%ABl_Meltz.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "GEGL \u2013 a graph based image processing and compositing engine. A presentation of capabilities, data model, public API and an overview of opportunities for internal optimisations and enhancements"
+        ], 
+        "presenter": [
+          "\u00d8yvind Kol\u00e5s"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-1-%C3%98yvind_Kol%C3%A5s.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-1-%C3%98yvind_Kol%C3%A5s.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "C\u00e9dric Gemy"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Why use FLOSS for professional works?"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Creating an Open Movie and production pipeline with free software"
+        ], 
+        "presenter": [
+          "Bassam Kurdali"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-2-Bassam_Kurdali.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-2-Bassam_Kurdali.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Yuval Levy"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Production workflows for 360\u00b0 panoramas and how to increase the share of open source code in the workflow"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "An Open Source illustration program for prepress"
+        ], 
+        "presenter": [
+          "Igor Novikov"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-3-Igor_Novikov.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-3-Igor_Novikov.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Communication design in every language \u2013 designing product materials purely in open source"
+        ], 
+        "presenter": [
+          "Andy Fitzsimon"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-4-Andy_Fitzsimon.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-4-Andy_Fitzsimon.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "David Maxwell"
+        ], 
+        "year": [
+          2007
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Static Analysis results on graphics software"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "The Open Content Library: Overview of Open Clip Art Library and ccHost"
+        ], 
+        "slides": [
+          "http://rejon.org/2007/05/06/lgm-2007/"
+        ], 
+        "presenter": [
+          "Jon Phillips"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-5-Jon_Phillips.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-5-Jon_Phillips.audio.ogg"
         ]
       }
     }
