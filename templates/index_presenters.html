@@ -16,18 +16,20 @@
 <div class="listing">
 <h2 class="letter">{{letter}}</h2>
 <ul>{% for value, items in items_by_value %}
-	<h3 class="presenter value" id="{{value|idify}}">{{value}}</h3>
+	<div itemscope>
+	<h3 class="presenter value" id="{{value|idify}}" itemprop="name">{{value}}</h3>
 	{% for item in items %}
-	<li>
-		<span class="title">{{ item.properties.title[0] }}</span> <span class="yearcity">(<a href="index_years.html#{{item.properties.year[0]|idify}}">{{item.properties.year[0]}} {{item.properties.city[0]}}</a>)</span>
+	<li itemscope itemprop="item">
+		<span class="title" itemprop="title">{{ item.properties.title[0] }}</span> <span class="yearcity">(<a href="index_years.html#{{item.properties.year[0]|idify}}">{{item.properties.year[0]}} {{item.properties.city[0]}}</a>)</span>
 		<span class="presenters">
-			{% for p in item.properties.presenter if p != value %}{% if loop.first %}with: {%endif%}<a href="#{{p|idify}}">{{ p }}</a>{% if not loop.last %},{% endif %} {% endfor %}</span>
+			{% for p in item.properties.presenter if p != value %}{% if loop.first %}with: {%endif%}<a href="#{{p|idify}}"><span itemprop="other_presenter">{{ p }}</span></a>{% if not loop.last %},{% endif %} {% endfor %}</span>
 		<span class="links">
-			{% for link in item.properties.video %}<a href="{{link}}">Video</a> {% endfor %}
-			{% for link in item.properties.slides %}<a href="{{link}}">Slides</a> {% endfor %}
-			{% for link in item.properties.website %}<a href="{{link}}">Website</a> {% endfor %}
+			{% for link in item.properties.video %}<a itemprop="video" href="{{link}}">Video</a> {% endfor %}
+			{% for link in item.properties.slides %}<a itemprop="slides" href="{{link}}">Slides</a> {% endfor %}
+			{% for link in item.properties.website %}<a itemprop="website" href="{{link}}">Website</a> {% endfor %}
 		</span>
 	</li>{%endfor %}{% endfor %}
+	</div> <!-- itemscope -->
 </ul>
 </div>
 {%endfor%}

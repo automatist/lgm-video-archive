@@ -163,3 +163,8 @@ Next steps: implementing "List under..." for names...
 * Advanced: How to make editing "in-document" possible (requiring a document join)
 
 REVISIT group by: Make work with jinja groupby if possible
+
+THOUGHTS
+It's good to separate the question of document joins (and truly editable documents) from (simply) publishing with a document based workflow (ie makefile based web publishing). It's much easier to "simply" build tools that encourage a workflow and allow simple wiki like "upstream" editing (ie without bring a reversible flow into the picture).
+
+IN LGM: it does make sense to "repeat" microdata, as imagining a network visualisation, would make sense based on the grouped by people document.
