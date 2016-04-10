@@ -28,6 +28,7 @@
 [submodule "lib/cssselect2"]
 	path = lib/cssselect2
 	url = https://github.com/SimonSapin/cssselect2.git
+
 [submodule "htdocs-2015-static"]
-	path = 2015/htdocs-2015-static
+	path = 2015
 	url = git@github.com:automatist/htdocs-2015-static.git
