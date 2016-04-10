@@ -1,30 +1,33 @@
 [submodule "htdocs-2006-static"]
-	path = htdocs-2006-static
+	path = 2006
 	url = git@github.com:automatist/htdocs-2006-static.git
 [submodule "htdocs-2007-static"]
-	path = htdocs-2007-static
+	path = 2007
 	url = git@github.com:automatist/htdocs-2007-static.git
 [submodule "htdocs-2008-static"]
-	path = htdocs-2008-static
+	path = 2008
 	url = git@github.com:automatist/htdocs-2008-static.git
 [submodule "htdocs-2009-static"]
-	path = htdocs-2009-static
+	path = 2009
 	url = git@github.com:automatist/htdocs-2009-static.git
 [submodule "htdocs-2010-static"]
-	path = htdocs-2010-static
+	path = 2010
 	url = git@github.com:automatist/htdocs-2010-static.git
 [submodule "htdocs-2011-static"]
-	path = htdocs-2011-static
+	path = 2011
 	url = git@github.com:automatist/htdocs-2011-static.git
 [submodule "htdocs-2012-static"]
-	path = htdocs-2012-static
+	path = 2012
 	url = git@github.com:automatist/htdocs-2012-static.git
 [submodule "htdocs-2013-static"]
-	path = htdocs-2013-static
+	path = 2013
 	url = git@github.com:automatist/htdocs-2013-static.git
 [submodule "htdocs-2014-static"]
-	path = htdocs-2014-static
+	path = 2014
 	url = git@github.com:automatist/htdocs-2014-static.git
 [submodule "lib/cssselect2"]
 	path = lib/cssselect2
 	url = https://github.com/SimonSapin/cssselect2.git
+[submodule "htdocs-2015-static"]
+	path = 2015/htdocs-2015-static
+	url = git@github.com:automatist/htdocs-2015-static.git
